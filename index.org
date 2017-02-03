@@ -84,3 +84,16 @@ However links in the Primer are layered into a stack:
 ** Rulesets
 ** Duck Tests
 
+* Organization
+
+ - topicspaces
+ - blob tree
+
+* Maps vs Source
+
+This repo is the source code for the Primer -- when it is
+compiled, all of the rule sets and ducktests will be applied
+and cascade and generate an index which can be imported into
+a graph database, and formated articles in a variety of
+formats from plain text, html, LaTex (pdf) etc.
+
