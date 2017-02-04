@@ -97,12 +97,13 @@ and cascade and generate an index which can be imported into
 a graph database, and formated articles in a variety of
 formats from plain text, html, LaTex (pdf) etc.
 
-* Navigate a Labryinth
+* Navigating a Labryinth
 
   - ariandies string
   - breadcrumbs
 
-The primer can be thought of as a /rhizomatic/ /labyrinth/ 
+The primer can be thought of as a /threaded rhizomatic
+labyrinth/.  For modern  
 
 #+begin_quote
 But he soon found to his dismay that the treatment of the
@@ -134,19 +135,82 @@ to construct heir stories with such a multitude of members
 as though they meant to produce a monster rather than a
 well-proportioned figure.'
 
-Eugène Vinaver Vinaver | The Works of Sir Thomas Malory v1.pg lxiv-lxv.
+The real question is, however, whether neglect of
+/structure/ in the modern sense of the term neccessarily
+implies that absence of a /method of composition/. Gröber may
+have blamed the cycle works for their lack of a
+/Grundgedanke/, Cervantes may have thought them 'monsterous'
+because they formed no consistent whole; but it remains to
+be seen whether the criteria of a /Grundgedanke/ or of a
+'well-proportioned figure' are not in this case misleading,
+and weather behind the apparent deformity and incoherence of
+the prose romances there is not to be found an architectual
+design so unlike our own conception of a story that we
+inevitably fail to percieve it.  One /a priori/ reason for
+suspecting the existence of such a design is that if each
+branch of the Cycle were a mere collection of episodes
+haphazzardly put together, the Cycle would naturally fall
+into as many independent sections.  In reality, the reverse
+is the case; none of the branches of the Cycle can be
+conveniently subdivided, and no subdivisions exist in the
+manuscripts.  Apart from certain interpolations which can
+easily be detached from the main body of the work, few of
+the episodes if any, appear as self-contained units. 'Aucune
+aventure', writes Ferdinand Lot, 'ne forme un tout se
+suffisant à lui-même.  D'une part, des èpisodes antérieurs,
+laissés provisoirement de côté, y prolongent des
+ramifications' d'autre part, des épisodes sebséquents,
+proches ou lointains, y sont ameorcés'[1]  Judged by our
+standards this would seem to be a strange paradox.  On the
+one hand, the prose romances are admittedly, the very
+negation of the classical principle of composition: the
+beginning does not 'agree' with the middle, nor the middle
+with the end; on the other, they seem to obey the age-long
+rule that no part can be removed without effecting the
+whole.  There must, then be something which binds them
+together, invisible though it is to the modern eye: some
+peculiar device which, while making the various parts of the
+Cycle inseparable from one another, fails to weld them into
+an harmonious whole.
+
+Perhaps the easiest way to discover the nature and the
+working of this device is to draw an analogy with the
+technique of tapestry.  Just as in a tapestry each thread
+alternates with an endless variety of others, so in the
+early prose romances of the Arthurian group numerous
+seemingly indepdendent episodes or 'motifs' are interwoven
+in a matter which makes it impossible for each episode to be
+set aside at any moment and resumed later.  No single
+stretch of such a narrative can be complete in itself any
+more than a stitch of such a narrative can be complete in
+itself a woven fabric; the sequel may appear at any moment,
+however long the interval.  But the resemblance goes
+further, for unlike the finished tapestry, a branch of prose
+romance has as a rule no natural conclusion; when the author
+brings it to a close he simply cuts the threads at
+arbitrarily chosen points, and anyone who chooses to pick
+them up and interweave them in a simular fashion cancontine
+the work indefinitely. Hence the 'multitude of members' and
+the prodigious growth of the Arthurian tradition enlarged at
+each stage of its progress by continuations of earlier works.
+
+-- Eugène Vinaver Vinaver | The Works of Sir Thomas 
+   Malory v1.pg lxiv-lxvii.
 
 /The Works of Sir Thomas Malory/. Ed. Vinaver, Eugène
 (1967). 2nd ed. 3 vol. Oxford: Clarendon Press. [[https://en.wikipedia.org/wiki/Special:BookSources/0198118384][ISBN 0-19-811838-4]].
 
-:SEE: [[https://en.wikipedia.org/wiki/Le_Morte_d%27Arthur][Le Morte d'Arthur]] | Wikipedia
+:SEE: [[https://en.wikipedia.org/wiki/Le_Morte_d%27Arthur][Le Morte d'Arthur]] | Wikipediaq
 
 [[https://en.wikipedia.org/wiki/Gustav_Gr%C3%B6ber][Gustav Gröber]]  | Wikipedia
 [[https://en.wikipedia.org/wiki/Eug%C3%A8ne_Vinaver][Eugène Vinaver]] | Wikipedia
+
+
+[1] Does not form a whole sufficient to itself. On the one
+hand, earlier episodes, temporarily left aside, prolong
+desramifications, and on the other hand, sequent episodes,
+close or distant, are brought to light
 #+end_quote
-
-
-
 
 
 
