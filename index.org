@@ -99,11 +99,13 @@ formats from plain text, html, LaTex (pdf) etc.
 
 * Navigating a Labryinth
 
-  - ariandies string
-  - breadcrumbs
+  - Ariadne's thread
+  - Hansel and Gretal's Breadcrumbs
 
 The primer can be thought of as a /threaded rhizomatic
-labyrinth/.  For modern  
+labyrinth/.  To the modern eye, even after being exposed
+(subjected:) to encyclopedia narratives such as Gravity's
+Rainbow, this is still difficult to get one's head around.
 
 #+begin_quote
 But he soon found to his dismay that the treatment of the
@@ -194,23 +196,181 @@ the work indefinitely. Hence the 'multitude of members' and
 the prodigious growth of the Arthurian tradition enlarged at
 each stage of its progress by continuations of earlier works.
 
--- Eugène Vinaver Vinaver | The Works of Sir Thomas 
-   Malory v1.pg lxiv-lxvii.
+-- v1.pg lxiv-lxvii.
+
+Perhaps the most obvious difference between Old French epic
+romance and romance is that the latter, not content to
+/narrate/ events, endevours to /interpret/ them.  That this
+procedure should have been adopted in a what was essentially
+'learned' type of work -- and French courtly romance was
+primarily /un genre savant/ -- is not unnatural, but what
+made it inevitable was the intellectual background of
+courtly poets.  The search for unexpressed meaning was
+perhaps the principle feature of twelfth-century thought,
+almost equally noticeable in all spheres of learning.  It
+may have been considered by some a waste of time to indulge
+in such subleties as the attempt to find in the statement
+that Hyllus was the sone of Hercules the inner meaning that
+a valid argument comes from a bold and vigorous disputant,
+or in the five vowels the five pleas ofthe crown, the names
+of which happened each to have a different vowel in the
+second syllable; interpretation remained none the less the
+most widely recognized intellectual persuit.  Excellent
+practice in it was provided by /grammatica/, the first
+member of the Trivium, which had pride of place in the
+schools of Gaul from the seventh century to the eleventh and
+reigned supreme in the heyday of the school of Chartes, from
+1050 to 1150.  According to the classical definition
+formulated by Donatus (/scientia interpretandi poetas atque
+historicos et recte scribendi loquendique ratio/), repeated
+almost word for word in the ninth century by Maurus, and
+amplified by John o Salisbury in the twelth, /grammatica/
+was primarily concerned with the elucidation of authors; the
+proper use of language, both spoken and written, was a means
+to this end.  John of Salisbury's famous chapter /De usu
+legendi et prelegendi/ shows how the subject was taught.
+Pupils were encouraged above all to develop and pefect the
+crude substance (/rudem materiam/) of a story or an argument
+'with such abundance of learning and such elegance of
+composition an ornament that the work, brought to the
+highest perfection, seemed as it were the image of all
+arts.  The practice pf /grammetica, dulcis secretorum
+comes/, thus instilled in the pupils' minds what few, if any
+French epic poets possessed; the habit of expouding and
+elaborating a narrative discourse, of bringing out its
+significance, and so giving it new weight and attraction.
+This was at firt a habit of mind; but it soon become a habit
+of conception, equally prominent in religious and secular
+writings.  The 'otherworldliness' of medieval preaching was
+not an attitude of indifference to physical facts, but a
+call to see through them: in St. Bernard's words, to
+concieve of the visable world as 'full of supernal
+mysteries, abounding each in its special sweetness, if the
+eye that beholds be but attentive'; and in the opening lines
+of a simular benifit was held out to readers of any 'simple'
+story:
+
+   Servants of God, listen to the story: it is very simple
+   and seems unadorned, but it is full of meaning (sens) and
+   matter. The story is chaff, the meaning wheat; the
+   meaning is the fruit, the story the branch.  This book is
+   a chest in which are locked the hidden things of God.
+
+Applied to narrative poetry, this attitude of mind produced
+at first a strangely inflated form of explanatory digression
+such as is found in the early /romans d'antiquité/: Ovid's
+story of Pyramus and Thisbe became in its twelth-century
+French adaptation a series of redundent soliloquies; and in
+the French /Roman de Troie/ Achilles, the silent lover or
+Polyxena, was made to describe at unnecessarily great length
+the devestating effects of his passion.  But less then two
+decades later, in the romances of Chrétien of Troyes, the
+same method led to some truly remarkable results: in he
+recording of their reactions to each important turn f events
+the characters Chrétien's stories were able to display a
+subtley of thought and feeling far beyond and earlier
+attempts at characterization.  The 'hidden things', once
+skillfully revealed, ceased to be a mere subject of school
+exercises; they became a vital element of a new form of
+narrative art.
+
+But it is doubtful whether the literary genre thus created
+would have prospered as it did if it had not inherited at an
+early stage another feature of contemporary learning.  If
+/grammatica/ can be said to have shown how a given set of
+incidents could be explained and expanded, /rhetorica/, the
+second part of the Trivium, taught poets and story-tellers
+the proper use of imagination.  The discipline which in the
+later Middle-Ages was to be largely reduced to a mere
+stylistic ornamentation had not at that time lost its
+original composing function.  In a number of important works
+embodying the doctrine of the rhetoricians from by
+Quintilian onwards the term /colores rhetoricae/ refers, as
+in Cicero, not so much to formal elaboration as to the
+'treatment of the matter' from the speaker's or writer's
+point of view.  There is a signiificant agreement in this
+respect between Quintilian and the three great medieval
+scholars closely connected with the Gallic tradition of
+rhetoric: Sidonius Apollinaris, Martianus Capella and John
+of Salisbury. Sidonius Apollinaris insists on the use of
+'colours' because they 'provide boys' themese with pieces to
+weave in' and enable the orator to display his talent
+despite the meagerbess of his case.  Martianus Capella in
+his allegorical description of the seven arts speaks of
+rhetoric as /rerum omnium regina/ who has shown 'the power
+to move men whither she pleases, or whence, to bow them to
+tears, to incite them to rage, to transform the mien and
+feeling.  And John of Salisbury goes so far as to attribute
+to rhetoric the function normally assumed by /dialectica/:
+he uses the term /probani colores/ in the sense of
+'amplification of proof', and like his redecessors looks to
+rhetoric for means of persausion.  Rhetoric provided
+prospective romance writers with three main types of
+exercice.  First they were shown how to paraphrase some
+speeches in the /Aeniad/ (/loci Vergliani/); next came the
+/dictiones ethicae/, or solilioquies with which persons in
+history or mythology could be credited on certain
+occasions.  The third and most advanced stage of rhetorical
+training was reached in the /controversiae/, or
+disquistitions on general subjects, of which  there are many
+strikig examples in the letters of Sidonius Apollinaris.
+All this was, of course, originally intended for use in
+discourses, not in works of fiction, but in the common
+confusion between the notion of /narratio/ ('statement of
+facts in a discourse') and 'narrative', which can be traced
+as far back as Quintilian, helped to transfer to
+imagainative literature what was in reality a method of
+declamation, and the process was further facilitated by the
+fact that, as some passages of Sidonius clearly suggest,
+/declamatio/ was itself treated as a literary form alongside
+the /epos tragoediarum/, the /comoedia/, and the /satira/.
+Nothing seems more natural therefore, thanthat rhetorical
+devices should have been used for purposes of orginal
+composition.  And so, after having been trained by the
+grammarians to react to an articulate manner to works of
+Latin antiquety, romance writers were able to aquire from
+the rhetoricians the habit of expressing through a /fabula/
+or /historia/ a point of view of their own.
+
+This habit more than any other single factor helped to shape
+courtly romance.  Whatever the subject of the narrative, its
+function as conceived by the twelfth- and thirteenth-century
+poets is to serve as an expression of a certain type view of
+life which we usually describe as 'courtly' to translate in
+terms of actions and characters certain subtle varieties of
+ssentiment and highly sophisticated code of behaviour.  A
+romance might recall the legendary exploits of King Arthur's
+knights, or some imaginary event at the court of Byzantium,
+or again some episode placed in contemporary French setting;
+what it primarily endevours to do it not to give an
+impression of life in the lands and the times to which it
+subject-matter ostensibly belongs, but to use this
+subject-matter as a means of conveying a coherent system of
+ideas. 
+
+
+
+
+
 
 /The Works of Sir Thomas Malory/. Ed. Vinaver, Eugène
 (1967). 2nd ed. 3 vol. Oxford: Clarendon Press. [[https://en.wikipedia.org/wiki/Special:BookSources/0198118384][ISBN 0-19-811838-4]].
 
 :SEE: [[https://en.wikipedia.org/wiki/Le_Morte_d%27Arthur][Le Morte d'Arthur]] | Wikipediaq
 
-[[https://en.wikipedia.org/wiki/Gustav_Gr%C3%B6ber][Gustav Gröber]]  | Wikipedia
-[[https://en.wikipedia.org/wiki/Eug%C3%A8ne_Vinaver][Eugène Vinaver]] | Wikipedia
-
+[[https://en.wikipedia.org/wiki/Gustav_Gr%C3%B6ber][Gustav Gröber]]     | Wikipedia
+[[https://en.wikipedia.org/wiki/Eug%C3%A8ne_Vinaver][Eugène Vinaver]]    | Wikipedia
+[[https://en.wikipedia.org/wiki/John_of_Salisbury][John of Salisbury]] | Wikipedia
 
 [1] Does not form a whole sufficient to itself. On the one
 hand, earlier episodes, temporarily left aside, prolong
 desramifications, and on the other hand, sequent episodes,
 close or distant, are brought to light
 #+end_quote
+
+
+
+
 
 
 
