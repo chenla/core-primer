@@ -97,7 +97,10 @@ and cascade and generate an index which can be imported into
 a graph database, and formated articles in a variety of
 formats from plain text, html, LaTex (pdf) etc.
 
-* What's included in the Primer?
+* Navigate a Labryinth
+
+  - ariandies string
+  - breadcrumbs
 
 The primer can be thought of as a /rhizomatic/ /labyrinth/ 
 
@@ -117,7 +120,19 @@ prepared at any time to be diverted from it to other
 adventures and undertakings.  As a result, 'the basic
 thought became subsidiary, the episode increasingly
 prominent, the showing of the action defeated any attempt to
-reach an end and the story lost all purpose.'"
+reach an end and the story lost all purpose.' In these words
+Gustav Gröber described three-quarters of a century ago the
+methods used by medieval prose writers.  But there is reason
+to believe that at a much earlier date their methods were
+condemned on similar grounds, and the often quoted remark of
+the Canon of Toledo in /Don Quixote/ remains to this day the
+most characteristic epression of the modern view: 'I have
+never yet,' he says, 'seen in a book of chivalry complete in
+all its parts, so that the middle agrees with the beginning
+and the end with the beginning and the middle; but they seem
+to construct heir stories with such a multitude of members
+as though they meant to produce a monster rather than a
+well-proportioned figure.'
 
 Eugène Vinaver Vinaver | The Works of Sir Thomas Malory v1.pg lxiv-lxv.
 
@@ -129,6 +144,8 @@ Eugène Vinaver Vinaver | The Works of Sir Thomas Malory v1.pg lxiv-lxv.
 [[https://en.wikipedia.org/wiki/Gustav_Gr%C3%B6ber][Gustav Gröber]]  | Wikipedia
 [[https://en.wikipedia.org/wiki/Eug%C3%A8ne_Vinaver][Eugène Vinaver]] | Wikipedia
 #+end_quote
+
+
 
 
 
