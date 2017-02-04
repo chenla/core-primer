@@ -97,3 +97,45 @@ and cascade and generate an index which can be imported into
 a graph database, and formated articles in a variety of
 formats from plain text, html, LaTex (pdf) etc.
 
+* What's included in the Primer?
+
+The primer can be thought of as a /rhizomatic/ /labyrinth/ 
+
+#+begin_quote
+But he soon found to his dismay that the treatment of the
+chronicle material was singularly unlike wht he had see in
+the /Morte Arthure/.  Adventures were piled up one upon the
+other other without any apparent sequence or design, and
+innumerable personages, mostly anonymous, were introduced in
+a wild succession.  Every now and thenthey stopped to lay
+lance in rest and overthrow each other, and then swore
+eternal friendship and rode away.  The pupose of their
+encounters and pursuits was vague, and their tasks were
+seldom fulfilled: they met and parted and met again, each
+intent at first on following his particular 'quest', and yet
+prepared at any time to be diverted from it to other
+adventures and undertakings.  As a result, 'the basic
+thought became subsidiary, the episode increasingly
+prominent, the showing of the action defeated any attempt to
+reach an end and the story lost all purpose.'"
+
+Eugène Vinaver Vinaver | The Works of Sir Thomas Malory v1.pg lxiv-lxv.
+
+/The Works of Sir Thomas Malory/. Ed. Vinaver, Eugène
+(1967). 2nd ed. 3 vol. Oxford: Clarendon Press. [[https://en.wikipedia.org/wiki/Special:BookSources/0198118384][ISBN 0-19-811838-4]].
+
+:SEE: [[https://en.wikipedia.org/wiki/Le_Morte_d%27Arthur][Le Morte d'Arthur]] | Wikipedia
+
+[[https://en.wikipedia.org/wiki/Gustav_Gr%C3%B6ber][Gustav Gröber]]  | Wikipedia
+[[https://en.wikipedia.org/wiki/Eug%C3%A8ne_Vinaver][Eugène Vinaver]] | Wikipedia
+#+end_quote
+
+
+
+
+that is a /paedia/ of
+  descriptive and prescriptive topics which are made up of a
+  narratives, rulesets and media
+
+, authorities and library
+
