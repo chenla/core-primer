@@ -380,6 +380,7 @@ that is a /paedia/ of
 :CREATED:
 :BT:            top:English_Philosopers
 :TYPE:          typ:Person
+:OWNER:         identity/role
 :END:
 
 
@@ -387,18 +388,42 @@ that is a /paedia/ of
 
 :BT~:  add to local/personal list
 
+Entities are record types -- with a schema for what metadata
+must, should and can be included and rulesets for processing
+records.
+
 ** Initial Topicspaces
 
-  - folk: :: personal folksonomies
-  - wiki: :: wikipedia articles
-  - loc   :: loc authorities (title, authority, subject heading)
+*** Chenla
+  - bmf   :: global properties (relationships, entity types, metadata)
+  - work  :: created works
   - top   :: topics
   - per   :: persons
   - geo   :: locations
   - event :: events
-  - bmf   :: global properties (relationships, entity types, metadata)
   - rule  :: rule set
   - duck  :: duck tests
+  - blob  :: binary objects -- multimedia - media
 
-  - ISBN  ::
-  - DOI   ::
+*** External Authorities
+
+  - loc   :: loc authorities (title, authority, subject heading)
+  - wiki: :: wikipedia articles
+  - isbn  ::
+  - doi   ::
+
+*** Local Personal
+
+  - folk:   :: personal folksonomies
+  - link    :: 
+  - task    :: (includes alt names, In-Progress, Next, Work,
+                Done etc)
+  - ref     :: 
+  - note    :: (includes diary/journal)
+  - quote   :: 
+  - per~    :: (includes contacts 
+  - event~  :: (includes, appointments, anniverseries etc)
+  - work~   :: local documents
+  - blob~   :: local binary objects
+  - rule~   :: local cascading rule sets
+  - duck~   :: local cascading rule sets
