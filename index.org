@@ -366,14 +366,39 @@ close or distant, are brought to light
 #+end_quote
 
 
-
-
-
-
-
 that is a /paedia/ of
   descriptive and prescriptive topics which are made up of a
   narratives, rulesets and media
 
 , authorities and library
 
+* Properties & topicspaces
+:PROPERTIES:
+:ID:            c3b6190b-2202-4deb-af82-71d3c6d046dc
+:CUSTOM_ID:     per:Carl_Marx
+:VERSION:       (milliseconds from epoch)
+:CREATED:
+:BT:            top:English_Philosopers
+:TYPE:          typ:Person
+:END:
+
+
+:BT+:  add to list
+
+:BT~:  add to local/personal list
+
+** Initial Topicspaces
+
+  - folk: :: personal folksonomies
+  - wiki: :: wikipedia articles
+  - loc   :: loc authorities (title, authority, subject heading)
+  - top   :: topics
+  - per   :: persons
+  - geo   :: locations
+  - event :: events
+  - bmf   :: global properties (relationships, entity types, metadata)
+  - rule  :: rule set
+  - duck  :: duck tests
+
+  - ISBN  ::
+  - DOI   ::
