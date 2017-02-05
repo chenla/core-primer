@@ -409,21 +409,24 @@ records.
 
   - loc   :: loc authorities (title, authority, subject heading)
   - wiki: :: wikipedia articles
-  - isbn  ::
-  - doi   ::
+  - isbn  :: international standard book number
+  - doi   :: 
 
 *** Local Personal
 
   - folk:   :: personal folksonomies
-  - link    :: 
+  - link    :: bookmarks
+  - ref     :: local bibliography
   - task    :: (includes alt names, In-Progress, Next, Work,
                 Done etc)
-  - ref     :: 
   - note    :: (includes diary/journal)
+  - msg     :: message (email, tweet, sms, alert (notification), etc)
   - quote   :: 
   - per~    :: (includes contacts 
   - event~  :: (includes, appointments, anniverseries etc)
   - work~   :: local documents
   - blob~   :: local binary objects
   - rule~   :: local cascading rule sets
-  - duck~   :: local cascading rule sets
+  - duck~   :: local duck tests
+  - scholia :: 
+  - gloss   ::
