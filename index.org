@@ -353,7 +353,7 @@ pg lxxiv-lxxix
 /The Works of Sir Thomas Malory/. Ed. Vinaver, Eugène
 (1967). 2nd ed. 3 vol. Oxford: Clarendon Press. [[https://en.wikipedia.org/wiki/Special:BookSources/0198118384][ISBN 0-19-811838-4]].
 
-:SEE: [[https://en.wikipedia.org/wiki/Le_Morte_d%27Arthur][Le Morte d'Arthur]] | Wikipediaq
+:SEE: [[https://en.wikipedia.org/wiki/Le_Morte_d%27Arthur][Le Morte d'Arthur]] | Wikipedia
 
 [[https://en.wikipedia.org/wiki/Gustav_Gr%C3%B6ber][Gustav Gröber]]     | Wikipedia
 [[https://en.wikipedia.org/wiki/Eug%C3%A8ne_Vinaver][Eugène Vinaver]]    | Wikipedia
@@ -372,61 +372,4 @@ that is a /paedia/ of
 
 , authorities and library
 
-* Properties & topicspaces
-:PROPERTIES:
-:ID:            c3b6190b-2202-4deb-af82-71d3c6d046dc
-:CUSTOM_ID:     per:Carl_Marx
-:VERSION:       (milliseconds from epoch)
-:CREATED:
-:BT:            top:English_Philosopers
-:TYPE:          typ:Person
-:OWNER:         identity/role
-:END:
 
-
-:BT+:  add to list
-
-:BT~:  add to local/personal list
-
-Entities are record types -- with a schema for what metadata
-must, should and can be included and rulesets for processing
-records.
-
-** Initial Topicspaces
-
-*** Chenla
-  - bmf   :: global properties (relationships, entity types, metadata)
-  - work  :: created works
-  - top   :: topics
-  - per   :: persons
-  - geo   :: locations
-  - event :: events
-  - rule  :: rule set
-  - duck  :: duck tests
-  - blob  :: binary objects -- multimedia - media
-
-*** External Authorities
-
-  - loc   :: loc authorities (title, authority, subject heading)
-  - wiki: :: wikipedia articles
-  - isbn  :: international standard book number
-  - doi   :: 
-
-*** Local Personal
-
-  - folk:   :: personal folksonomies
-  - link    :: bookmarks
-  - ref     :: local bibliography
-  - task    :: (includes alt names, In-Progress, Next, Work,
-                Done etc)
-  - note    :: (includes diary/journal)
-  - msg     :: message (email, tweet, sms, alert (notification), etc)
-  - quote   :: 
-  - per~    :: (includes contacts 
-  - event~  :: (includes, appointments, anniverseries etc)
-  - work~   :: local documents
-  - blob~   :: local binary objects
-  - rule~   :: local cascading rule sets
-  - duck~   :: local duck tests
-  - scholia :: 
-  - gloss   ::
