@@ -80,6 +80,31 @@ otherwise.
   /I think we can find a quote here -- about beginnings/
 
 
+* This is not a love song -- PIL
+
+Not a school book, that will be covered the Trivium.
+
+This is a primer for the construction, and maintainence of /a
+civilization/.  Not civilization, as if civilizations were a sort of
+cognitive dissonance of mono-thiestic enterprises that embrace the
+existence of dieties yet denies even the existence of any other
+dieties even when the founding members of their cults thought
+otherwise... Nor is this a primer for the establishment of any
+specific civilization, which would be, as Buckminster Fuller
+understood, would just be parroting back the same things that got us
+into trouble in the fist place. 
+
+#+begin_verse
+There's nothing in the streets
+Looks any different to me
+And the slogans are replaced, by-the-bye
+And the parting on the left
+Are now parting on the right
+And the beards have all grown longer overnight
+
+-- Won't Get Fooled Again | Peter Townshend, 1971
+   [[https://en.wikipedia.org/wiki/Won%27t_Get_Fooled_Again][Won't Get Fooled Again]] | Wikipedia
+#+end_verse
 
 * Organization
 
