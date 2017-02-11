@@ -46,7 +46,45 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 #+HTML: </ul>
 #+HTML: </div>
 
-* Introduction
+* Introduction: The Book Read At Prime
+
+We start at Prime, the first cannonical hour, the hour of new
+beginnings, after our heads are clear of the night's entanglements and
+dream's digressions.  We start anew, at Prime, when everything is new,
+when it is as good a time as any to undertake long journeys with a
+full belly, a light step and dry socks.
+
+#+begin_quote
+Primer \Prim"er\, n. [Originally, the book read at prime, the
+first canonical hour. LL. primae liber. See Prime, n., 4.]
+
+   2. A small elementary book for teaching children to read; a
+      reading or spelling book for a beginner.
+      [1913 Webster]
+
+            As he sat in the school at his prymer. 
+            -- Chaucer. [1913 Webster]
+
+-- The Collaborative International Dictionary of English v.0.48 [gcide]:
+#+end_quote
+
+I've personally always thought of a primer in this sense, as a
+simplified introduction to a subject for people with no prior
+experience, knowledge or (and this is important) pre-disposition to,
+or pre-conceived notions about the subject under consideration.  It is
+hoped that readers here will bring with them a willingness to suspend
+belief and judge this primer on its own merits and not through any
+sort of ideological goggles, be they constructed from beer bottles or
+otherwise.
+
+  /I think we can find a quote here -- about beginnings/
+
+
+
+* Organization
+
+ - topicspaces
+ - blob tree
 
 The organization of encyclopedias is flat -- an encypledia is
 typically just a bunch of articles (JBOA) that are arranged
@@ -75,10 +113,6 @@ However links in the Primer are layered into a stack:
 ** Rulesets
 ** Duck Tests
 
-* Organization
-
- - topicspaces
- - blob tree
 
 * Maps vs Source
 
