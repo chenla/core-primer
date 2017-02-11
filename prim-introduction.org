@@ -48,12 +48,6 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction: The Book Read At Prime
 
-We start at Prime, the first cannonical hour, the hour of new
-beginnings, after our heads are clear of the night's entanglements and
-dream's digressions.  We start anew, at Prime, when everything is new,
-when it is as good a time as any to undertake long journeys with a
-full belly, a light step and dry socks.
-
 #+begin_quote
 Primer \Prim"er\, n. [Originally, the book read at prime, the
 first canonical hour. LL. primae liber. See Prime, n., 4.]
@@ -67,6 +61,13 @@ first canonical hour. LL. primae liber. See Prime, n., 4.]
 
 -- The Collaborative International Dictionary of English v.0.48 [gcide]:
 #+end_quote
+
+We start at Prime, the first cannonical hour, the hour of
+new beginnings, after our heads are clear of the previous
+night's entanglements and dream's digressions.  We start
+anew, at Prime, when everything is new, when it is as good a
+time as any to undertake long journeys with a full belly, a
+light step and dry socks.
 
 #+begin_quote
 *Primer* (pri mer, pre mer), /mid dot upside down e,r'/
