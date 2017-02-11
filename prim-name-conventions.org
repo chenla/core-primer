@@ -54,7 +54,7 @@ and naming things.
 
 -- Phil Karlton
    :source: https://martinfowler.com/bliki/TwoHardThings.html
-   quote was confimed by Tim Bray
+   quote was confimed by Tim Bray and others
 #+end_quote
 
 #+begin_quote
@@ -174,6 +174,7 @@ gives others, who practice the dark arts, to bring them to harm.
   - [[https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#National_varieties_of_English][Wikipedia:Manual of Style, National varieties of English]] 
   - [[https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view#Naming][Wikipedia:Neutral point of view § Naming]]
   - [[https://en.wikipedia.org/wiki/Wikipedia:Official_names][Wikipedia:Official names]] | essay
+
 
 * MARC
 
