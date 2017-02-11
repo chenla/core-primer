@@ -57,6 +57,22 @@ githubchart -u deerpig ./img/contrib.svg
 
 * Introduction
 
+These documents define how the Primer is structured
+and the rules and guidelines to build it.  They don't
+consitute the primer itself, which will be a collection of
+topicspaces, articles and threads.
+
+To use Wikipedia's nomenclature, these are the the Primer's
+/meta/ pages.  We're calling it Primer for now until we have
+a clear idea how base articles and threads will be
+structured and formated.  At that time these docs will be
+moved into a /primer-meta/ repository of their own.
+
+Even more meta than the /Primer Meta/ will be the BMF
+specfications that the Primer will be built on.
+
+Turtles all the way down indeed....
+
 * Index
 
  - [[./prim-introduction.org][Introduction]]
