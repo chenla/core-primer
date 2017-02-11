@@ -48,6 +48,61 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction
 
+#+begin_quote
+There are only two hard things in Computer Science: cache invalidation
+and naming things.
+
+-- Phil Karlton
+   :source: https://martinfowler.com/bliki/TwoHardThings.html
+   quote was confimed by Tim Bray
+#+end_quote
+
+#+begin_quote
+What is above all needed is to let the meaning choose the word, not
+the other way around.
+
+... the worst thing one can do with words is surrender to them.
+
+
+
+  - i.   Never use a metaphor, simile, or other figure of speech which
+         you are used to seeing in print.
+  - ii.  Never use a long word where a short one will do.
+  - iii. If it is possible to cut a word out, always cut it out.
+  - iv.  Never use the passive where you can use the active.
+  - v.   Never use a foreign phrase, a scientific word, or a jargon
+         word if you can think of an everyday English equivalent.
+  - vi.  Break any of these rules sooner than say anything outright
+         barbarous.
+
+
+
+-- George Orwell | Politics and the English Language
+   [[http://wikilivres.ca/wiki/Politics_and_the_English_Language][Politics and the English Language]] | Wikilivres
+   [[http://www.orwell.ru/library/essays/politics/english/e_polit/][George Orwell: Politics and the English Language]]
+#+end_quote
+
+
+#+begin_quote
+If you don't know what a thing should be called, you cannot know what
+it is.  If you don't know what it is, you cannot sit down and write
+the code."
+
+-- Sam Gardiner 
+#+end_quote
+
+
+
+
+
+Naming conventions are not to be taken lightly
+
+---
+
+- [[http://stackoverflow.com/questions/33497879/why-is-the-hardest-part-of-programming-is-naming-things][Why is the hardest part of programming is naming things?]] | Stack Overflow
+- [[http://www.slideshare.net/pirhilton/how-to-name-things-the-hardest-problem-in-programming][How to name things: the hardest problem in programming]] Peter
+  Hilton | Slideshare
+* Wikipedia Naming Conventions
 
   - [[https://en.wikipedia.org/wiki/Wikipedia:Article_titles][Wikipedia:Article titles]] | Wikipedia
 
