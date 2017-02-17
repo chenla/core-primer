@@ -327,11 +327,53 @@ individuals.
 
 ** Household Size
 
-Further,
-the village will be broken into /households/ that may or may
+The village will be broken into /households/ that may or may
 not represent a single family.
 
+One hypothesis that we would like to explore is that 
+humans tend to do better in larger household sizes.  This is
+not absolute -- there are positive and negative aspects to
+both large and small household sizes.
+
+Household sizes are largely determined by child mortality
+rates and average income.  The lower the mortality rate and
+the higher the income, the lower the household size.  But
+this also has to do with how the workforce is distributed --
+are people working in small shops, or big factories/offices?
+
+The problem is that traditionally, large families tend not
+to go far from the nest, in effect trapping people in
+villages.  Villages are, by definition, small and have
+limited opportunities.  If you have large families, only a
+few will get the benifit of inheriting the family business.
+
+Small families are, in theory, more mobile and can move to
+where there is more demand for labor.  This is how the
+industrial revolution broke the extended family and created
+the so-called single generation /nuclear family/.
+
+We will start on the large side at first -- and use
+Cambodia's 2017 average household size of 4.7 as a starting
+point.
+
+#+begin_src emacs-lisp
+(setq model/household-size  4.7) 
+#+end_src
+
+We expect that changing this number will dramatically effect
+the model in ways we can't predict at present.
+
+
 ** Poultry & Egg Sub-Model
+
+This will be spun off into a separate document.
+
+Our goal with the Poultry & Egg Submodel is to determine:
+
+  - how much chicken & eggs the model village consumes
+  - how much chicken & eggs the village will produce
+  - how much chicken & eggs the village will export
+  - how much revenue and/or barter value this equates to
 
 *** Chicken Egg Consumption
   - eggs consumed per person | week month year
@@ -346,6 +388,9 @@ not represent a single family.
 *** Egg Mobiles
   - hens per mobile
   - external inputs -- water, feed, oyster shells
+*** Chicken Tractors
+  - broilers per tractor
+  - production per year per tractor
 *** Duck Egg Production
 *** Chicken Consumption
 
