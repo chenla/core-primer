@@ -275,7 +275,7 @@ It may be impossible to know for certain what real minimum
 viability is unless we can build and demonstrate it in the
 real world, or at least on another, real world like Mars.
 
-Civilization is such a large, dynamic complex system that it
+Civilization is such a large, dynamic, complex system that it
 is like the weather, the number of variables and
 interactions is beyond meaningful prediction beyond very
 short term, and crude projects that even then are not always
@@ -286,6 +286,19 @@ accurate.
 It is almost too easy to fall into the trap of thinking of
 civilization as a static system that can be designed by
 committee and contracted out to the lowest bidder.
+
+Rather than provide a blue print such as zoning regulations
+and other blunt hacks we need to develop models that
+generate complexity from a small number of variables.
+
+The success of a generated model will be determined by a
+number of factors, but especially if the resulting structure
+is /antifragile/.
+
+We will argue that all antifragile systems are the result of
+generative design -- but the converse is not true, not all
+generated designs are antifragile.
+
 
 * The Model
 
@@ -357,8 +370,16 @@ Cambodia's 2017 average household size of 4.7 as a starting
 point.
 
 #+begin_src emacs-lisp
-(setq model/household-size  4.7) 
+;; Average household size in village
+(setq model/household-size  4.7)
+
 #+end_src
+
+In later models this will be broken into a variety of
+different sub models that take into account different
+socio-economic subgroups that will provide us with a more
+flexible and accurate way of measuring this than a single
+monolithic number.
 
 We expect that changing this number will dramatically effect
 the model in ways we can't predict at present.
