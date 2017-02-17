@@ -48,3 +48,45 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction
 
+Mollison's final section of PDM (Permaculture A Designer's Manual) was
+devoted to /Strategies for An Alternate Nation/ in which he outlined
+in some detail how to built communities and whole economies based on
+the Permaculture concepts laid out in the book.  There are some very
+good ideas, mostly based in practical experience of things that have
+worked before.
+
+We will use this part of the Primer to do the same, but it will
+include actual designs, code, and models that can be used for planning
+and eventually as a foundation for building and governing Scopic
+Distributed Communities.
+
+When I first approached the problem of how to build a new civilization
+I basically passed on the idea.  It was too big, and it was utter
+hubris to think that a civilization could be designed top down.  So I
+concentrated on the idea of building a distributed group of small
+communities that were designed collectively to become caretakers of
+mankind's collective memory and experience.  When things got bad,
+these communities could then come in and restore knowledge whenever
+and wherever it was lost.  The model that was at the back of my mind
+was the medieval monastary.  These were and still are today stable
+communities that have survived centuries and have indeed been the last
+refuge of much of mankind's recorded knowledge that was preserved
+through centuries of darkness.  There is a reason these centuries were
+called the Dark Ages.  And every civilization has gone through
+numerous dark Ages.  Greek Civilization emerged from such a Dark Age
+and the Illiad and Odyssey are both works describing the civilization
+that existed hundreds of years before Homer.  The Chinese have a long
+history of periodic and devestating self-inflicted Darkness.  It seems
+to be a fundemental part of the human character to periodically go
+collectively insane and self-destruct.
+
+But the more I studied the model of monastic estates, the more I
+became disillusioned with the idea.  By setting yourself apart from
+the rest of the culture and civilization you are there to help
+preserve you become a perpetual target -- humans are wired to
+catagorize each other as either belonging to your group -- one of us
+-- and everyone else, who are outsiders or others.  We find it easy to
+believe that anyone who is not one of us, is not just different, and
+not even an enemy, but evil or not even human and not deserving of
+being treated even as well as an animal.  This is how we rationalize
+slavery, racism, sexism and  xenophobia.  
