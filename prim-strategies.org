@@ -281,13 +281,77 @@ interactions is beyond meaningful prediction beyond very
 short term, and crude projects that even then are not always
 accurate.
 
-* Generative Systems 
+* Generative, Antifragile  Systems 
 
-
+It is almost too easy to fall into the trap of thinking of
+civilization as a static system that can be designed by
+committee and contracted out to the lowest bidder.
 
 * The Model
 
-We propose constructing a model that explores
+We propose constructing a model that can help us understand
+what some of the key variables are and how they interact in
+a crude way.  You have start somewhere, and the back of a
+napkin in a crowded pub over a few too many beers during
+happy hour is as good a place as any....
+
+Our first model will ignore climate, the bioregion that the
+community lives in, or make a destinction between urban or
+rural.  However, in order to be able to factor in that the
+community will try to produce as much of the food they need
+themselves, the model will be more rural than urban.
+
+** Population
+
+This will be model of a village.  We define a village as
+having a population between 300 and 1,500 people.  
+
+We set these using =devfar= as global constants.
+
+#+begin_src emacs-lisp
+;; maximum village population
+(defvar model/village-pop-max 300)
+;; minimum village population
+(defvar model/village-pop-min 1500)
+
+#+end_src
+
+Then we set the population size of the model village at 600
+individuals.
+
+#+begin_src emacs-lisp
+;; Village Population 600 Individuals
+(setq model/village-pop 600)
+
+#+end_src
+
+** Household Size
+
+Further,
+the village will be broken into /households/ that may or may
+not represent a single family.
+
+** Poultry & Egg Sub-Model
+
+*** Chicken Egg Consumption
+  - eggs consumed per person | week month year
+
+*** Chickens By Breed
+**** Egg Layers
+  - average eggs per year
+  - average age of hens when start laying
+  - useful laying lifespan
+**** Broilers
+*** Duck Egg Consumption
+*** Egg Mobiles
+  - hens per mobile
+  - external inputs -- water, feed, oyster shells
+*** Duck Egg Production
+*** Chicken Consumption
+
+*** Captital Costs
+*** Production Costs
+*** Market Cost of Eggs
 
 
 
