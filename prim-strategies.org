@@ -48,99 +48,150 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction
 
-Mollison's final section of PDM (Permaculture A Designer's Manual) was
-devoted to /Strategies for An Alternate Nation/ in which he outlined
-in some detail how to built communities and whole economies based on
-the Permaculture concepts laid out in the book.  There are some very
-good ideas, mostly based in practical experience of things that have
-worked before.
+Mollison's final section of PDM (Permaculture A Designer's
+Manual) was devoted to /Strategies for An Alternate Nation/
+in which he outlined in some detail how to built communities
+and whole economies based on the Permaculture concepts laid
+out in the book.  There are some very good ideas, mostly
+based in practical experience of things that have worked
+before.
 
-We will use this part of the Primer to do the same, but it will
-include actual designs, code, and models that can be used for planning
-and eventually as a foundation for building and governing Scopic
-Distributed Communities.
+We will use this part of the Primer to do the same, but it
+will include actual designs, code, and models that can be
+used for planning and eventually as a foundation for
+building and governing Scopic Distributed Communities.
 
-When I first approached the problem of how to build a new civilization
-I basically passed on the idea.  It was too big, and it was utter
-hubris to think that a civilization could be designed top down.  So I
-concentrated on the idea of building a distributed group of small
-communities that were designed collectively to become caretakers of
-mankind's collective memory and experience.  When things got bad,
-these communities could then come in and restore knowledge whenever
-and wherever it was lost.  The model that was at the back of my mind
-was the medieval monastary.  These were and still are today stable
-communities that have survived centuries and have indeed been the last
-refuge of much of mankind's recorded knowledge that was preserved
-through centuries of darkness.  There is a reason these centuries were
-called the Dark Ages.  And every civilization has gone through
-numerous dark Ages.  Greek Civilization emerged from such a Dark Age
-and the Illiad and Odyssey are both works describing the civilization
-that existed hundreds of years before Homer.  The Chinese have a long
-history of periodic and devestating self-inflicted Darkness.  It seems
-to be a fundemental part of the human character to periodically go
+When I first approached the problem of how to build a new
+civilization I basically passed on the idea.  It was too
+big, and it was utter hubris to think that a civilization
+could be designed top down.  So I concentrated on the idea
+of building a distributed group of small communities that
+were designed collectively to become caretakers of mankind's
+collective memory and experience.  When things got bad,
+these communities could then come in and restore knowledge
+whenever and wherever it was lost.  The model that was at
+the back of my mind was the medieval monastary.  These were
+and still are today stable communities that have survived
+centuries and have indeed been the last refuge of much of
+mankind's recorded knowledge that was preserved through
+centuries of darkness.  There is a reason these centuries
+were called the Dark Ages.  And every civilization has gone
+through numerous dark Ages.  Greek Civilization emerged from
+such a Dark Age and the Illiad and Odyssey are both works
+describing the civilization that existed hundreds of years
+before Homer.  The Chinese have a long history of periodic
+and devestating self-inflicted Darkness.  It seems to be a
+fundemental part of the human character to periodically go
 collectively insane and self-destruct.
 
-But the more I studied the model of monastic estates, the more I
-became disillusioned with the idea.  By setting yourself apart from
-the rest of the culture and civilization you are there to help
-preserve you become a perpetual target -- humans are wired to
-catagorize each other as either belonging to your group -- one of us
--- and everyone else, who are outsiders or others.  We find it easy to
-believe that anyone who is not one of us, is not just different, and
-not even an enemy, but evil or not even human and not deserving of
-being treated even as well as an animal.  This is how we rationalize
-slavery, racism, sexism and  xenophobia.
+#+begin_quote
+James Clement van Pelt, co-founder of Yale's Initiative in
+Religion, Science & Technology, suggests that Sisyphus
+also personifies humanity and its disastrous pursuit of
+perfection by any means necessary, in which the great rock
+repeatedly rushing down the mount symbolizes the
+accelerating pace of unsustainable civilization toward
+cataclysmic collapse and cultural oblivion that ends each
+historical age and restarts the sisyphean cycle.
 
-Universities emerged from the monastic tradition, and continued many
-traditions and even titles from european monastaries even today.
-Titles like rector, xxxxxxx xxxxxxxx xxxxxxx echo the universities
-monastic ancestry.
+-- [[https://en.wikipedia.org/wiki/Sisyphus#cite_note-24][Sisyphus]] - Wikipedia
+   [[bib:jochemsen:2010different]]
+#+end_quote
+
+But the more I studied the model of monastic estates, the
+more I became disillusioned with the idea.  By setting
+yourself apart from the rest of the culture and civilization
+you are there to help preserve you become a perpetual target
+-- humans are wired to catagorize each other as either
+belonging to your group -- one of us -- and everyone else,
+who are outsiders or others.  We find it easy to believe
+that anyone who is not one of us, is not just different, and
+not even an enemy, but evil or not even human and not
+deserving of being treated even as well as an animal.  This
+is how we rationalize slavery, racism, sexism and
+xenophobia.
+
+Universities emerged from the monastic tradition, and
+continued many traditions and even titles from european
+monastaries even today.  Titles like rector, xxxxxxx
+xxxxxxxx xxxxxxx echo the universities monastic ancestry.
 
 Universities have often been thought of as /others/ in their
-neighboring communities.  The /Town-Gown/ rivalry is as old as
-Universities themselves.  The /Latin Quarter/ in Paris, a part of the
-city which became the proto-model for the modern university before
-they were granted their own land to create campuses had any number of
-problems with the rest of the city.  Teachers were granted special
-legal status, teachers and students spoke /latin/, which before then
-had only been spoken by the clergy, and only heard by commoners during
-mass.  No one could read, write or speak latin unless you joined the
-church or went to school.  That set them apart.  Because educated
-people are /educated/, they sometimes tend to dispense with many
-common social customs, and superstitions.  That set them apart.  They
-even dressed strangely, in gowns (robes) which definately set them
-apart.
+neighboring communities.  The /Town-Gown/ rivalry is as old
+as Universities themselves.  The /Latin Quarter/ in Paris, a
+part of the city which became the proto-model for the modern
+university before they were granted their own land to create
+campuses had any number of problems with the rest of the
+city.  Teachers were granted special legal status, teachers
+and students spoke /latin/, which before then had only been
+spoken by the clergy, and only heard by commoners during
+mass.  No one could read, write or speak latin unless you
+joined the church or went to school.  That set them apart.
+Because educated people are /educated/, they sometimes tend
+to dispense with many common social customs, and
+superstitions.  That set them apart.  They even dressed
+strangely, in gowns (robes) which definately set them apart.
 
-It's no surprise that whenever populism or a populist movement is on
-the rise, there is a backlash against the educated and especially
-against educational institutions.  Time and time again, Univeristies
-have been the place where it is thought where uprisings are incubated
-and civil unrest instigated.  Purges and even wholesale slaughter of
-people in Universities are a far too common occurance throughout
-history.  I am writing this in an office of a Univeristy that had all
-but two of it's PhDs murdered in my lifetime.  Turkey is the most
-recent place to see mass arrests across the country.  The Americans
-haven't yet commited broadscale universicide but events like the Kent
-State Masacre and before that the darkness of the McCarthy era witch
-hunts show that they are not the exception to the rule.
+It's no surprise that whenever populism or a populist
+movement is on the rise, there is a backlash against the
+educated and especially against educational institutions.
+Time and time again, Univeristies have been the place where
+it is thought where uprisings are incubated and civil unrest
+instigated.  Purges and even wholesale slaughter of people
+in Universities are a far too common occurance throughout
+history.  I am writing this in an office of a Univeristy
+that had all but two of it's PhDs murdered in my lifetime.
+Turkey is the most recent place to see mass arrests across
+the country.  The Americans haven't yet commited broadscale
+universicide but events like the Kent State Masacre and
+before that the darkness of the McCarthy era witch hunts
+show that they are not the exception to the rule.
 
-People fear the /other/, so if we are trying to provide very long term
-safeguards against our own darker natures the monastic, temple or
-university model has almost as many things going for it as it does
-against it.
+People fear the /other/, so if we are trying to provide very
+long term safeguards against our own darker natures the
+monastic, temple or university model has almost as many
+things going for it as it does against it.
 
-Even if we put aside these misgivings about monastic models, if our
-goal is to preserve and safeguard civilization it will always be a
-/descriptive/ record.  Knowledge is not just what is in a book, it's
-information that has been woven into a person's brain -- knowledge is
-always a living thing.  Recorded knowledge, once it has passed out of
-living memory is in a sense, lost.  It has to be reinvented in your
-head and in your hands from the pages of a book -- weaving that
-information into your brain through constant reinforcement and practice.
+Even if we put aside these misgivings about monastic models,
+if our goal is to preserve and safeguard civilization it
+will always be a /descriptive/ record.  Knowledge is not
+just what is in a book, it's information that has been woven
+into a person's brain -- knowledge is always a living thing.
+Recorded knowledge, once it has passed out of living memory
+is in a sense, lost.  It has to be reinvented in your head
+and in your hands from the pages of a book -- weaving that
+information into your brain through constant reinforcement
+and practice.
 
-If you have to choose between rebooting a collapsed civilization from
-a neighboring civilization or from a library of books that have been
-unearthed after the collapse that recorded what has been lost,
-rebooting from the neighbor is a far better option.
+If you have to choose between rebooting a collapsed
+civilization from a neighboring civilization or from a
+library of books that have been unearthed after the collapse
+that recorded what has been lost, rebooting from the
+neighbor is a far better option.
+
+This is where the /distributed/ comes in.  The idea of
+LOCKSS, /lot's of copies keep stuff staff/[fn:1] works well
+here.  Throughout the last ten thousand years or so since
+the emergance of cilvization there have always been multiple
+civilzations on the planet.  Civilization has always been a
+bit like [[https://en.wikipedia.org/wiki/Whac-A-Mole][Whack-A-Mole]].  Knock down one and another pops up
+elsewhere.[fn:2]
 
 
+
+* Footnotes
+
+[fn:2] It's interesting to contrast the colloquial use of
+"Wack-a-mole" to denote a repititious and futile task with
+the the ancient concept of a Sisyphean task.  Sisyhus
+repeated his labour endlessly, it was a closed loop that not
+only provided no closure, but no progress either.
+Wack-a-mole does have a closure -- if you /wack/ enough
+moles you get a reward, but only after a long, repititious
+and pointless excercise.
+
+[fn:1] Not to be confused with the trademarked LOCKSS which
+is a company set up to get Universities to make and maintain
+all of the copies while keeping often unjustified copyright
+claims, and the exorbitant fees charged by the hoardering
+companies safe.
