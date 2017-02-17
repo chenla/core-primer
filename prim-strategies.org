@@ -178,6 +178,15 @@ bit like [[https://en.wikipedia.org/wiki/Whac-A-Mole][Whack-A-Mole]].  Knock dow
 elsewhere.[fn:2]
 
 
+#+CAPTION: Sisypher dwarves by Tomasz Moczek (pl) in Wrocław
+[[./img/strategies/Syzyfki_(Sisyphers)_Wroclaw_dwarf_02.jpg]]
+
+#+begin_comment
+[[https://commons.wikimedia.org/wiki/File%3ASyzyfki_(Sisyphers)_Wroclaw_dwarf_01.JPG][Sisypher dwarves]] by Tomasz Moczek (pl) in Wrocław
+By Tomasz MoczekPnapora [[http://creativecommons.org/licenses/by-sa/3.0][CC BY-SA 3.0]], via Wikimedia Commons
+#+end_comment
+
+
 
 * Footnotes
 
