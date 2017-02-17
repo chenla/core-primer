@@ -177,14 +177,73 @@ civilzations on the planet.  Civilization has always been a
 bit like [[https://en.wikipedia.org/wiki/Whac-A-Mole][Whack-A-Mole]].  Knock down one and another pops up
 elsewhere.[fn:2]
 
-
 #+CAPTION: Sisypher dwarves by Tomasz Moczek (pl) in Wrocław
 [[./img/strategies/Syzyfki_(Sisyphers)_Wroclaw_dwarf_02.jpg]]
 
 #+begin_comment
+Image Credit:
 [[https://commons.wikimedia.org/wiki/File%3ASyzyfki_(Sisyphers)_Wroclaw_dwarf_01.JPG][Sisypher dwarves]] by Tomasz Moczek (pl) in Wrocław
 By Tomasz MoczekPnapora [[http://creativecommons.org/licenses/by-sa/3.0][CC BY-SA 3.0]], via Wikimedia Commons
 #+end_comment
+
+This has worked so far, even though at any one time there
+may have never been more than half a dozen or so
+civilizations on the planet at any given time.
+
+There is no real going back -- civilization crossed a
+threshold when it became dependent on technological
+innovation in order to survive.  Once you have become a
+technological civilization there is no going back, it's
+either forward or collapse.  And once you've collapsed you
+have to start from square one, and since the biggest factor
+that made it possible to build a technological civilization
+was access to easily accessable raw materials and energy.
+Since we've exhausted all the easily mined and drilled
+resources it would make it several or orders of magnitude to
+rebuild without access to those resouces using early
+industrial technology.
+
+It's been said that it takes an industrial civilization to
+build an industrial civilization.  If we don't have another
+civilization to reboot from, then without easy energy and
+materials it might not be possible to sustain a large enough
+population for mankind to be able to do it a second time.
+
+It's this thinking that is behind the argument for mankind
+to become a multi-planet species.  If civilization is
+global, in order for us to reboot from another civilization,
+we will need another globe.
+
+This only get's us part of the way there.  Having two or
+perhaps even three or four instances of civilization in the
+Solar System is still only slightly better than what we have
+now.  Mankind is infinately ingenious in devising methods of
+destroying itself.  Having two precariously balanced
+instances of civilization is not enough.  If lots of copies
+keep stuff safe, I would argue that no one would agree that
+two of something consitutes a /lot of copies/.
+
+What is needed is to build in massive redundancies into the
+fabric and structure of civilization, so that it mimics the
+most massively redundent information, DNA. every cell of
+every living thing carries the full blueprint of how to make
+a copy of itself.  And the DNA of any one creature contains
+most of the code required to build most other creatures on
+the planet.  The only hope for Mankind to preserve itself
+and it's civilization is mimic that kind of redundancy as
+much as possible.  This means in effect that a global (or
+solar) distributed civilization is actually made of up of
+hundreds of thousands or even millions of copies of itself,
+each one capable of rebuilding all of civilization on its
+own.
+
+This is the goal of the Sisyphean task that we have given
+ourselves because it can never be complete, it can only be
+repeated over and over until our species finally is wiped
+out by natural forces that is humanity's ability to recover
+from.  That end is inevitable, the only question is how long
+we can forstall it and, as I like to say, keep the
+experiment going a little longer still.
 
 
 
