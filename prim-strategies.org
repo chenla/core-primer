@@ -283,6 +283,9 @@ accurate.
 
 * Generative, Antifragile  Systems 
 
+[[./img/strategies/antifragile-3-types.png]]
+
+
 It is almost too easy to fall into the trap of thinking of
 civilization as a static system that can be designed by
 committee and contracted out to the lowest bidder.
@@ -298,6 +301,17 @@ is /antifragile/.
 We will argue that all antifragile systems are the result of
 generative design -- but the converse is not true, not all
 generated designs are antifragile.
+
+
+Saw this in a slide for software engineering in the cloud:
+
+  - Federated architecture
+  - APS's as Connectors
+  - Stateless Procols
+  - Conncurrent Execution
+  - Asynchronous Communication
+  - Event Driven Programming
+  - Fault/Tolerant/Antifragile
 
 
 * The Model
