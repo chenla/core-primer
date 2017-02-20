@@ -306,18 +306,17 @@ generated designs are antifragile.
 Saw this in a slide for software engineering in the cloud:
 
   - Federated architecture
-  - APS's as Connectors
-  - Stateless Procols
-  - Conncurrent Execution
+  - API's as Connectors
+  - Stateless Protocols
+  - Concurrent Execution
   - Asynchronous Communication
   - Event Driven Programming
-  - Fault/Tolerant/Antifragile
+  - Fault/Tolerant Antifragile
 
 
 * Bioregionalism - patterns & anti-patterns
 :PROPERTIES:
-:ID:       
-
+:ID:       b6bf3575-9dd7-4eee-8c80-ed29e787d52b
 :END:
 
 This section was based on the text in this [[id:a21b75ce-b9d3-4ef8-853b-390d43ee43be][note]].
@@ -360,28 +359,29 @@ natural living within.
 
 Principles:
 
-#+begin_ascii
-          Pattern                  |      Antipattern
-   ===========================================================
-    - Local & Regional Production  | - Global Supply Chain
-    - Seasonal Availability        | - Year Round Availibility
-    - Cache Against Shortfalls     | - Just-In-Time Logistics
-    - Distributed Knowledge        | - Concentrated Knowledge
-    - Move Info not People         | - Global Air Travel
-    - Resilient & Antifragile      | - Fragile
-    - Balance Inputs & Outputs     | - Import Inputs, Export Outputs
-    - Polyculture                  | - Monoculture
-    - Life Long Learning           | - Education as a Place
-    - Human Scales                 | - Industrial & Mass Scales
-    - Needs Based Consumption      | - Consumerism
-    - Rational Critical Discourse  | - Ideologies, Lifestyle Choices
-    - Make Things That Last        | - Planned Obsolescence
-    - Bioregions/Cities/Village    | - Nation States
-    - two degrees of separation    | - six levels of separation
-    - off-planet mining & industry | - terrestrial mining & industry
-    - general purpose robotics     | - assembly-line robotics
-    - fix or recycle everything    | - landfills  
-#+end_ascii  
+
+   | Pattern                        | Antipattern                     |
+   |--------------------------------+---------------------------------|
+   |                                |                                 |
+   | - Local & Regional Production  | - Global Supply Chain           |
+   | - Seasonal Availability        | - Year Round Availibility       |
+   | - Cache Against Shortfalls     | - Just-In-Time Logistics        |
+   | - Distributed Knowledge        | - Concentrated Knowledge        |
+   | - Move Info not People         | - Global Air Travel             |
+   | - Resilient & Antifragile      | - Fragile                       |
+   | - Balance Inputs & Outputs     | - Import Inputs, Export Outputs |
+   | - Polyculture                  | - Monoculture                   |
+   | - Life Long Learning           | - Education as a Place          |
+   | - Human Scales                 | - Industrial & Mass Scales      |
+   | - Needs Based Consumption      | - Consumerism                   |
+   | - Rational Critical Discourse  | - Ideologies, Lifestyle Choices |
+   | - Make Things That Last        | - Planned Obsolescence          |
+   | - Bioregions/Cities/Village    | - Nation States                 |
+   | - two degrees of separation    | - six levels of separation      |
+   | - off-planet mining & industry | - terrestrial mining & industry |
+   | - general purpose robotics     | - assembly-line robotics        |
+   | - fix or recycle everything    | - landfills                     |
+
 
 * The Model
 
