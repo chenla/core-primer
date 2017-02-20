@@ -314,6 +314,75 @@ Saw this in a slide for software engineering in the cloud:
   - Fault/Tolerant/Antifragile
 
 
+* Bioregionalism - patterns & anti-patterns
+:PROPERTIES:
+:ID:       
+
+:END:
+
+This section was based on the text in this [[id:a21b75ce-b9d3-4ef8-853b-390d43ee43be][note]].
+
+Our premise is that unless humans can start thinking of ourselves as
+only one part of a very complex geography and climate that shapes the
+local ecology of where we live.  The planet can be broken down into
+different biomes, or ecoregions which have different combination of
+temperatures, soil types, minerals, elevations, rainfall, groundwater,
+hydrology, sunlight and wind.  This determines the ecology that
+is specifically adapted to local conditions which include different
+species of plants, animals, insects, marine life and micro organisms
+that each occupy a unique niche and role in what constitutes the local
+ecology for a biome.  For humans to survive in a given biome, we must
+live within the carrying capacity of that ecological system and
+understand the niche that we are responsible for in keeping the system
+functioning and in balance.  
+
+Human history, from the first great civilizations in Mesopotamia, the
+Indus Valley, Eastern Asia and the Americas are littered with the
+bones of past civilizations that had collapsed and been abandoned
+because they had exceeded the carrying capacity of their bioregion
+leaving these areas uninhabitable.
+
+There is nothing new-age or green or spirtual about the patterns and
+anti-patterns we're describing.  The patterns are practical, not an
+ideology or lifestyle choice.  Our lifestyles should be a direct
+reflection of the climate and ecosystem that we live within.  This is
+how we design buildings, clothing, lay out and organize our
+communities.  It determines what we grow, and how we prepare the food
+we eat.  It frames the cycles and rhythms of daily life of when we
+wake up, work, and sleep.  It is reflected in the culture, language,
+music and stories we share that form a collective identity that is
+tied to the place we live in.
+
+Every single one of them would be common sense to the most
+conservative New England farmer.  It's about about creating a economy
+that takes into account the ecology and scales that humans feel most
+natural living within.
+
+Principles:
+
+#+begin_ascii
+          Pattern                  |      Antipattern
+   ===========================================================
+    - Local & Regional Production  | - Global Supply Chain
+    - Seasonal Availability        | - Year Round Availibility
+    - Cache Against Shortfalls     | - Just-In-Time Logistics
+    - Distributed Knowledge        | - Concentrated Knowledge
+    - Move Info not People         | - Global Air Travel
+    - Resilient & Antifragile      | - Fragile
+    - Balance Inputs & Outputs     | - Import Inputs, Export Outputs
+    - Polyculture                  | - Monoculture
+    - Life Long Learning           | - Education as a Place
+    - Human Scales                 | - Industrial & Mass Scales
+    - Needs Based Consumption      | - Consumerism
+    - Rational Critical Discourse  | - Ideologies, Lifestyle Choices
+    - Make Things That Last        | - Planned Obsolescence
+    - Bioregions/Cities/Village    | - Nation States
+    - two degrees of separation    | - six levels of separation
+    - off-planet mining & industry | - terrestrial mining & industry
+    - general purpose robotics     | - assembly-line robotics
+    - fix or recycle everything    | - landfills  
+#+end_ascii  
+
 * The Model
 
 We propose constructing a model that can help us understand
