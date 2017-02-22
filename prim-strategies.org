@@ -610,9 +610,20 @@ Messages and assertations need to checked to see if they are
 free of errors when being sent and then if the assertations
 in the message are reliable -- in otherwords true.
 
-** errors
+** corruption
 
+When you transmit something you are making a copy.  That
+copy may only need to go from a USB drive to a Hard disk on
+a laptop, or could be something like the Rosetta Stone which
+has managed to send a message in multiple languages -- one
+of which, Egyptian hieroglyphics that had been forgotten 
+when it was unearthed.  The Rosetta Stone succeeded in
+sending it's message because it was encoded in multiple
+languages, by added redundancy that made it more resiliant.
 
+Everything from Morse Code to TCP/IP is all about dealing
+with transmission/copying errors and correcting for noise,
+for corruption.
 
 ** truth
 
@@ -650,6 +661,56 @@ system of pattern matchers -- when a pattern matcher looks
 at something, it tells the matchers in the levels above and
 below  if there is a match, or not a match and how certain
 it is of it being a match or not.
+
+Determining if something is true is broken down into two
+parts, /authentication/ and /authorization/, which most
+people associate with logging into online services, or
+withdrawing money from a bank account.  The principle is the
+same.  When you log into your account on Google, you must
+present the system with a means of identifying and
+demonstrating that you are who you
+say you are /authtication/, and then Google checks this
+information against it's records and grants or denies you
+access to your account.
+
+By applying this process to any assertation we can determine
+the level of confidence that we have in the truth of an
+assertation or not.
+
+Before we go any further we need to address another thorny
+issue -- trust.  
+
+Because authentication and authorization is difficult, in
+almost all mechanisms that determine truth, we use /trusted/
+agents that used to authenticate and authorize on our
+behalf.  We use banks as go-betweens to transfer funds that
+are trusted by both parties.  Trusted libaries are used to
+compile databases of /authorities/ which are used to match
+authors to works that claim to be their works.  Wikipedia is
+quickly becoming one such /authority/.  In Western
+democracies, a Free Press' role is to provide information
+about what a government is using that is independent of what
+the government is telling people.  This only works when the
+Press is trusted.  When people are bombarded by propaganda,
+and dissinformation by governments or groups who are trying
+to promote an ideology or gain power, that trust breaks down
+and the role of the Press is undermined.  This is what has
+happened in the United States over a twenty year period by
+one political party which lead to the election of Donald
+Trump.  Once that trust has been destroyed, it creates a
+vacuum that threatens to destroy functional societies.  This
+is a poor strategy because the groups who undermine such
+trust historically don't stay in power for very long,
+because without a foundation of information that can be
+trusted they have lost all of their credibility and have
+hurt themselves as much as their opponents.
+
+This is why it's so interesting that BitCoin its great
+innovation of the /blockchain/ was invented during this
+period of large scale disinformation and errosion of trust
+in the truth of assertations that have been made.
+
+
 
 
 
