@@ -504,6 +504,36 @@ Our goal with the Poultry & Egg Submodel is to determine:
 
 
 
+
+
+* Now What?
+
+Now that we have a model in place -- as I write this, we
+/don't/ have /anything/ in place, but this isn't a linear
+process now, is it -- we have to work out how to build the
+infrastructure needed to make the model possible.
+
+It all comes down to being able to move and manipulate /its/
+and /bits/.  But the distinction between the physical world
+of bits and information is not what it seems at first.  In
+the early days of the Internet, people called the Internet
+/cyberspace/ which was virtual, and /meatspace/.  It felt,
+at the time that cyberspace was separate and apart from the
+world where we physically live in.  But this distinction is
+less and less common today.  In the early days most people
+have never used a computer in their lives, and those who
+used computers that were networked together were even more
+rare.  People on the networks tended to be spread very
+thinly (though not evenly) across the planet.  It was rare
+to have physically met more than one or two people in any
+online forum like Usenet or on a Listserv Mailing List.  In
+many cases you might talk to someone daily for years without
+ever knowing what they looked like, where they live or how
+old they were.
+
+
+
+
 * Footnotes
 
 [fn:2] It's interesting to contrast the colloquial use of
