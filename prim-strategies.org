@@ -584,6 +584,76 @@ everything from a the temperature reading on a guage in a
 steam room, to an obtuse poem by Wallace Stevens, to a nasty
 comment on YouTube to a birthday card from your grandmother.
 
+As we mentioned before, messages, in our model are (in
+theory) mututally exclusive, and contain a complete thought,
+or represent a fact or concept, in that they can not be
+divided into two or more messages.  We can then combine
+multiple messages into linear and hierarchical or even
+rhizomatically linked groups to become other things.
+
+Essentially everything is a /holon/ -- which can be seen in
+one context as a self-contained whole, and from another
+perspective as a part of a larger whole.
+
+The message then is a holon and the holon becomes our atomic
+unit.  A message is made up of one or more assertions,
+statements or facts.  An assertion is not a message, but
+must be encoded in a message.  An assertion that is made,
+stored or sent and then eventually recieved or read is a
+message.  An assertion can be encoded in an infinite number
+of messages.
+
+We now have the basic building blocks from which the
+civilization that we have made in our model can be built.
+
+Messages and assertations need to checked to see if they are
+free of errors when being sent and then if the assertations
+in the message are reliable -- in otherwords true.
+
+** errors
+
+
+
+** truth
+
+In many cases, truth somewhat falls short of being absolute.
+This is the reality of complexity -- complex systems can be
+described but nevery absolutely defined.
+
+In Science there are Laws and Theorys -- a Law is absolute,
+a theory has not been yet proved to be absolute.  There are
+many theories which are accepted as being as absolute, such
+as the theory of evolution -- but because evolution can
+never be defined as cleaning as say the Second Law of
+Thermodynamics, it will most certainly be a Law in the
+forseeable future.
+
+It is important that we make the effort to determine what
+assertions are more true than others because this is the
+only rational means of making decsions.  The act of taking
+in information about what has changed around you,
+determining what happened, if it is true or not before
+making a decision is how we survive from minute to minute.
+This is the process used to cross a busy street, to eat or
+not to eat the leftover curry that has been sitting
+forgotten in the fridge since the New Years party and has a
+number of things growing in it which may or may not be
+classifiable as a new form of intelligent life.
+
+So determining how reliable, or the confidence level we have
+that any particular assertation is true is important.  In
+fact that it is the single most important thing we do as
+living creatures.  This needs to be at the very core of all
+information system -- and sure enough, in human cognitive
+processes, pattern recognition is made using a hierarchical
+system of pattern matchers -- when a pattern matcher looks
+at something, it tells the matchers in the levels above and
+below  if there is a match, or not a match and how certain
+it is of it being a match or not.
+
+
+
+
 * Footnotes
 
 [fn:2] It's interesting to contrast the colloquial use of
