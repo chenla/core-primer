@@ -532,7 +532,57 @@ ever knowing what they looked like, where they live or how
 old they were.
 
 
+ [  *IMAGE of No One Knows You Are A Dog Cartoon* ]
 
+The physical world is only possible because of the flow of
+information that it generates -- and if you follow the
+turtles all the way down you end up observing quantum events
+which are in essense, binary yes or no choices.  Thankfully
+we don't have to worry too much about managing information
+at the quantum event scales.  But even at human scales,
+managing information can not be separated from matter,
+energy, time and space.  The more our information systems
+reflect this reality the more effective they become. *Huh?*
+
+So what we need first is to establish what the atomic unit
+will be for the system.  Ultimately, all information is
+binary -- but that's not terribly useful, it's like
+measuring a cup of rice by how many atoms are in the cup.
+
+We propose that the system be reduced to two things,
+/assertions/ and /messages/.  An assertion is a statement
+that we can encode as a triple made up of a property list:
+
+#+begin_src emacs-lisp
+  (("name" . "Chasui") ("relationship" . "age") ("years old" . 6))
+#+end_src
+
+Assertations are then collected into mutually exclusive
+records which are messages.  It's important to think of
+all records to belonging to the set "messages".  Messages
+are created, sent, and recieved.  The only difference
+between a text message and a archival copy of a book in a
+library is that the copy is a message that has been cached
+without a specified recipient.  But at some point either
+someone will retrieve that copy and it will have been
+recieved or it will be destroyed or lost to world.  This is
+the fate of all information.
+
+That information is dependent on it's surrounding context.
+It is context, which is made up of shared knowledge between
+the sender and recipient which determines if the recipient
+sees the message as something meaningful or is just noise.
+That doesn't mean it is noise, it may in fact be structured,
+but still undecipherable -- so that for all intents and
+purposes it can be treated as noise. 
+
+Information theory, as formulated by Claude Shannon and
+others does not include any concept of meaning.  
+
+So our definition of a message is very broad and includes
+everything from a the temperature reading on a guage in a
+steam room, to an obtuse poem by Wallace Stevens, to a nasty
+comment on YouTube to a birthday card from your grandmother.
 
 * Footnotes
 
