@@ -922,6 +922,24 @@ confidence level that they are true are called /facts/.
 
 ** Belief
 
+*TL;DR* this section should paint belief as a tricky beast
+-- in one respect can seen as having confidence in a world
+model.  But when beliefs continue to be held that are
+contrary to newer models that have replaced them we become
+increasingly dysfunctional. This is important because
+determining if something is or is not a fact never has an
+end, change one thing, and everything else changes relative
+to it.  A fact in classical Athens might be very different
+from a fact in 19th Century Tokyo that could be very
+different from 21st Century Phnom Penh.  So it is just as
+important to establish facts as it is to establish what the
+context was for it to be a fact.  As contexts change, so is
+what is excepted as facts and our belief in them.
+
+
+
+
+
 #+begin_quote
 Alice laughed. ‘There’s no use trying,’ she said: ‘one can’t
 believe impossible things.’
@@ -980,6 +998,14 @@ once that model has been replaced with a better model, then
 hanging on to those older beliefs is not sane and lowers
 your chance of survival.
 
+An outmoded belief that is being kept around is an ideoology
+-- ideologies often start off as perfectly good models of
+the world.  But ideologies attempt to freeze a model and
+insist that it can not be improved or altered.  At this
+point, as one would say in a version control system, that
+the main branch had been forked and over time became
+increasingly out of sync with the main branch.
+
 We as individuals and as societies are constantly telling
 ourselves, our children and our neighbors all sorts of
 nonsense.  Newborn babies are delivered by storks, an
@@ -994,7 +1020,7 @@ hasn't left any material evidence of it's existence is
 considered perfectly sane.  But only if you don't act on
 those beliefs in similar ways that xxxxx acted when he
 talked to Harvey.  We are expected to pay lip service to our
-beliefs, but acting on them is 
+beliefs, but acting on them is another thing.
 
 These beliefs are vanquished as one grows up, but other
 preposterous beliefs are only reinforced, the world was
