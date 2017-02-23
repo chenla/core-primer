@@ -501,11 +501,6 @@ Our goal with the Poultry & Egg Submodel is to determine:
 *** Captital Costs
 *** Production Costs
 *** Market Cost of Eggs
-
-
-
-
-
 * Now What?
 
 Now that we have a model in place -- as I write this, we
@@ -758,6 +753,27 @@ different -- the more verifible or trusted facts that can be
 presented, the higher the confidence level is that what is
 being claimed is true.
 
+** Chain of Custody
+
+  - [[https://en.wikipedia.org/wiki/Chain_of_custody][Chain of custody]] | Wikipedia
+
+#+begin_quote
+Establishing chain of custody is made of both a
+chronological and logical procedure, especially important
+when the evidence consists of fungible goods. In practice,
+this most often applies to illegal drugs which have been
+seized by law enforcement personnel. In such cases, the
+defendant at times disclaims any knowledge of possession of
+the controlled substance in question. Accordingly, the chain
+of custody documentation and testimony is presented by the
+prosecution to establish that the substance in evidence was
+in fact in the possession of the defendant.
+
+  - [[https://en.wikipedia.org/wiki/Chain_of_custody][Chain of custody]] | Wikipedia
+#+end_quote
+
+
+
 ** LOC Authority Records
 
  - [[https://www.loc.gov/marc/authority/][MARC 21 Format for Authority Data]] | MARC Standards, LOC
@@ -805,6 +821,8 @@ Company)[fn:3]
 
 Assertations -- which are determined to have a high
 confidence level that they are true are called /facts/.
+
+
 
 
 * Footnotes
