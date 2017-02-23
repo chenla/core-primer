@@ -757,6 +757,45 @@ being claimed is true.
 
   - [[https://en.wikipedia.org/wiki/Primary_source][Primary source]] | Wikipedia
 
+Verification (authentication) of assertations can be made
+using a combination of /primary/ and /secondary/ sources.
+
+
+#+begin_quote
+A history, whose author draws conclusions from other than
+primary sources or secondary sources actually based on
+primary sources, is by definition fiction and not history at
+all.
+
+— Kameron Searle
+#+end_quote
+
+
+For verification of a name primary documents such as birth,
+death, baptism, marriage and death certificates, offical
+identification credentials such as passports and drivers
+licences may be used.
+
+-------
+
+
+Determining if something is a primary or secondary source
+is largely determined by context.
+
+A review of a book treats the text of the book as a primary
+source for the review, but the reviewed book in turn might
+be based on any number of other primary sources which are
+then based on other primary sources etc.
+
+For example, William Caxton used Sir Thomas Mallory's text
+as a primary source for /Le Morte Dr Arthur/ which was as
+much Caxton's work as it was Malory.  Malory's orginal text
+which survives in the Winchester Manuscript was in turn
+based on a great many different older texts by other, mostly
+unknown authors.
+
+In other words, as in so many other things, it's turtles all
+the way down.
 
 *** Wikipedia's Prime Directive
 
@@ -881,8 +920,75 @@ confidence level that they are true are called /facts/.
 
 
 
+** Belief
+
+#+begin_quote
+Alice laughed. ‘There’s no use trying,’ she said: ‘one can’t
+believe impossible things.’
+
+‘I daresay you haven’t had much practice,’ said the
+Queen. ‘When I was your age, I always did it for
+half-an-hour a day. Why, sometimes I’ve believed as many as
+six impossible things before breakfast.”
+
+― Lewis Carroll
+#+end_quote
+
+If you don't, at any given time of the day, hold in your
+head any number of contradictory, foolish, incorrect,
+dangerous and even down right impossible things then you
+are not human.  Human cognition is a messy business and we
+might as well accept that and do the best we can to work
+around it, for our own sake and well as others.
+
+It's all we can do, to take in sensory information and
+construct a model of what's going on outside our heads that
+doesn't get us killed.  That in itself is a remarkable
+achievement.
+
+This does not give us licence to believe anything that pops
+into our heads.  Our survival as individuals and as a species
+depends on us getting it right more often than we get it
+wrong.  As soon as you willfully decide to believe in things
+which are empirically and obviously not true you start
+sliding down a water park ride with no water at the bottom
+to break your fall.
+
+We as individuals and as societies are constantly telling
+ourselves, our children and our neighbors all sorts of
+nonsense.  Newborn babies are delivered by storks, an
+archetypal minor diety comes into your bedroom in your sleep
+and replaces a fallen tooth with hard currency.[fn:4]
+
+These beliefs are vanquished as one grows up, but other
+preposterous beliefs are only reinforced, the world was
+created in 6 days less than ten thousand years ago.  A flood
+covered the entire planet for xx days, to a height of xxx
+feet, but there is no explanation for where the water came
+from or where it went afterwords.  And all species of
+animals that exist today survived the flood in a wooden boat
+that wouldn't even rate as a small cruise liner today.  The
+animals that didn't make it onto the boat, dinosaurs and
+the like, perished.  Beliefs like these are expected to be
+believed literally, though people are not expected to
+actually live as if these things actually occured because
+they would die.
+
+Then there are lesser beliefs that persist though they have
+long been debunked.  Eating carrots gives you 20/20
+eyesight, reading in poor lightings damages your eyesight, 
+
+
+
+and pretty much anything good that people believe about
+Donald Trump.
+
+
 
 * Footnotes
+
+[fn:4]  Which would become difficult if everyone used
+bitcoins.  It /would/ make for a very interesting blockchain.
 
 [fn:3] In the late 20th Century, [[https://en.wikipedia.org/wiki/Apple_Inc.][Apple Inc.]] shifted from a
 company producing general purpose computers to a consumer
