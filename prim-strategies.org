@@ -753,9 +753,56 @@ different -- the more verifible or trusted facts that can be
 presented, the higher the confidence level is that what is
 being claimed is true.
 
+** Primary Sources
+
+  - [[https://en.wikipedia.org/wiki/Primary_source][Primary source]] | Wikipedia
+
+
+*** Wikipedia's Prime Directive
+
+ - [[https://en.wikipedia.org/wiki/Wikipedia:No_original_research#Primary.2C_secondary_and_tertiary_sources][Wikipedia:No original research]] | Wikipedia
+
+Just as the crew of the Starship Enterprise was constrained
+by the [[https://en.wikipedia.org/wiki/Prime_Directive][Prime Directive]], Wikipedia is constrained by three
+core principles that apply to all content: a) [[https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view][Neutral point
+of view]] of view, b) [[https://en.wikipedia.org/wiki/Wikipedia:No_original_research#Primary.2C_secondary_and_tertiary_sources][No original research]] and c)
+[[https://en.wikipedia.org/wiki/Wikipedia:Verifiability][Verifiability]].
+
+We are concerned here with /no original research/ which
+disallows direct use of primary source material in articles.
+
+Their argument is that Wikipedia is an encyplopedia that is
+a summary of existing thought, not original thoughts or
+ideas. So all assertations in Wikipedia must point to
+secondary sources.
+
+#+begin_quote
+In general, the most reliable sources are:
+
+  - Peer-reviewed journals
+  - Books published by university presses
+  - University-level textbooks
+  - Magazines, journals, and books published by respected
+    publishing houses.
+  - Mainstream newspapers
+#+end_quote 
+
+This is how encyclopedias are supposed to be compiled.  But
+these limitations, that are critical to establishing an
+encyclopedia as being authoritative, does not always apply
+to other types of works.
+
+Authority records are one of them.
+
+
+
 ** Chain of Custody
 
   - [[https://en.wikipedia.org/wiki/Chain_of_custody][Chain of custody]] | Wikipedia
+
+A chain of custody can be part of establishing provenance or
+any evidence that is used to establish the veracity of an
+assertation.
 
 #+begin_quote
 Establishing chain of custody is made of both a
@@ -772,7 +819,17 @@ in fact in the possession of the defendant.
   - [[https://en.wikipedia.org/wiki/Chain_of_custody][Chain of custody]] | Wikipedia
 #+end_quote
 
+Once a fact has been established -- with assertations that
+are linked to primary sources we need to established these
+as a chain of custody.  Links to sources must include a hash
+of the source and recorded in the blockchain -- this ensure
+that records have not been tampered with.
 
+Actually it doesn't do that -- it is still possible to
+tamper with records, but to do so means going back and
+changing so many things that are dependent on each other
+that the cost of tampering exceeds the benefit or resrouces
+availble to do so.
 
 ** LOC Authority Records
 
