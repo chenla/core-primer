@@ -758,6 +758,49 @@ different -- the more verifible or trusted facts that can be
 presented, the higher the confidence level is that what is
 being claimed is true.
 
+** LOC Authority Records
+
+ - [[https://www.loc.gov/marc/authority/][MARC 21 Format for Authority Data]] | MARC Standards, LOC
+
+
+#+begin_quote
+Traditionally, the purpose of authority control has been to
+bring consistency to library catalogs.  The authority
+control process is directed at the access points contained
+in catalog records i.e., names, titles, and subjects.  It
+ensures that these access points are unique and consistent
+in in content and form, and provides a network of linkages
+for variant and related headings in the catalog.  Reference
+to an authority file maintains consistency in controlled
+access points, while cross-references and the adjacent
+display of identical access points have been the primary
+methods used to accomplish the neccessary linkages in the
+catalog.
+
+-- [[bib:vellucci:2011metadata][Metadata and authority control]] | Sherry Vellucci
+#+end_quote
+
+
+#+begin_quote
+The MARC 21 Format for Authority Data is designed to be a
+carrier for information concerning the authorized forms of
+names, subjects, and subject subdivisions to be used in
+constructing access points in MARC records, the forms of
+these names, subjects, and subject subdivisions that should
+be used as references to the authorized forms, and the
+interrelationships among these forms. A name may be used as
+a main, added, series, or subject access entry.
+
+-- [[https://www.loc.gov/marc/authority/adintro.html][MARC 21 Format for Authority Data: Introduction]] | MARC, LOC
+#+end_quote
+
+The now ubiquitious hypertext link that makes the Web, the
+Web links everything to everything, but does not have any
+mechanism to determine what links relate to what persons,
+places, works or concepts.  An authority record is used to
+distinquish Apple (fruit) from Apple (Consumer Electronics
+Company)[fn:3]
+
 ** Facts
 
 Assertations -- which are determined to have a high
@@ -765,6 +808,13 @@ confidence level that they are true are called /facts/.
 
 
 * Footnotes
+
+[fn:3] In the late 20th Century, [[https://en.wikipedia.org/wiki/Apple_Inc.][Apple Inc.]] shifted from a
+company producing general purpose computers to a consumer
+lifestyle electronics manufacturer.  Some products are still
+protected by a [[https://en.wikipedia.org/wiki/Glamour_(presentation)#History][glamour]] (in the original sense of the word)
+and protective /wards/ (copyright) that gives them the
+appearance of being computers.
 
 [fn:2] It's interesting to contrast the colloquial use of
 "Wack-a-mole" to denote a repititious and futile task with
