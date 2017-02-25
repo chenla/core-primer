@@ -63,6 +63,13 @@ are what turns a group of parts into a holon
 A holon is the structure -- the guild are the bonds that bind things
 together into a holons.[fn:1]
 
+This principle should apply to everything -- structure and the bonds
+that hold them together -- that's the thing I think is missing from
+directed graphs -- it's all about the structure not the bonds the bind
+the structures.  It's not enough to wave your hands and say "ah,
+relationships" "as many as you want", as if they were gyros on
+Blaylock's Elfin Ship.
+
 ** Professional Guilds
 
 At their best Guilds played an important role in maintaining quality
