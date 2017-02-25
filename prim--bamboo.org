@@ -65,10 +65,24 @@ together into a holons.[fn:1]
 
 This principle should apply to everything -- structure and the bonds
 that hold them together -- that's the thing I think is missing from
-directed graphs -- it's all about the structure not the bonds the bind
+directed graphs -- it's all about the structure not the bonds that bind
 the structures.  It's not enough to wave your hands and say "ah,
 relationships" "as many as you want", as if they were gyros on
 Blaylock's Elfin Ship.
+
+
+So what are bonds?  a process?  as in the process of one thing
+becoming something else?  which means a link is transformative --
+the act of linking changes what is linked, becoming something else...
+
+the mental model I always had of directed graphs is static atoms with
+links pointing to other atoms, when in fact each link transforms both
+atoms on each side of the graph to become something greater than what
+it was before -- the total becoming more than the sum of its parts
+
+why the fuck hasn't anyone explained it that way before?  it's obvious
+as soon as you see it.
+
 
 ** Professional Guilds
 
