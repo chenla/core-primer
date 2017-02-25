@@ -124,10 +124,10 @@ Some ideas:
   - guilds should have no representation in civil governance beyond an
     advisory roles.
   - rent seeking is strictly prohibitive, though revenue can be
-    generated to cover costs of the organization
-  - membership is open to anyone
-  - guilds can not own property or companies
-  - 
+    generated to cover costs of the organization.
+  - membership is open to anyone.
+  - guilds can not own property or companies.
+  - guilds must depend on each other.
 
 Further, guilds will responsible for scholarly and research into their
 knolwedge domain -- they will work with researchers and scientists to
@@ -137,10 +137,15 @@ would guess that a lot of pure research will sponsored by guilds.
 Guilds are holons -- they are self-contained wholes and parts of a
 larger whole.
 
+Guilds overlap, and there will be any number of instances of
+individuals belonging to more than one guild...
+
 ** Crop Guilds
 
-A crop Guild is a grouping a plants, trees, animals, insects, and
-other components that work together
+A crop Guild is a grouping of plants, trees, animals, insects, and
+other components that work together to mimic aspects of ecosystems.
+
+
 
 
 * Bamboo Guild
@@ -200,6 +205,7 @@ The five main species for building with bamboo in Indonesia are:
 
  - Vertical Infusion Method
  - Bouchrie Method
+   - [[https://en.wikipedia.org/wiki/Wood_preservation#Boucherie_process][Boucherie process]] | Wikipedia
 ** Equipment
 
  - [[http://www.garnetindia.com/][Garnet India]] | Bamboo Processing Equipment
@@ -208,11 +214,14 @@ The five main species for building with bamboo in Indonesia are:
    garnetindia@gmail.com 
    info@garnetindia.com
 
+ - [[http://www.core77.com/posts/8982/bamboo-part-i-how-do-they-make-it-into-boards-8982][Bamboo, Part I: How do they make it into boards?]] | Core77
+ 
+
 ** Poles
 ** Chipping (fuel)
 ** Plywood
 
   - [[http://intectural.com/material/plyboo/][Plyboo – Bamboo Plywood Building Material]] | Intectural
-  - 
+  - [[https://www.bambooimport.com/en/blog/how-is-bamboo-lumber-made][How is Bamboo Lumber Made?]]
 
 Soybased adhesives
