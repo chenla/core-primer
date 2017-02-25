@@ -51,8 +51,21 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Guilds
 
-There are two kinds of guilds, a) A guild is usually defined as an
-association of people working toward a common goal.  
+There are two kinds of guilds are often defined as an association of
+people working toward a common goal.
+
+
+At their best Guilds played an important role in maintaining quality
+and professional standards, safe guarded knowledge, organized supply
+tool chains and were responsible for passing knowledge and skills from
+generation to generation.
+
+At their worst through many checkered centuries , guilds exercised
+rent seeking, monoplies, political influence, and even murder.
+
+
+Guilds were, in some cases the prototypes for and the nucleous of
+Universities such as Oxford and Paris.
 
 a crop guild is a grouping a plants, trees, animals, insects, and
 other components that work together
@@ -95,6 +108,24 @@ guild.[19]
 -- [[https://en.wikipedia.org/wiki/Guild][Guild]] | Wikipedia
 #+end_quote
 
+A lot of the problem with Guilds is that they had few if any checks
+and balances outside their organization.
+
+This needs to be addressed first within their charters, second within
+the organization of the guilds themselves, and finally from outside of
+the organization.
+
+Some ideas:
+
+  - all guild knowledge must be placed in the public domain under free
+    licences that protect it from monologies.
+  - guilds should have no representation in civil governance beyond an
+    advisory roles.
+  - rent seeking is strictly prohibitive, though revenue can be
+    generated to cover costs of the organization
+  - membership is open to anyone
+  - guilds can not own property or companies
+  - 
 
 * Bamboo Guild
 
