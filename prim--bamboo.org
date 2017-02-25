@@ -48,8 +48,46 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction
 
+The idea here is to create a bamboo network with many different shops
+working together to produce things from bamboo in a given bioregion.
+
   - [[http://bamboocentral.org/index1.htm][EBF-Environmental Bamboo Foundation]] |  Bali, Indonesia
   - [[https://everythingsbamboo.com/bamboo/bamboo-treatment/][Bamboo Treatment]] | Everything's Bamboo
+  - [[https://www.guaduabamboo.com/][Guadua Bamboo]]
+  - https://www.guaduabamboo.com/bamboo-pdfs/
+
+
+** Products
+
+  - building material
+    - raw
+    - laminate timber
+    - plywood
+  - paper
+  - fuel
+    - charcoal
+    - chips (gasification fuel
+  - food
+  - Manufactured
+    - furniture
+    - buildings
+    - bridges
+
+
+** Species
+
+The five main species for building with bamboo are: 
+
+   - [[https://en.wikipedia.org/wiki/Dendrocalamus_asper][Dendrocalamus asper]]      | Wikipedia
+     - [[https://www.guaduabamboo.com/species/?tag=Dendrocalamus+asper][Dendrocalamus asper]]    | Guadua Bamboo
+   - [[https://en.wikipedia.org/wiki/Gigantochloa_atter][Gigantochloa atter]]       | Wikipedia
+     - [[https://www.guaduabamboo.com/species/?tag=Gigantochloa+atter][Gigantochloa atter]]     | Guadua Bamboo
+   - [[https://en.wikipedia.org/wiki/Dendrocalamus_strictus][Dendrocalamus strictus]]   | Wikipedia
+     - [[https://www.guaduabamboo.com/species/?tag=Dendrocalamus+strictus][Dendrocalamus strictus]] | Guadua Bamboo
+   - [[https://en.wikipedia.org/wiki/Gigantochloa][Gigantochloa]]             | Wikipedia
+     - [[https://www.guaduabamboo.com/species/gigantochloa-apus][Gigantochloa apus]]      | Guadua Bamboo
+     - not common to Cambodia
+   - [[https://en.wikipedia.org/wiki/Guadua_angustifolia][Guadua angustifolia]]      | Wikipedia
 
 ** Treatment
 
