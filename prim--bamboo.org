@@ -59,35 +59,38 @@ working together to produce things from bamboo in a given bioregion.
 
 ** Products
 
-  - building material
+  - Building material
     - raw
     - laminate timber
     - plywood
-  - paper
-  - fuel
+  - Paper
+  - Fuel
     - charcoal
     - chips (gasification fuel
-  - food
+  - Food
   - Manufactured
     - furniture
     - buildings
     - bridges
 
-
 ** Species
 
-The five main species for building with bamboo are: 
+The five main species for building with bamboo in Indonesia are:
 
-   - [[https://en.wikipedia.org/wiki/Dendrocalamus_asper][Dendrocalamus asper]]      | Wikipedia
+   - Dendrocalamus asper
+     - [[https://en.wikipedia.org/wiki/Dendrocalamus_asper][Dendrocalamus asper]]    | Wikipedia
      - [[https://www.guaduabamboo.com/species/?tag=Dendrocalamus+asper][Dendrocalamus asper]]    | Guadua Bamboo
-   - [[https://en.wikipedia.org/wiki/Gigantochloa_atter][Gigantochloa atter]]       | Wikipedia
+   - Gigantochloa atter
+     - [[https://en.wikipedia.org/wiki/Gigantochloa_atter][Gigantochloa atter]]     | Wikipedia
      - [[https://www.guaduabamboo.com/species/?tag=Gigantochloa+atter][Gigantochloa atter]]     | Guadua Bamboo
-   - [[https://en.wikipedia.org/wiki/Dendrocalamus_strictus][Dendrocalamus strictus]]   | Wikipedia
+   - Dendrocalamus strictus
+     - [[https://en.wikipedia.org/wiki/Dendrocalamus_strictus][Dendrocalamus strictus]] | Wikipedia
      - [[https://www.guaduabamboo.com/species/?tag=Dendrocalamus+strictus][Dendrocalamus strictus]] | Guadua Bamboo
-   - [[https://en.wikipedia.org/wiki/Gigantochloa][Gigantochloa]]             | Wikipedia
+   - Gigantochloa apus
+     - [[https://en.wikipedia.org/wiki/Gigantochloa][Gigantochloa]]           | Wikipedia
      - [[https://www.guaduabamboo.com/species/gigantochloa-apus][Gigantochloa apus]]      | Guadua Bamboo
-     - not common to Cambodia
-   - [[https://en.wikipedia.org/wiki/Guadua_angustifolia][Guadua angustifolia]]      | Wikipedia
+   - Guadua angustifolia
+     - [[https://en.wikipedia.org/wiki/Guadua_angustifolia][Guadua angustifolia]]    | Wikipedia
 
 ** Treatment
 
@@ -95,3 +98,8 @@ Vertical Infusion Method
 
 ** Chipping (fuel)
 ** Plywood
+
+  - [[http://intectural.com/material/plyboo/][Plyboo – Bamboo Plywood Building Material]] | Intectural
+  - 
+
+Soybased adhesives
