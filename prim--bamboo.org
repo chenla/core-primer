@@ -54,7 +54,14 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 There are two kinds of guilds,  are often defined as an association of
 people working toward a common goal.
 
-More recently 
+----
+
+A guild is a mesh of mutual dependencies and obligations -- guilds are
+how we transcend the limitations of ourselves as individuals -- they
+are what turns a group of parts into a holon
+
+A holon is the structure -- the guild are the bonds that bind things
+together into a holons.[fn:1]
 
 ** Professional Guilds
 
@@ -225,3 +232,12 @@ The five main species for building with bamboo in Indonesia are:
   - [[https://www.bambooimport.com/en/blog/how-is-bamboo-lumber-made][How is Bamboo Lumber Made?]]
 
 Soybased adhesives
+
+* Footnotes
+
+[fn:1] This is one of this insights that make this whole effort
+worthwhile.  You spend decades hitting your head against the wall and
+then boom, you get these little treats -- like a fucking intellectual
+slot machine, giving you just enough money to keep going, from not
+giving up, from not thinking about how much you've lost to get where
+you are, and how impossibly far there is still to go...
