@@ -51,9 +51,12 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Guilds
 
-There are two kinds of guilds are often defined as an association of
+There are two kinds of guilds,  are often defined as an association of
 people working toward a common goal.
 
+More recently 
+
+** Professional Guilds
 
 At their best Guilds played an important role in maintaining quality
 and professional standards, safe guarded knowledge, organized supply
@@ -67,8 +70,7 @@ rent seeking, monoplies, political influence, and even murder.
 Guilds were, in some cases the prototypes for and the nucleous of
 Universities such as Oxford and Paris.
 
-a crop guild is a grouping a plants, trees, animals, insects, and
-other components that work together
+
 
 #+begin_quote
 The guild was made up by experienced and confirmed experts in their
@@ -94,7 +96,7 @@ masters. These journeys could span large parts of Europe and were an
 unofficial way of communicating new methods and techniques, though by
 no means all journeymen made such travels — they were most common in
 Germany and Italy, and in other countries journeymen from small cities
-would often visit the capital.[18]
+would often visit the capital.
 
 After this journey and several years of experience, a journeyman could
 be received as master craftsman, though in some guilds this step could
@@ -103,7 +105,7 @@ approval of all masters of a guild, a donation of money and other
 goods (often omitted for sons of existing members), and the production
 of a so-called "masterpiece,' which would illustrate the abilities of
 the aspiring master craftsman; this was often retained by the
-guild.[19]
+guild.
 
 -- [[https://en.wikipedia.org/wiki/Guild][Guild]] | Wikipedia
 #+end_quote
@@ -127,6 +129,20 @@ Some ideas:
   - guilds can not own property or companies
   - 
 
+Further, guilds will responsible for scholarly and research into their
+knolwedge domain -- they will work with researchers and scientists to
+apply new findings to refine and extend the state of the art -- I
+would guess that a lot of pure research will sponsored by guilds.
+
+Guilds are holons -- they are self-contained wholes and parts of a
+larger whole.
+
+** Crop Guilds
+
+A crop Guild is a grouping a plants, trees, animals, insects, and
+other components that work together
+
+
 * Bamboo Guild
 
 The idea here is to create a bamboo guild with many different shops
@@ -136,7 +152,6 @@ working together to produce things from bamboo in a given bioregion.
   - [[https://everythingsbamboo.com/bamboo/bamboo-treatment/][Bamboo Treatment]] | Everything's Bamboo
   - [[https://www.guaduabamboo.com/][Guadua Bamboo]]
   - https://www.guaduabamboo.com/bamboo-pdfs/
-
 
 ** Products
 
