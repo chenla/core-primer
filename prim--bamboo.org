@@ -1,0 +1,59 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Bamboo
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :Name: /home/deerpig/proj/chenla/primer/prim--bamboo.org
+  :Created: 2017-02-25T12:23@Prek Leap (11.642600N-104.919210W)
+  :ID: 57d8e183-9e3b-47d8-b3d0-70a1992b5f5e
+  :URL:
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+
+* Status of This Document
+
+The latest version of this document is: src_sh[:results value]{git describe --abbrev=0 --tags}
+
+#+HTML: <div class="notice notice-info">
+*Changes since the last version*
+
+#+HTML: <ul>
+
+#+BEGIN_SRC sh :exports results :results value html :var TAG="v00.01.02"
+  RES='git log $TAG...HEAD --pretty="<li>%s</li>\n" -- (file-name-nondirectory (buffer-file-name))'
+  if [ -z $RES ]; then
+    RES="<li>no changes</li>"
+  fi
+  echo $RES
+#+END_SRC
+
+#+RESULTS:
+#+BEGIN_EXPORT html
+<li>no changes</li>
+#+END_EXPORT
+
+#+HTML: </ul>
+#+HTML: </div>
+
+* Introduction
+
+  - [[http://bamboocentral.org/index1.htm][EBF-Environmental Bamboo Foundation]] |  Bali, Indonesia
+  - [[https://everythingsbamboo.com/bamboo/bamboo-treatment/][Bamboo Treatment]] | Everything's Bamboo
+
+** Treatment
+
+Vertical Infusion Method
+
+** Chipping (fuel)
+** Plywood
