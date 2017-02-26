@@ -61,7 +61,7 @@ how we transcend the limitations of ourselves as individuals -- they
 are what turns a group of parts into a holon
 
 A holon is the structure -- the guild are the bonds that bind things
-together into a holons.[fn:1]
+together into holons.[fn:1]
 
 This principle should apply to everything -- structure and the bonds
 that hold them together -- that's the thing I think is missing from
@@ -82,6 +82,16 @@ it was before -- the total becoming more than the sum of its parts
 
 why the fuck hasn't anyone explained it that way before?  it's obvious
 as soon as you see it.
+
+    relationships are verbs not adjectives/predicates
+
+
+a RDF statement is defined as a 3-tuple (triple) consisting of:
+
+   - subject:= the node the statement/edge starts at
+   - predicate := a semantically important label for for the
+     statement/edge
+   - object := the node that the statement/edge terminates at
 
 
 ** Professional Guilds
