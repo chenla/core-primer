@@ -663,6 +663,33 @@ for corruption.
 
 ** truth
 
+#+begin_verse
+The truth is hard.
+The truth is hidden.
+The truth must be pursued.
+The truth is harder to hear.
+The truth is rarely simple.
+The truth isn't so obvious.
+The truth is necessary.
+The truth can't be glossed over.
+The truth has no agenda.
+The truth can't be manufactured.
+The truth doesn't take sides.
+The truth isn't red or blue.
+The truth is hard to accept.
+The truth pulls no punches.
+The truth is powerful.
+The truth is under attack.
+The truth is worth defending.
+The truth requires taking a stand.
+The truth is more important now than ever.
+
+-- The New York Times Advertisment 2017
+   [[http://thehill.com/media/320787-new-york-times-launches-major-ad-campaign-the-truth][New York Times launches major ad campaign: 'The Truth']] | TheHill
+#+end_verse
+
+
+
 In many cases, truth somewhat falls short of being absolute.
 This is the reality of complexity -- complex systems can be
 described but nevery absolutely defined.
