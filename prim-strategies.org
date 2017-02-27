@@ -1073,7 +1073,9 @@ using the third person, so everything in the story happened in the
 past.  The statement can only be judged true if it was made after he
 died, and would not be true if it was made while he was alive.  This
 is actually quite important, Paul McCartney of the Beatles found in
-1966.[fn:5]
+1966.[fn:5] So, we would assume that the death register would record
+some other details, including the date and perhaps place and cause of
+his death.
 
 Next, Dickens assumed that we have a general consensus of what
 constitutes death as opposed to the more recent concept of [[https://en.wikipedia.org/wiki/Clinical_death][clinical
@@ -1087,6 +1089,81 @@ I mention this because when thinking about facts that are true over
 very long time frames, even the most rock-solid concepts like death
 might change quite radically in the distant future.  We can not take
 cultural assumptions of our time and apply them to others.
+
+    *Continue to talk about assumptions about Proper names, computer
+    understandable vs human understandable and then put it all
+    together into an example of all the information needed for the
+    statement Marley was Dead to be true.*
+
+    This section will need to be moved to the end -- as a means of
+    putting together everyhing -- from assertation to truth and
+    belief, chain of custody etc.
+
+** Consensus
+
+  - [[https://en.wikipedia.org/wiki/Wikipedia:Consensus][Wikipedia:Consensus]] | Wikipedia
+
+Consensus is a /process/ which is completed, it is not absolute, it
+will always be a snapshot -- consensus can change depending on how the
+surrounding context changes.
+
+
+#+begin_quote
+Consensus decision-making is a group decision-making process in which
+group members develop, and agree to support a decision in the best
+interest of the whole. Consensus may be defined professionally as an
+acceptable resolution, one that can be supported, even if not the
+"favourite" of each individual. Consensus is defined by
+Merriam-Webster as, first, general agreement, and second, group
+solidarity of belief or sentiment. It has its origin in the Latin word
+cōnsēnsus (agreement), which is from cōnsentiō meaning literally feel
+together. It is used to describe both the decision and the process
+of reaching a decision. Consensus decision-making is thus concerned
+with the process of deliberating and finalizing a decision, and the
+social, economic, legal, environmental and political effects of using
+this process.
+
+-- [[https://en.wikipedia.org/wiki/Consensus_decision-making][Consensus decision-making]]  Wikipedia
+#+end_quote
+
+Consensus is /not/ a /majority/, or /unanimity/
+
+
+#+begin_quote
+As a decision-making process, consensus decision-making aims to be:
+
+  - Agreement Seeking :: A consensus decision making process attempts to
+    generate as much agreement as possible.[2]
+  - Collaborative :: Participants contribute to a shared proposal and
+    shape it into a decision that meets the concerns of all group
+    members as much as possible.[3]
+  - Cooperative :: Participants in an effective consensus process should
+    strive to reach the best possible decision for the group and all
+    of its members, rather than competing for personal preferences.
+  - Egalitarian :: All members of a consensus decision-making body
+    should be afforded, as much as possible, equal input into the
+    process. All members have the opportunity to present, and amend
+    proposals.
+  - Inclusive :: As many stakeholders as possible should be involved in
+    the consensus decision-making process.
+  - Participatory :: The consensus process should actively solicit the
+    input and participation of all decision-makers.[4]
+
+-- [[https://en.wikipedia.org/wiki/Consensus_decision-making][Consensus decision-making]]  Wikipedia
+#+end_quote
+
+
+
+
+The term consensus has changed over time, and it is often wrongly used
+to indicate other things like 
+
+
+*** Truth by Consensus
+
+  - [[https://en.wikipedia.org/wiki/Truth_by_consensus][Truth by consensus]]  | Wikipedia
+
+Consensus is a poor way of arriving at truth in itself.
 
 
 ** Belief
