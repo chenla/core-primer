@@ -413,6 +413,11 @@ part time, or seasonally and then household production which everyone
 does to suppliment food, energy and infrastructure, and finally
 comunity barn-raising production.
 
+This breakdown is not a hard and fast rule -- there will be exceptions
+but those exceptions must not be allowed to become the rule, and each
+exception must be re-examined on a regular schedule to ensure that it
+can't be done in another way.
+
 There are no monopolies
 Shops must not be larger than xx
 
@@ -429,6 +434,9 @@ Average Shop needs to generate $20k a month in external revenue
 
 
 *** Household Production
+
+
+*** Barn-Raising
 
 ** Population
 
