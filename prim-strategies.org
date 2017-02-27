@@ -1021,33 +1021,52 @@ dead as a door-nail.
 We have already, in two short paragraphs, established a formidible
 case for the establishment of the truth of Marley's death.
 
-  - The Death Register, which is a government document, as well as
-    being a primary source declares Marley's demise.
-  - The Register entry includes evidence that a consensus was reached
-    to this assertion.  The consensus was not made in comments on
-    facebook or even a blizzard of Tweets, no, it was formed by a
-    number of persons who are considered to be, because of their
-    official position, to be trusted sources, including a Priest who
-    would have seen Marley's body as part of his duties as clergyman
-    and are often thought provide trustworthy testimony, a government
-    Clerk whose job is to verify that records such as this are
-    composed according to institutional rules, practices and perhaps
-    even laws of the City of London.  It was signed by the undertaker,
-    who also would be a reliable witness and who had extensive
-    experience in knowing if someone was dead or not.  We don't really
-    know the veractity of the chief mourner, as this was 19th century
-    England and it was common practice to hire mourners, especially in
-    the case as someone who was so universally unloved as Jacob
-    Marley.  But again, unless the chief mourner had been paid to
-    decieve us, it would also be logical to assume that the other
-    witnesses would have to been part of some kind of conspiracy.
-    Such a hypothesis does not pass Occums Razor and can be safely
-    discounted.  And finally Marley's long time partner, E. Scrooge
-    signed the document, who, as was mentioned was "good 'Change for
-    anything he chose to put his hand to". 
+The Death Register, which is a government document, as well as being a
+primary source declares Marley's demise.
 
+The Register entry includes evidence that a consensus was reached to
+this assertion.  The consensus was not made in comments on facebook or
+even a blizzard of Tweets, no, it was formed by a number of persons
+who are considered to be, because of their official position, to be
+trusted sources, including a Priest who would have seen Marley's body
+as part of his duties as clergyman and are often thought provide
+trustworthy testimony, a government Clerk whose job is to verify that
+records such as this are composed according to institutional rules,
+practices and perhaps even laws of the City of London.  It was signed
+by the undertaker, who also would be a reliable witness and who had
+extensive experience in knowing if someone was dead or not.  We don't
+really know the veractity of the chief mourner, as this was 19th
+century England and it was common practice to hire mourners,
+especially in the case as someone who was so universally unloved as
+Jacob Marley.  But again, unless the chief mourner had been paid to
+decieve us, it would also be logical to assume that the other
+witnesses would have to been part of some kind of conspiracy.  Such a
+hypothesis does not pass Occums Razor and can be safely discounted.
+And finally Marley's long time partner, E. Scrooge signed the
+document, who, as was mentioned was "good 'Change for anything he
+chose to put his hand to".
 
+You might think that it would have been enough to quote the first
+paragraph as being sufficient.  But it's interesting that Dicken's
+went on to state that not only was Marley was dead, but "dead as a
+door-nail" which, I suppose is not only making the statement that he
+is dead, but stating that he was "emphatially" dead, which is not so
+much providing the degree to which he was dead, after all dead is
+dead, just as you can't be a little bit pregnant, it is a binary
+statement -- one is either, dead, or alive.
 
+Next we come to the interesting thing about irreversible single
+direction state changes -- they are bound by an event that tips the
+state from one to the other.  They are bound by time.  So /when/ the
+statement /Marley was dead/ was asserted determines if the assertation
+is true or not.
+
+Dicken's used the word /was/ and not /is/ because the story was told
+using the third person, so everything in the story happened in the
+past.  The statement can only be judged true if it was made after he
+died, and would not be true if it was made while he was alive.  This
+is actually quite important, Paul McCartney of the Beatles found in
+1966.[fn:5]
 
 
 ** Belief
@@ -1192,6 +1211,16 @@ alien space craft looked like the interior of a '57 Buick"
 
 
 * Footnotes
+
+[fn:5] See: [[https://en.wikipedia.org/wiki/Paul_is_dead][Paul is dead]] | Wikipedia.  There is also the opposite case
+where people throughout history have claimed to be Kings and Popes who
+had previously died.  Coming back from the dead was a actually a
+fairly common claim, which puts Biblical claims into an interesting
+context when people of later ages were told of the resurrection of
+Jesus as being a singular event, when in fact at least through
+medieval times, such a claim barely raised an eyebrow...  Today, such
+claims still are made in the guise of popular fiction and culture
+which are dim echos of common beliefs held to be true in past ages.
 
 [fn:4]  Which would become difficult if everyone used
 bitcoins.  It /would/ make for a very interesting blockchain.
