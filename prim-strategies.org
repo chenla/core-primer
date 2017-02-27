@@ -1043,7 +1043,7 @@ decieve us, it would also be logical to assume that the other
 witnesses would have to been part of some kind of conspiracy.  Such a
 hypothesis does not pass Occums Razor and can be safely discounted.
 And finally Marley's long time partner, E. Scrooge signed the
-document, who, as was mentioned was "good 'Change for anything he
+document, who, as was mentioned was "good upon 'Change for anything he
 chose to put his hand to".
 
 You might think that it would have been enough to quote the first
@@ -1065,7 +1065,7 @@ partner of old.
 Next we come to the interesting thing about irreversible single
 direction state changes -- they are bound by an event that tips the
 state from one to the other.  They are bound by time.  So /when/ the
-statement /Marley was dead/ was asserted, determines if the assertation
+statement /Marley was dead/ was asserted, determines if the assertion
 is true or not.
 
 Dicken's used the word /was/ and not /is/ because the story was told
@@ -1081,7 +1081,7 @@ Next, Dickens assumed that we have a general consensus of what
 constitutes death as opposed to the more recent concept of [[https://en.wikipedia.org/wiki/Clinical_death][clinical
 death]].  Death is the point after which something can no longer be
 revived.  For humans, unless there is some breakthrough in cryogenic
-suspended animation, it is quite short.  However, for some creatures
+suspended animation, it is quite short.  However, some creatures
 such as the hardy little [[https://en.wikipedia.org/wiki/Tardigrade][tardigrade]] have been known to be able to
 revive after hundreds of years being frozen.
 
@@ -1295,7 +1295,60 @@ a wonderful comment to the effect, that "the interior of all
 alien space craft looked like the interior of a '57 Buick"
 
 
+** Importance
 
+Bitcoin's blockchain made it possible for trustless transactions.
+The block chain has had impeccable timing -- the institutions that
+make civilization and functioning societies possible work can only
+work when the rate of change and flow of information is within
+thresholds which we don't yet know -- but it would seem that we are
+rapidly approaching them.
+
+This is crazy complicated -- and is closely tied to the maximum
+amounts of change and information that humans can process in any given
+period of time and still be able to function.
+
+We have relied on local, regional and global financial institutions to
+provide an infrastructure for trusted transactions.  But the speed
+that transactions can take place (measured now in millionths of a a
+second) has outpaced the ability for the governance layer to be able
+to police and act as a check on commerce.  All the power is shifting
+to the few that have access  to computational power and network speeds
+that are literally beyond human comprehension.
+
+This is only the beginning -- because, as we are all aware, money is
+nothing more than information.  So whatever happens with money and
+transactions will quickly spill over and encompass any and every kind
+of information.
+
+We, as individuals are grasping at smoke, that shifts defies solidity.
+The basic information that we need to survive as individuals and as a
+civilization is increasingly in the hands of a tiny percentage of
+people.  We're all living in a Philip K. Dick novel where we don't
+know what is real, or even who or what we are.  It's telling that the
+idea that the universe is a simulation, like in the Matrix film
+Trilogy films, is actually so close to being plausible, that an
+increasing number of the brightest scientists on the planet feel the
+need to weigh in on the question when the existence of God barely
+elicits a shrug anymore.... Even PKD didn't see that one coming.
+
+We need facts and truth to scale to global industrial scales -- so
+that not matter how many facts are asserted; not millions, or billions
+but trillions just for starters, that we have a trustless framework
+for determining what assertions are facts which we know within a range
+of certainty are true or not.
+
+   Ebola is scary as hell, but it will never wipe us all out because
+   it incubates too fast.  Trump is the Ebola of truth -- there are
+   groups around the world, over the past thirty years who have
+   quietly and systematically undermined the collective grasp of what
+   is true. There have always been people and groups who have tried to
+   do this, but technology as made it possible to refine and roll out
+   these techniques on a scale that few understand.  Trump is so inept
+   and patently dimwitted that when he uses these same techniques,
+   people see through them.  It is hoped that this is the crack in the
+   seawall that will eventually bring it all down and level the
+   playing field for everyone.
 
 * Shop chains
 
