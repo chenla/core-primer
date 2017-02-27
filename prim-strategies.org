@@ -983,8 +983,70 @@ Company)[fn:3]
 
 ** Facts
 
-Assertations -- which are determined to have a high
-confidence level that they are true are called /facts/.
+Assertations -- which are determined to have a high confidence level
+that they are true are called /facts/.
+
+That said, there are not facts in isolation -- a fact is a network of
+assertations that are by consenus, considered to be true within a
+given context.
+
+Let's take a simple assertation from a beloved piece of literature:
+
+#+begin_center
+"Marley was dead."
+#+end_center
+
+Most of us would think that such a simple assertation would be
+straight forward, but this is Charles Dickens, who was being paid by
+the word...
+
+#+begin_quote
+Marley was dead, to begin with. There is no doubt whatever about that.
+The register of his burial was signed by the clergyman, the clerk, the
+undertaker, and the chief mourner. Scrooge signed it. And Scrooge's
+name was good upon 'Change for anything he chose to put his hand
+to. Old Marley was as dead as a door-nail.
+
+Mind! I don't mean to say that I know, of my own knowledge, what there
+is particularly dead about a door-nail. I might have been inclined,
+myself, to regard a coffin-nail as the deadest piece of ironmongery in
+the trade. But the wisdom of our ancestors is in the simile; and my
+unhallowed hands shall not disturb it, or the Country's done for. You
+will, therefore, permit me to repeat, emphatically, that Marley was as
+dead as a door-nail.
+
+-- A Christmas Carol | Charles Dickens
+#+end_quote
+
+We have already, in two short paragraphs, established a formidible
+case for the establishment of the truth of Marley's death.
+
+  - The Death Register, which is a government document, as well as
+    being a primary source declares Marley's demise.
+  - The Register entry includes evidence that a consensus was reached
+    to this assertion.  The consensus was not made in comments on
+    facebook or even a blizzard of Tweets, no, it was formed by a
+    number of persons who are considered to be, because of their
+    official position, to be trusted sources, including a Priest who
+    would have seen Marley's body as part of his duties as clergyman
+    and are often thought provide trustworthy testimony, a government
+    Clerk whose job is to verify that records such as this are
+    composed according to institutional rules, practices and perhaps
+    even laws of the City of London.  It was signed by the undertaker,
+    who also would be a reliable witness and who had extensive
+    experience in knowing if someone was dead or not.  We don't really
+    know the veractity of the chief mourner, as this was 19th century
+    England and it was common practice to hire mourners, especially in
+    the case as someone who was so universally unloved as Jacob
+    Marley.  But again, unless the chief mourner had been paid to
+    decieve us, it would also be logical to assume that the other
+    witnesses would have to been part of some kind of conspiracy.
+    Such a hypothesis does not pass Occums Razor and can be safely
+    discounted.  And finally Marley's long time partner, E. Scrooge
+    signed the document, who, as was mentioned was "good 'Change for
+    anything he chose to put his hand to". 
+
+
 
 
 
