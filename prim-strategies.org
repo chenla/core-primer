@@ -398,6 +398,38 @@ rural.  However, in order to be able to factor in that the
 community will try to produce as much of the food they need
 themselves, the model will be more rural than urban.
 
+** Notes
+
+600 people (village)
+130 households (kh average 4.7)
+150 active workers (25% of people in households)
+40 shops (average 4/shop)
+
+---
+
+There are three tiers to production, primary shops who are dedicated
+full time to an activity, secondary shops which perform activities
+part time, or seasonally and then household production which everyone
+does to suppliment food, energy and infrastructure, and finally
+comunity barn-raising production.
+
+There are no monopolies
+Shops must not be larger than xx
+
+*** Primary Shops
+
+$4,000 a month salary
+full health (for everyone)
+70% of food
+100% education
+
+Average Shop needs to generate $20k a month in external revenue
+
+*** Secondary Shops
+
+
+*** Household Production
+
 ** Population
 
 This will be model of a village.  We define a village as

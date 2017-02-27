@@ -84,8 +84,7 @@ why the fuck hasn't anyone explained it that way before?  it's obvious
 as soon as you see it.
 
     relationships are verbs not adjectives/predicates
-
-
+ 
 a RDF statement is defined as a 3-tuple (triple) consisting of:
 
    - subject:= the node the statement/edge starts at
