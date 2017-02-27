@@ -1053,12 +1053,19 @@ door-nail" which, I suppose is not only making the statement that he
 is dead, but stating that he was "emphatially" dead, which is not so
 much providing the degree to which he was dead, after all dead is
 dead, just as you can't be a little bit pregnant, it is a binary
-statement -- one is either, dead, or alive.
+statement -- one is either, dead, or alive.  In the case of Dicken's
+story, it was important to stress this assertation to the reader who
+would find themselves confronting Marley's ghost, in conversation with
+Scrooge only a few pages later.  It was important that the reader
+understood that Marley was dead when he entered Scrooge's bedroom who
+was now a manifestation of the living Marley, now turned into a
+miserable and tortured specter who had been tasked to forewarn his
+partner of old.
 
 Next we come to the interesting thing about irreversible single
 direction state changes -- they are bound by an event that tips the
 state from one to the other.  They are bound by time.  So /when/ the
-statement /Marley was dead/ was asserted determines if the assertation
+statement /Marley was dead/ was asserted, determines if the assertation
 is true or not.
 
 Dicken's used the word /was/ and not /is/ because the story was told
@@ -1067,6 +1074,19 @@ past.  The statement can only be judged true if it was made after he
 died, and would not be true if it was made while he was alive.  This
 is actually quite important, Paul McCartney of the Beatles found in
 1966.[fn:5]
+
+Next, Dickens assumed that we have a general consensus of what
+constitutes death as opposed to the more recent concept of [[https://en.wikipedia.org/wiki/Clinical_death][clinical
+death]].  Death is the point after which something can no longer be
+revived.  For humans, unless there is some breakthrough in cryogenic
+suspended animation, it is quite short.  However, for some creatures
+such as the hardy little [[https://en.wikipedia.org/wiki/Tardigrade][tardigrade]] have been known to be able to
+revive after hundreds of years being frozen.
+
+I mention this because when thinking about facts that are true over
+very long time frames, even the most rock-solid concepts like death
+might change quite radically in the distant future.  We can not take
+cultural assumptions of our time and apply them to others.
 
 
 ** Belief
