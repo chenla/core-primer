@@ -425,7 +425,7 @@ Shops must not be larger than xx
 
 $4,000 a month salary
 full health (for everyone)
-70% of food
+70% of food 
 100% education
 
 Average Shop needs to generate $20k a month in external revenue
