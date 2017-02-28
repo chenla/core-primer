@@ -1081,9 +1081,9 @@ Next, Dickens assumed that we have a general consensus of what
 constitutes death as opposed to the more recent concept of [[https://en.wikipedia.org/wiki/Clinical_death][clinical
 death]].  Death is the point after which something can no longer be
 revived.  For humans, unless there is some breakthrough in cryogenic
-suspended animation, it is quite short.  However, some creatures
-such as the hardy little [[https://en.wikipedia.org/wiki/Tardigrade][tardigrade]] have been known to be able to
-revive after hundreds of years being frozen.
+suspended animation, it is quite short.  However, some creatures such
+as the hardy little [[https://en.wikipedia.org/wiki/Tardigrade][tardigrade]] have been known to be able to [[http://www.bbc.com/earth/story/20150313-the-toughest-animals-on-earth][revive]]
+after being frozen for hundreds of years.
 
 I mention this because when thinking about facts that are true over
 very long time frames, even the most rock-solid concepts like death
@@ -1360,6 +1360,17 @@ semi-structured pile of steaming information, but a pillar of
 interconnected facts that weave all of that information into something
 that we can trust and rely on even though we don't trust anyone....
 
+----
+
+EVERYTHING depends on facts that people trust and believe in.
+
+The assertion spew:
+
+  - The Internet of Things
+  - Social Networks
+  - Transactions
+  - Business, Government etc
+  - 
 
 * Shop chains
 
@@ -1375,7 +1386,7 @@ that we can trust and rely on even though we don't trust anyone....
 
 [fn:5] See: [[https://en.wikipedia.org/wiki/Paul_is_dead][Paul is dead]] | Wikipedia.  There is also the opposite case
 where people throughout history have claimed to be Kings and Popes who
-had previously died.  Coming back from the dead was a actually a
+had previously died.  Coming back from the dead was actually a
 fairly common claim, which puts Biblical claims into an interesting
 context when people of later ages were told of the resurrection of
 Jesus as being a singular event, when in fact at least through
