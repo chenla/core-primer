@@ -1238,6 +1238,41 @@ it can only work with /no/ venture capital
 it can't be taken seriously until it hits that tipping point and then
 there is no turning back -- everyone will be stuck with it
 
+next -- everyone pays -- that currencies that are not based on
+something of value are instead based on belief for their value.  Gold
+and silver was a terrible thing to base value on because in the end
+it's just a shiny soft metal which has not intrinsic worth except for
+it's rarity.  The ancient greeks used olive oil at least as a time as
+a kind of currency -- which at least is a commodity.  We need
+something that is not reversible, and consumed completely.  You might
+be able to resell used oil, and oil comes in any numbers of different
+kinds of quality...  not good.
+
+But energy is something that could work -- you perform work to produce
+it (which indirectly is all nuclear -- or at least capture and store
+it - batteries, oil, gas, sugars etc.).  If you do useful work
+measured in the amount of energy used or generated -- that generates
+tokens.  If you consume energy or things or services that are created
+with energy, you destroy tokens.  There is no exchange, but it
+functions as if there is.
+
+This is how the fnord-chain will work -- a fnord is a verified fact
+that is recorded in the fnord-chain.  A fnord is a fact within the
+context that it is true -- if the context changes, then it may or may
+not be still true, but it was true in that previous context.  That's
+why we call it a fnord -- because a fnord is a conceptual probability
+cloud of all possible contexts where something could be true in any
+number (but not finite) of different ways.  In a fnord nothing and
+everything is both true and false.  But if you observe it, it will
+appear as either true or false according to the context that it was
+observed in.  In this way a fnord encompasses all /possible/ universes
+-- the possible part is important, which makes it a subset of all
+universes, because it requires a causal chain.  Causality is the only
+real thing that limits a fnord.  And establishing causal chains is
+what the fnord-chain does in a way that doesn't require trusted
+third-parties as authorities.  The fnord-chain is a rhizomatic mesh of
+casual chains that estabish a sub-set of possible facts and lies.
+
 ------
 
 the truth -- evidence-based truth is at the heart of criminal justice
@@ -1255,6 +1290,7 @@ halucinate.  If you step into an empty elevator shaft on the 36th
 floor or a building (and many other floors of higher and lower
 elevations) in a gravity well, you will fall to your death at the
 bottom of the shaft.
+
 
 ----
 
