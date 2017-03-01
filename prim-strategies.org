@@ -1368,7 +1368,7 @@ The assertion spew:
   - Social Networks
   - Transactions
   - Business, Government etc
-  - 
+  - Contracts, Laws
 
 * Shop chains
 
