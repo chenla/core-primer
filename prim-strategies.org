@@ -663,35 +663,6 @@ The truth is more important now than ever.
 #+end_verse
 
 
-
-fnord.ltd is available for $4.99
-
-the only way to establish a fact-based society is to be so deadly
-serious that no one will take you seriously
-
-it can only work with /no/ venture capital
-
-it can't be taken seriously until it hits that tipping point and then
-there is no turning back -- everyone will be stuck with it
-
-------
-
-the truth -- evidence-based truth is at the heart of criminal justice
-systems, science, and attempts at goverance that is not flat out
-trying to fuck you over.
-
-facts are the one thing we can agree on, because they are based on
-something that everyone can point to and see and hear and touch and
-scream at it and won't go away, doesn't fade or loose it's shine or
-that new car smell.  Facts are all we have. Facts are the only thing
-we have that allows us to get along without murdering each other, to
-death or worse.  There is no truth that is not based on facts, there
-is no truth in what you feel, or believe or hope or dream, imagine or
-halucinate.  If you step into an empty elevator shaft on the 36th
-floor or a building (and many other floors of higher and lower
-elevations) in a gravity well, you will fall to your death at the
-bottom of the shaft.
-
 In many cases, truth somewhat falls short of being absolute.  This is
 the reality of complexity -- complex systems can be described but
 nevery absolutely defined.
@@ -1258,6 +1229,34 @@ craft looked like the interior of a '57 Buick"
 
 
 ** Importance
+
+the only way to establish a fact-based society is to be so deadly
+serious that no one will take you seriously
+
+it can only work with /no/ venture capital
+
+it can't be taken seriously until it hits that tipping point and then
+there is no turning back -- everyone will be stuck with it
+
+------
+
+the truth -- evidence-based truth is at the heart of criminal justice
+systems, science, and attempts at goverance that is not flat out
+trying to fuck you over.
+
+facts are the one thing we can agree on, because they are based on
+something that everyone can point to and see and hear and touch and
+scream at it and won't go away, doesn't fade or loose it's shine or
+that new car smell.  Facts are all we have. Facts are the only thing
+we have that allows us to get along without murdering each other, to
+death or worse.  There is no truth that is not based on facts, there
+is no truth in what you feel, or believe or hope or dream, imagine or
+halucinate.  If you step into an empty elevator shaft on the 36th
+floor or a building (and many other floors of higher and lower
+elevations) in a gravity well, you will fall to your death at the
+bottom of the shaft.
+
+----
 
 Bitcoin's blockchain made it possible for trustless transactions.
 The block chain has had impeccable timing -- the institutions that
