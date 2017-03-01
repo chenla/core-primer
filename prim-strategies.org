@@ -646,7 +646,7 @@ Messages and assertations need to checked to see if they are
 free of errors when being sent and then if the assertations
 in the message are reliable -- in otherwords true.
 
-** corruption
+** corruption aka noise aka errors aka 4%t08^w*4e;j
 
 When you transmit something you are making a copy.  That
 copy may only need to go from a USB drive to a Hard disk on
@@ -662,6 +662,15 @@ with transmission/copying errors and correcting for noise,
 for corruption.
 
 ** truth
+
+#+begin_quote
+There are trivial truths & there are great truths.  The opposite of a
+trivial truth is plainly false.  The opposite of a great truth is also
+true.
+
+-- Neils Bohr
+#+end_quote
+
 
 #+begin_verse
 The truth is hard.
