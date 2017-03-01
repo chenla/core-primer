@@ -49,238 +49,213 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction
 
-Mollison's final section of PDM (Permaculture A Designer's
-Manual) was devoted to /Strategies for An Alternate Nation/
-in which he outlined in some detail how to built communities
-and whole economies based on the Permaculture concepts laid
-out in the book.  There are some very good ideas, mostly
-based in practical experience of things that have worked
-before.
+Mollison's final section of PDM (Permaculture A Designer's Manual) was
+devoted to /Strategies for An Alternate Nation/ in which he outlined
+in some detail how to built communities and whole economies based on
+the Permaculture concepts laid out in the book.  There are some very
+good ideas, mostly based in practical experience of things that have
+worked before.
 
-We will use this part of the Primer to do the same, but it
-will include actual designs, code, and models that can be
-used for planning and eventually as a foundation for
-building and governing Scopic Distributed Communities.
+We will use this part of the Primer to do the same, but it will
+include actual designs, code, and models that can be used for planning
+and eventually as a foundation for building and governing Scopic
+Distributed Communities.
 
-When I first approached the problem of how to build a new
-civilization I basically passed on the idea.  It was too
-big, and it was utter hubris to think that a civilization
-could be designed top down.  So I concentrated on the idea
-of building a distributed group of small communities that
-were designed collectively to become caretakers of mankind's
-collective memory and experience.  When things got bad,
-these communities could then come in and restore knowledge
-whenever and wherever it was lost.  The model that was at
-the back of my mind was the medieval monastary.  These were
-and still are today stable communities that have survived
-centuries and have indeed been the last refuge of much of
-mankind's recorded knowledge that was preserved through
-centuries of darkness.  There is a reason these centuries
-were called the Dark Ages.  And every civilization has gone
-through numerous dark Ages.  Greek Civilization emerged from
-such a Dark Age and the Illiad and Odyssey are both works
-describing the civilization that existed hundreds of years
-before Homer.  The Chinese have a long history of periodic
-and devestating self-inflicted Darkness.  It seems to be a
-fundemental part of the human character to periodically go
+When I first approached the problem of how to build a new civilization
+I basically passed on the idea.  It was too big, and it was utter
+hubris to think that a civilization could be designed top down.  So I
+concentrated on the idea of building a distributed group of small
+communities that were designed collectively to become caretakers of
+mankind's collective memory and experience.  When things got bad,
+these communities could then come in and restore knowledge whenever
+and wherever it was lost.  The model that was at the back of my mind
+was the medieval monastary.  These were and still are today stable
+communities that have survived centuries and have indeed been the last
+refuge of much of mankind's recorded knowledge that was preserved
+through centuries of darkness.  There is a reason these centuries were
+called the Dark Ages.  And every civilization has gone through
+numerous dark Ages.  Greek Civilization emerged from such a Dark Age
+and the Illiad and Odyssey are both works describing the civilization
+that existed hundreds of years before Homer.  The Chinese have a long
+history of periodic and devestating self-inflicted Darkness.  It seems
+to be a fundemental part of the human character to periodically go
 collectively insane and self-destruct.
 
 #+begin_quote
-James Clement van Pelt, co-founder of Yale's Initiative in
-Religion, Science & Technology, suggests that Sisyphus
-also personifies humanity and its disastrous pursuit of
-perfection by any means necessary, in which the great rock
-repeatedly rushing down the mount symbolizes the
-accelerating pace of unsustainable civilization toward
-cataclysmic collapse and cultural oblivion that ends each
-historical age and restarts the sisyphean cycle.
+James Clement van Pelt, co-founder of Yale's Initiative in Religion,
+Science & Technology, suggests that Sisyphus also personifies humanity
+and its disastrous pursuit of perfection by any means necessary, in
+which the great rock repeatedly rushing down the mount symbolizes the
+accelerating pace of unsustainable civilization toward cataclysmic
+collapse and cultural oblivion that ends each historical age and
+restarts the sisyphean cycle.
 
 -- [[https://en.wikipedia.org/wiki/Sisyphus#cite_note-24][Sisyphus]] - Wikipedia
    [[bib:jochemsen:2010different]]
 #+end_quote
 
-But the more I studied the model of monastic estates, the
-more I became disillusioned with the idea.  By setting
-yourself apart from the rest of the culture and civilization
-you are there to help preserve you become a perpetual target
--- humans are wired to catagorize each other as either
-belonging to your group -- one of us -- and everyone else,
-who are outsiders or others.  We find it easy to believe
-that anyone who is not one of us, is not just different, and
-not even an enemy, but evil or not even human and not
-deserving of being treated even as well as an animal.  This
-is how we rationalize slavery, racism, sexism and
-xenophobia.
+But the more I studied the model of monastic estates, the more I
+became disillusioned with the idea.  By setting yourself apart from
+the rest of the culture and civilization you are there to help
+preserve you become a perpetual target -- humans are wired to
+catagorize each other as either belonging to your group -- one of us
+-- and everyone else, who are outsiders or others.  We find it easy to
+believe that anyone who is not one of us, is not just different, and
+not even an enemy, but evil or not even human and not deserving of
+being treated even as well as an animal.  This is how we rationalize
+slavery, racism, sexism and xenophobia.
 
-Universities emerged from the monastic tradition, and
-continued many traditions and even titles from european
-monastaries even today.  Titles like rector, xxxxxxx
-xxxxxxxx xxxxxxx echo the universities monastic ancestry.
+Universities emerged from the monastic tradition, and continued many
+traditions and even titles from european monastaries even today.
+Titles like rector, xxxxxxx xxxxxxxx xxxxxxx echo the universities
+monastic ancestry.
 
 Universities have often been thought of as /others/ in their
-neighboring communities.  The /Town-Gown/ rivalry is as old
-as Universities themselves.  The /Latin Quarter/ in Paris, a
-part of the city which became the proto-model for the modern
-university before they were granted their own land to create
-campuses had any number of problems with the rest of the
-city.  Teachers were granted special legal status, teachers
-and students spoke /latin/, which before then had only been
-spoken by the clergy, and only heard by commoners during
-mass.  No one could read, write or speak latin unless you
-joined the church or went to school.  That set them apart.
-Because educated people are /educated/, they sometimes tend
-to dispense with many common social customs, and
-superstitions.  That set them apart.  They even dressed
-strangely, in gowns (robes) which definately set them apart.
+neighboring communities.  The /Town-Gown/ rivalry is as old as
+Universities themselves.  The /Latin Quarter/ in Paris, a part of the
+city which became the proto-model for the modern university before
+they were granted their own land to create campuses had any number of
+problems with the rest of the city.  Teachers were granted special
+legal status, teachers and students spoke /latin/, which before then
+had only been spoken by the clergy, and only heard by commoners during
+mass.  No one could read, write or speak latin unless you joined the
+church or went to school.  That set them apart.  Because educated
+people are /educated/, they sometimes tend to dispense with many
+common social customs, and superstitions.  That set them apart.  They
+even dressed strangely, in gowns (robes) which definately set them
+apart.
 
-It's no surprise that whenever populism or a populist
-movement is on the rise, there is a backlash against the
-educated and especially against educational institutions.
-Time and time again, Univeristies have been the place where
-it is thought where uprisings are incubated and civil unrest
-instigated.  Purges and even wholesale slaughter of people
-in Universities are a far too common occurance throughout
-history.  I am writing this in an office of a Univeristy
-that had all but two of it's PhDs murdered in my lifetime.
-Turkey is the most recent place to see mass arrests across
-the country.  The Americans haven't yet commited broadscale
-universicide but events like the Kent State Masacre and
-before that the darkness of the McCarthy era witch hunts
-show that they are not the exception to the rule.
+It's no surprise that whenever populism or a populist movement is on
+the rise, there is a backlash against the educated and especially
+against educational institutions.  Time and time again, Univeristies
+have been the place where it is thought where uprisings are incubated
+and civil unrest instigated.  Purges and even wholesale slaughter of
+people in Universities are a far too common occurance throughout
+history.  I am writing this in an office of a Univeristy that had all
+but two of it's PhDs murdered in my lifetime.  Turkey is the most
+recent place to see mass arrests across the country.  The Americans
+haven't yet commited broadscale universicide but events like the Kent
+State Masacre and before that the darkness of the McCarthy era witch
+hunts show that they are not the exception to the rule.
 
-People fear the /other/, so if we are trying to provide very
-long term safeguards against our own darker natures the
-monastic, temple or university model has almost as many
-things going for it as it does against it.
+People fear the /other/, so if we are trying to provide very long term
+safeguards against our own darker natures the monastic, temple or
+university model has almost as many things going for it as it does
+against it.
 
-Even if we put aside these misgivings about monastic models,
-if our goal is to preserve and safeguard civilization it
-will always be a /descriptive/ record.  Knowledge is not
-just what is in a book, it's information that has been woven
-into a person's brain -- knowledge is always a living thing.
-Recorded knowledge, once it has passed out of living memory
-is in a sense, lost.  It has to be reinvented in your head
-and in your hands from the pages of a book -- weaving that
-information into your brain through constant reinforcement
-and practice.
+Even if we put aside these misgivings about monastic models, if our
+goal is to preserve and safeguard civilization it will always be a
+/descriptive/ record.  Knowledge is not just what is in a book, it's
+information that has been woven into a person's brain -- knowledge is
+always a living thing.  Recorded knowledge, once it has passed out of
+living memory is in a sense, lost.  It has to be reinvented in your
+head and in your hands from the pages of a book -- weaving that
+information into your brain through constant reinforcement and
+practice.
 
-If you have to choose between rebooting a collapsed
-civilization from a neighboring civilization or from a
-library of books that have been unearthed after the collapse
-that recorded what has been lost, rebooting from the
-neighbor is a far better option.
+If you have to choose between rebooting a collapsed civilization from
+a neighboring civilization or from a library of books that have been
+unearthed after the collapse that recorded what has been lost,
+rebooting from the neighbor is a far better option.
 
-This is where the /distributed/ comes in.  The idea of
-LOCKSS, /lot's of copies keep stuff staff/[fn:1] works well
-here.  Throughout the last ten thousand years or so since
-the emergance of cilvization there have always been multiple
-civilzations on the planet.  Civilization has always been a
-bit like [[https://en.wikipedia.org/wiki/Whac-A-Mole][Whack-A-Mole]].  Knock down one and another pops up
-elsewhere.[fn:2]
+This is where the /distributed/ comes in.  The idea of LOCKSS, /lot's
+of copies keep stuff staff/[fn:1] works well here.  Throughout the
+last ten thousand years or so since the emergance of cilvization there
+have always been multiple civilzations on the planet.  Civilization
+has always been a bit like [[https://en.wikipedia.org/wiki/Whac-A-Mole][Whack-A-Mole]].  Knock down one and another
+pops up elsewhere.[fn:2]
 
 #+CAPTION: Sisypher dwarves by Tomasz Moczek (pl) in Wrocław
 [[./img/strategies/Syzyfki_(Sisyphers)_Wroclaw_dwarf_02.jpg]]
 
 #+begin_comment
-Image Credit:
-[[https://commons.wikimedia.org/wiki/File%3ASyzyfki_(Sisyphers)_Wroclaw_dwarf_01.JPG][Sisypher dwarves]] by Tomasz Moczek (pl) in Wrocław
-By Tomasz MoczekPnapora [[http://creativecommons.org/licenses/by-sa/3.0][CC BY-SA 3.0]], via Wikimedia Commons
+Image Credit: [[https://commons.wikimedia.org/wiki/File%3ASyzyfki_(Sisyphers)_Wroclaw_dwarf_01.JPG][Sisypher dwarves]] by Tomasz Moczek (pl) in Wrocław By
+Tomasz MoczekPnapora [[http://creativecommons.org/licenses/by-sa/3.0][CC BY-SA 3.0]], via Wikimedia Commons
 #+end_comment
 
-This has worked so far, even though at any one time there
-may have never been more than half a dozen or so
-civilizations on the planet at any given time.
+This has worked so far, even though at any one time there may have
+never been more than half a dozen or so civilizations on the planet at
+any given time.
 
-There is no real going back -- civilization crossed a
-threshold when it became dependent on technological
-innovation in order to survive.  Once you have become a
-technological civilization there is no going back, it's
-either forward or collapse.  And once you've collapsed you
-have to start from square one, and since the biggest factor
-that made it possible to build a technological civilization
-was access to easily accessable raw materials and energy.
-Since we've exhausted all the easily mined and drilled
-resources it would make it several or orders of magnitude to
-rebuild without access to those resouces using early
+There is no real going back -- civilization crossed a threshold when
+it became dependent on technological innovation in order to survive.
+Once you have become a technological civilization there is no going
+back, it's either forward or collapse.  And once you've collapsed you
+have to start from square one, and since the biggest factor that made
+it possible to build a technological civilization was access to easily
+accessable raw materials and energy.  Since we've exhausted all the
+easily mined and drilled resources it would make it several or orders
+of magnitude to rebuild without access to those resouces using early
 industrial technology.
 
-It's been said that it takes an industrial civilization to
-build an industrial civilization.  If we don't have another
-civilization to reboot from, then without easy energy and
-materials it might not be possible to sustain a large enough
-population for mankind to be able to do it a second time.
+It's been said that it takes an industrial civilization to build an
+industrial civilization.  If we don't have another civilization to
+reboot from, then without easy energy and materials it might not be
+possible to sustain a large enough population for mankind to be able
+to do it a second time.
 
-It's this thinking that is behind the argument for mankind
-to become a multi-planet species.  If civilization is
-global, in order for us to reboot from another civilization,
-we will need another globe.
+It's this thinking that is behind the argument for mankind to become a
+multi-planet species.  If civilization is global, in order for us to
+reboot from another civilization, we will need another globe.
 
-This only get's us part of the way there.  Having two or
-perhaps even three or four instances of civilization in the
-Solar System is still only slightly better than what we have
-now.  Mankind is infinately ingenious in devising methods of
-destroying itself.  Having two precariously balanced
-instances of civilization is not enough.  If lots of copies
-keep stuff safe, I would argue that no one would agree that
-two of something consitutes a /lot of copies/.
+This only get's us part of the way there.  Having two or perhaps even
+three or four instances of civilization in the Solar System is still
+only slightly better than what we have now.  Mankind is infinately
+ingenious in devising methods of destroying itself.  Having two
+precariously balanced instances of civilization is not enough.  If
+lots of copies keep stuff safe, I would argue that no one would agree
+that two of something consitutes a /lot of copies/.
 
-What is needed is to build in massive redundancies into the
-fabric and structure of civilization, so that it mimics the
-most massively redundent information, DNA. every cell of
-every living thing carries the full blueprint of how to make
-a copy of itself.  And the DNA of any one creature contains
-most of the code required to build most other creatures on
-the planet.  The only hope for Mankind to preserve itself
-and it's civilization is mimic that kind of redundancy as
-much as possible.  This means in effect that a global (or
-solar) distributed civilization is actually made of up of
-hundreds of thousands or even millions of copies of itself,
-each one capable of rebuilding all of civilization on its
-own.
+What is needed is to build in massive redundancies into the fabric and
+structure of civilization, so that it mimics the most massively
+redundent information, DNA. every cell of every living thing carries
+the full blueprint of how to make a copy of itself.  And the DNA of
+any one creature contains most of the code required to build most
+other creatures on the planet.  The only hope for Mankind to preserve
+itself and it's civilization is mimic that kind of redundancy as much
+as possible.  This means in effect that a global (or solar)
+distributed civilization is actually made of up of hundreds of
+thousands or even millions of copies of itself, each one capable of
+rebuilding all of civilization on its own.
 
-This is the goal of the Sisyphean task that we have given
-ourselves because it can never be complete, it can only be
-repeated over and over until our species finally is wiped
-out by natural forces that is humanity's ability to recover
-from.  That end is inevitable, the only question is how long
-we can forstall it and, as I like to say, keep the
-experiment going a little longer still.
+This is the goal of the Sisyphean task that we have given ourselves
+because it can never be complete, it can only be repeated over and
+over until our species finally is wiped out by natural forces that is
+humanity's ability to recover from.  That end is inevitable, the only
+question is how long we can forstall it and, as I like to say, keep
+the experiment going a little longer still.
 
 * Minimum Viablility
 
-Once we have accepted the wisdom of the LOCKSS model and
-that this provides Mankind with it's best chance of
-maximizing it's long term survival and sustained level of
-properity we face the rather daunting task of determining
-what is the minimum size in terms of population, technology,
-tools and skills required that constitute a sustainable
-technological civilization.  That would give us a baseline
-for how many instances of civilization that we can
-theoretically maintain given any given population.
+Once we have accepted the wisdom of the LOCKSS model and that this
+provides Mankind with it's best chance of maximizing it's long term
+survival and sustained level of properity we face the rather daunting
+task of determining what is the minimum size in terms of population,
+technology, tools and skills required that constitute a sustainable
+technological civilization.  That would give us a baseline for how
+many instances of civilization that we can theoretically maintain
+given any given population.
 
-As anyone who is familiar with maintaining computer backups,
-it is not as simple a creating a bunch of copies.  There are
-many different statistical models that can be used to
-determine how many copies can be maintained in such a way
-that X number of copies can be destroyed and still
-reconstitute anything that has been lost.  This means that
-we don't have to use the same brute force duplication that
-DNA employess to achieve the same results.  But before we
-can get into any of that we need to determine a number of
-minimal viability parameters that taken together constitute
-a sustainable civilization.
+As anyone who is familiar with maintaining computer backups, it is not
+as simple a creating a bunch of copies.  There are many different
+statistical models that can be used to determine how many copies can
+be maintained in such a way that X number of copies can be destroyed
+and still reconstitute anything that has been lost.  This means that
+we don't have to use the same brute force duplication that DNA
+employess to achieve the same results.  But before we can get into any
+of that we need to determine a number of minimal viability parameters
+that taken together constitute a sustainable civilization.
 
-In one respect, this could be the single most important
-reason to go to Mars other than Mars as a backup of Earth.
-It may be impossible to know for certain what real minimum
-viability is unless we can build and demonstrate it in the
-real world, or at least on another, real world like Mars.
+In one respect, this could be the single most important reason to go
+to Mars other than Mars as a backup of Earth.  It may be impossible to
+know for certain what real minimum viability is unless we can build
+and demonstrate it in the real world, or at least on another, real
+world like Mars.
 
-Civilization is such a large, dynamic, complex system that it
-is like the weather, the number of variables and
-interactions is beyond meaningful prediction beyond very
-short term, and crude projects that even then are not always
-accurate.
+Civilization is such a large, dynamic, complex system that it is like
+the weather, the number of variables and interactions is beyond
+meaningful prediction beyond very short term, and crude projects that
+even then are not always accurate.
 
 * Generative, Antifragile  Systems 
 
@@ -288,20 +263,19 @@ accurate.
 
 
 It is almost too easy to fall into the trap of thinking of
-civilization as a static system that can be designed by
-committee and contracted out to the lowest bidder.
+civilization as a static system that can be designed by committee and
+contracted out to the lowest bidder.
 
-Rather than provide a blue print such as zoning regulations
-and other blunt hacks we need to develop models that
-generate complexity from a small number of variables.
+Rather than provide a blue print such as zoning regulations and other
+blunt hacks we need to develop models that generate complexity from a
+small number of variables.
 
-The success of a generated model will be determined by a
-number of factors, but especially if the resulting structure
-is /antifragile/.
+The success of a generated model will be determined by a number of
+factors, but especially if the resulting structure is /antifragile/.
 
 We will argue that all antifragile systems are the result of
-generative design -- but the converse is not true, not all
-generated designs are antifragile.
+generative design -- but the converse is not true, not all generated
+designs are antifragile.
 
 
 Saw this in a slide for software engineering in the cloud:
@@ -327,14 +301,14 @@ only one part of a very complex geography and climate that shapes the
 local ecology of where we live.  The planet can be broken down into
 different biomes, or ecoregions which have different combination of
 temperatures, soil types, minerals, elevations, rainfall, groundwater,
-hydrology, sunlight and wind.  This determines the ecology that
-is specifically adapted to local conditions which include different
+hydrology, sunlight and wind.  This determines the ecology that is
+specifically adapted to local conditions which include different
 species of plants, animals, insects, marine life and micro organisms
 that each occupy a unique niche and role in what constitutes the local
 ecology for a biome.  For humans to survive in a given biome, we must
 live within the carrying capacity of that ecological system and
 understand the niche that we are responsible for in keeping the system
-functioning and in balance.  
+functioning and in balance.
 
 Human history, from the first great civilizations in Mesopotamia, the
 Indus Valley, Eastern Asia and the Americas are littered with the
@@ -544,127 +518,118 @@ Our goal with the Poultry & Egg Submodel is to determine:
 *** Market Cost of Eggs
 * Now What?
 
-Now that we have a model in place -- as I write this, we
-/don't/ have /anything/ in place, but this isn't a linear
-process now, is it -- we have to work out how to build the
-infrastructure needed to make the model possible.
+Now that we have a model in place -- as I write this, we /don't/ have
+/anything/ in place, but this isn't a linear process now, is it -- we
+have to work out how to build the infrastructure needed to make the
+model possible.
 
-It all comes down to being able to move and manipulate /its/
-and /bits/.  But the distinction between the physical world
-of bits and information is not what it seems at first.  In
-the early days of the Internet, people called the Internet
-/cyberspace/ which was virtual, and /meatspace/.  It felt,
-at the time that cyberspace was separate and apart from the
-world where we physically live in.  But this distinction is
-less and less common today.  In the early days most people
-have never used a computer in their lives, and those who
-used computers that were networked together were even more
-rare.  People on the networks tended to be spread very
-thinly (though not evenly) across the planet.  It was rare
-to have physically met more than one or two people in any
-online forum like Usenet or on a Listserv Mailing List.  In
-many cases you might talk to someone daily for years without
-ever knowing what they looked like, where they live or how
-old they were.
+It all comes down to being able to move and manipulate /its/ and
+/bits/.  But the distinction between the physical world of bits and
+information is not what it seems at first.  In the early days of the
+Internet, people called the Internet /cyberspace/ which was virtual,
+and /meatspace/.  It felt, at the time that cyberspace was separate
+and apart from the world where we physically live in.  But this
+distinction is less and less common today.  In the early days most
+people have never used a computer in their lives, and those who used
+computers that were networked together were even more rare.  People on
+the networks tended to be spread very thinly (though not evenly)
+across the planet.  It was rare to have physically met more than one
+or two people in any online forum like Usenet or on a Listserv Mailing
+List.  In many cases you might talk to someone daily for years without
+ever knowing what they looked like, where they live or how old they
+were.
 
 
  [  *IMAGE of No One Knows You Are A Dog Cartoon* ]
 
-The physical world is only possible because of the flow of
-information that it generates -- and if you follow the
-turtles all the way down you end up observing quantum events
-which are in essense, binary yes or no choices.  Thankfully
-we don't have to worry too much about managing information
-at the quantum event scales.  But even at human scales,
-managing information can not be separated from matter,
-energy, time and space.  The more our information systems
-reflect this reality the more effective they become. *Huh?*
+The physical world is only possible because of the flow of information
+that it generates -- and if you follow the turtles all the way down
+you end up observing quantum events which are in essense, binary yes
+or no choices.  Thankfully we don't have to worry too much about
+managing information at the quantum event scales.  But even at human
+scales, managing information can not be separated from matter, energy,
+time and space.  The more our information systems reflect this reality
+the more effective they become. *Huh?*
 
-So what we need first is to establish what the atomic unit
-will be for the system.  Ultimately, all information is
-binary -- but that's not terribly useful, it's like
-measuring a cup of rice by how many atoms are in the cup.
+So what we need first is to establish what the atomic unit will be for
+the system.  Ultimately, all information is binary -- but that's not
+terribly useful, it's like measuring a cup of rice by how many atoms
+are in the cup.
 
-We propose that the system be reduced to two things,
-/assertions/ and /messages/.  An assertion is a statement
-that we can encode as a triple made up of a property list:
+We propose that the system be reduced to two things, /assertions/ and
+/messages/.  An assertion is a statement that we can encode as a
+triple made up of a property list:
 
 #+begin_src emacs-lisp
   (("name" . "Chasui") ("relationship" . "age") ("years old" . 6))
 #+end_src
 
-Assertations are then collected into mutually exclusive
-records which are messages.  It's important to think of
-all records to belonging to the set "messages".  Messages
-are created, sent, and recieved.  The only difference
-between a text message and a archival copy of a book in a
-library is that the copy is a message that has been cached
-without a specified recipient.  But at some point either
-someone will retrieve that copy and it will have been
-recieved or it will be destroyed or lost to world.  This is
-the fate of all information.
+Assertations are then collected into mutually exclusive records which
+are messages.  It's important to think of all records to belonging to
+the set "messages".  Messages are created, sent, and recieved.  The
+only difference between a text message and a archival copy of a book
+in a library is that the copy is a message that has been cached
+without a specified recipient.  But at some point either someone will
+retrieve that copy and it will have been recieved or it will be
+destroyed or lost to world.  This is the fate of all information.
 
-That information is dependent on it's surrounding context.
-It is context, which is made up of shared knowledge between
-the sender and recipient which determines if the recipient
-sees the message as something meaningful or is just noise.
-That doesn't mean it is noise, it may in fact be structured,
-but still undecipherable -- so that for all intents and
-purposes it can be treated as noise. 
+That information is dependent on it's surrounding context.  It is
+context, which is made up of shared knowledge between the sender and
+recipient which determines if the recipient sees the message as
+something meaningful or is just noise.  That doesn't mean it is noise,
+it may in fact be structured, but still undecipherable -- so that for
+all intents and purposes it can be treated as noise.
 
-Information theory, as formulated by Claude Shannon and
-others does not include any concept of meaning.  
+Information theory, as formulated by Claude Shannon and others does
+not include any concept of meaning.
 
-So our definition of a message is very broad and includes
-everything from a the temperature reading on a guage in a
-steam room, to an obtuse poem by Wallace Stevens, to a nasty
-comment on YouTube to a birthday card from your grandmother.
+So our definition of a message is very broad and includes everything
+from a the temperature reading on a guage in a steam room, to an
+obtuse poem by Wallace Stevens, to a nasty comment on YouTube to a
+birthday card from your grandmother.
 
-As we mentioned before, messages, in our model are (in
-theory) mututally exclusive, and contain a complete thought,
-or represent a fact or concept, in that they can not be
-divided into two or more messages.  We can then combine
-multiple messages into linear and hierarchical or even
-rhizomatically linked groups to become other things.
+As we mentioned before, messages, in our model are (in theory)
+mututally exclusive, and contain a complete thought, or represent a
+fact or concept, in that they can not be divided into two or more
+messages.  We can then combine multiple messages into linear and
+hierarchical or even rhizomatically linked groups to become other
+things.
 
-Essentially everything is a /holon/ -- which can be seen in
-one context as a self-contained whole, and from another
-perspective as a part of a larger whole.
+Essentially everything is a /holon/ -- which can be seen in one
+context as a self-contained whole, and from another perspective as a
+part of a larger whole.
 
-The message then is a holon and the holon becomes our atomic
-unit.  A message is made up of one or more assertions,
-statements or facts.  An assertion is not a message, but
-must be encoded in a message.  An assertion that is made,
-stored or sent and then eventually recieved or read is a
-message.  An assertion can be encoded in an infinite number
+The message then is a holon and the holon becomes our atomic unit.  A
+message is made up of one or more assertions, statements or facts.  An
+assertion is not a message, but must be encoded in a message.  An
+assertion that is made, stored or sent and then eventually recieved or
+read is a message.  An assertion can be encoded in an infinite number
 of messages.
 
-We now have the basic building blocks from which the
-civilization that we have made in our model can be built.
+We now have the basic building blocks from which the civilization that
+we have made in our model can be built.
 
-Messages and assertations need to checked to see if they are
-free of errors when being sent and then if the assertations
-in the message are reliable -- in otherwords true.
+Messages and assertations need to checked to see if they are free of
+errors when being sent and then if the assertations in the message are
+reliable -- in otherwords true.
 
 ** corruption aka noise aka errors aka 4%t08^w*4e;j
 
-When you transmit something you are making a copy.  That
-copy may only need to go from a USB drive to a Hard disk on
-a laptop, or could be something like the Rosetta Stone which
-has managed to send a message in multiple languages -- one
-of which, Egyptian hieroglyphics that had been forgotten 
-when it was unearthed.  The Rosetta Stone succeeded in
-sending it's message because it was encoded in multiple
-languages, by added redundancy that made it more resiliant.
+When you transmit something you are making a copy.  That copy may only
+need to go from a USB drive to a Hard disk on a laptop, or could be
+something like the Rosetta Stone which has managed to send a message
+in multiple languages -- one of which, Egyptian hieroglyphics that had
+been forgotten when it was unearthed.  The Rosetta Stone succeeded in
+sending it's message because it was encoded in multiple languages, by
+added redundancy that made it more resiliant.
 
-Everything from Morse Code to TCP/IP is all about dealing
-with transmission/copying errors and correcting for noise,
-for corruption.
+Everything from Morse Code to TCP/IP is all about dealing with
+transmission/copying errors and correcting for noise, for corruption.
 
 ** truth
 
 #+begin_quote
-There are trivial truths & there are great truths.  The opposite of a
+There are trivial truths and there are great truths.  The opposite of a
 trivial truth is plainly false.  The opposite of a great truth is also
 true.
 
@@ -699,198 +664,177 @@ The truth is more important now than ever.
 
 
 
-In many cases, truth somewhat falls short of being absolute.
-This is the reality of complexity -- complex systems can be
-described but nevery absolutely defined.
+In many cases, truth somewhat falls short of being absolute.  This is
+the reality of complexity -- complex systems can be described but
+nevery absolutely defined.
 
-In Science there are Laws and Theorys -- a Law is absolute,
-a theory has not been yet proved to be absolute.  There are
-many theories which are accepted as being as absolute, such
-as the theory of evolution -- but because evolution can
-never be defined as cleaning as say the Second Law of
-Thermodynamics, it will most certainly be a Law in the
+In Science there are Laws and Theorys -- a Law is absolute, a theory
+has not been yet proved to be absolute.  There are many theories which
+are accepted as being as absolute, such as the theory of evolution --
+but because evolution can never be defined as cleaning as say the
+Second Law of Thermodynamics, it will most certainly be a Law in the
 forseeable future.
 
-It is important that we make the effort to determine what
-assertions are more true than others because this is the
-only rational means of making decsions.  The act of taking
-in information about what has changed around you,
-determining what happened, if it is true or not before
-making a decision is how we survive from minute to minute.
-This is the process used to cross a busy street, to eat or
-not to eat the leftover curry that has been sitting
-forgotten in the fridge since the New Years party and has a
-number of things growing in it which may or may not be
-classifiable as a new form of intelligent life.
+It is important that we make the effort to determine what assertions
+are more true than others because this is the only rational means of
+making decsions.  The act of taking in information about what has
+changed around you, determining what happened, if it is true or not
+before making a decision is how we survive from minute to minute.
+This is the process used to cross a busy street, to eat or not to eat
+the leftover curry that has been sitting forgotten in the fridge since
+the New Years party and has a number of things growing in it which may
+or may not be classifiable as a new form of intelligent life.
 
-So determining how reliable, or the confidence level we have
-that any particular assertation is true is important.  In
-fact that it is the single most important thing we do as
-living creatures.  This needs to be at the very core of all
-information system -- and sure enough, in human cognitive
-processes, pattern recognition is made using a hierarchical
-system of pattern matchers -- when a pattern matcher looks
-at something, it tells the matchers in the levels above and
-below  if there is a match, or not a match and how certain
-it is of it being a match or not.
+So determining how reliable, or the confidence level we have that any
+particular assertation is true is important.  In fact that it is the
+single most important thing we do as living creatures.  This needs to
+be at the very core of all information system -- and sure enough, in
+human cognitive processes, pattern recognition is made using a
+hierarchical system of pattern matchers -- when a pattern matcher
+looks at something, it tells the matchers in the levels above and
+below if there is a match, or not a match and how certain it is of it
+being a match or not.
 
-Determining if something is true is broken down into two
-parts, /authentication/ and /authorization/, which most
-people associate with logging into online services, or
-withdrawing money from a bank account.  The principle is the
-same.  When you log into your account on Google, you must
-present the system with a means of identifying and
-demonstrating that you are who you
-say you are /authtication/, and then Google checks this
-information against it's records and grants or denies you
-access to your account.
+Determining if something is true is broken down into two parts,
+/authentication/ and /authorization/, which most people associate with
+logging into online services, or withdrawing money from a bank
+account.  The principle is the same.  When you log into your account
+on Google, you must present the system with a means of identifying and
+demonstrating that you are who you say you are /authtication/, and
+then Google checks this information against it's records and grants or
+denies you access to your account.
 
-By applying this process to any assertation we can determine
-the level of confidence that we have in the truth of an
-assertation or not.
+By applying this process to any assertation we can determine the level
+of confidence that we have in the truth of an assertation or not.
 
-Before we go any further we need to address another thorny
-issue -- trust.  
+Before we go any further we need to address another thorny issue --
+trust.
 
-Because authentication and authorization is difficult, in
-almost all mechanisms that determine truth, we use /trusted/
-agents that used to authenticate and authorize on our
-behalf.  We use banks as go-betweens to transfer funds that
-are trusted by both parties.  Trusted libaries are used to
-compile databases of /authorities/ which are used to match
-authors to works that claim to be their works.  Wikipedia is
-quickly becoming one such /authority/.  In Western
-democracies, a Free Press' role is to provide information
-about what a government is using that is independent of what
-the government is telling people.  This only works when the
-Press is trusted.  When people are bombarded by propaganda,
-and dissinformation by governments or groups who are trying
-to promote an ideology or gain power, that trust breaks down
-and the role of the Press is undermined.  This is what has
-happened in the United States over a twenty year period by
-one political party which lead to the election of Donald
-Trump.  Once that trust has been destroyed, it creates a
-vacuum that threatens to destroy functional societies.  This
-is a poor strategy because the groups who undermine such
-trust historically don't stay in power for very long,
-because without a foundation of information that can be
-trusted they have lost all of their credibility and have
-hurt themselves as much as their opponents.
+Because authentication and authorization is difficult, in almost all
+mechanisms that determine truth, we use /trusted/ agents that used to
+authenticate and authorize on our behalf.  We use banks as go-betweens
+to transfer funds that are trusted by both parties.  Trusted libaries
+are used to compile databases of /authorities/ which are used to match
+authors to works that claim to be their works.  Wikipedia is quickly
+becoming one such /authority/.  In Western democracies, a Free Press'
+role is to provide information about what a government is using that
+is independent of what the government is telling people.  This only
+works when the Press is trusted.  When people are bombarded by
+propaganda, and dissinformation by governments or groups who are
+trying to promote an ideology or gain power, that trust breaks down
+and the role of the Press is undermined.  This is what has happened in
+the United States over a twenty year period by one political party
+which lead to the election of Donald Trump.  Once that trust has been
+destroyed, it creates a vacuum that threatens to destroy functional
+societies.  This is a poor strategy because the groups who undermine
+such trust historically don't stay in power for very long, because
+without a foundation of information that can be trusted they have lost
+all of their credibility and have hurt themselves as much as their
+opponents.
 
-This is why it's so interesting that BitCoin and its great
-innovation the /blockchain/ was invented during this period
-of large scale disinformation and errosion of trust in the
-truth of assertations that have been made.
+This is why it's so interesting that BitCoin and its great innovation
+the /blockchain/ was invented during this period of large scale
+disinformation and errosion of trust in the truth of assertations that
+have been made.
 
 
              *SECTION On How BitCoin Works*
 
 
-The blockchain provides us with a means of establishing
-certainty between two parties even if neither party trust
-the other.   
+The blockchain provides us with a means of establishing certainty
+between two parties even if neither party trust the other.
 
-A bitcoin transaction is trusted because of the blockchain
-mechanism is not only trusted but transparent and
-verifiable.  This moves trust outside of human institutions
-which are, by definition, fallible.  There is now an
-enormous amount of effort being made in a large number of
-fields and industries to apply blockchain concepts to things
-which have nothing to do with currencies, finance or
-transactions.
+A bitcoin transaction is trusted because of the blockchain mechanism
+is not only trusted but transparent and verifiable.  This moves trust
+outside of human institutions which are, by definition, fallible.
+There is now an enormous amount of effort being made in a large number
+of fields and industries to apply blockchain concepts to things which
+have nothing to do with currencies, finance or transactions.
 
 
 ** Provenance
 
 [[https://en.wikipedia.org/wiki/Provenance][Provenance]] - Wikipedia
 
-Provenance is the chain or chronoology of the ownership,
-custody or location of a historical object.
+Provenance is the chain or chronoology of the ownership, custody or
+location of a historical object.
 
-The idea is simple -- and it works like the /duck/
-principle.  If something looks like a duck, quaks like a
-duck and walks like a duck, it's probably a duck.
+The idea is simple -- and it works like the /duck/ principle.  If
+something looks like a duck, quaks like a duck and walks like a duck,
+it's probably a duck.
 
-The provenance of an object is something where a number of
-true statements have been collected that provide evidence
-that the object is what it is claimed to be.
+The provenance of an object is something where a number of true
+statements have been collected that provide evidence that the object
+is what it is claimed to be.
 
-The more verifible facts that can be collected about the
-object the greater the confidence that one has in it's
-authenticity.
+The more verifible facts that can be collected about the object the
+greater the confidence that one has in it's authenticity.
 
-This principle applies to many things in our lives, and is
-the primary method used to authenticate anything.  This is
-why it is common to demand that two forms of identification
-that includes a picture be produced to authenticate that a
-person is who they claim to be.
+This principle applies to many things in our lives, and is the primary
+method used to authenticate anything.  This is why it is common to
+demand that two forms of identification that includes a picture be
+produced to authenticate that a person is who they claim to be.
 
-Two factor authorization is a fairly new wrinkle but is no
-different -- the more verifible or trusted facts that can be
-presented, the higher the confidence level is that what is
-being claimed is true.
+Two factor authorization is a fairly new wrinkle but is no different
+-- the more verifible or trusted facts that can be presented, the
+higher the confidence level is that what is being claimed is true.
 
 ** Primary Sources
 
   - [[https://en.wikipedia.org/wiki/Primary_source][Primary source]] | Wikipedia
 
-Verification (authentication) of assertations can be made
-using a combination of /primary/ and /secondary/ sources.
+Verification (authentication) of assertations can be made using a
+combination of /primary/ and /secondary/ sources.
 
 
 #+begin_quote
-A history, whose author draws conclusions from other than
-primary sources or secondary sources actually based on
-primary sources, is by definition fiction and not history at
-all.
+A history, whose author draws conclusions from other than primary
+sources or secondary sources actually based on primary sources, is by
+definition fiction and not history at all.
 
 — Kameron Searle
 #+end_quote
 
 
-For verification of a name primary documents such as birth,
-death, baptism, marriage and death certificates, offical
-identification credentials such as passports and drivers
-licences may be used.
+For verification of a name primary documents such as birth, death,
+baptism, marriage and death certificates, offical identification
+credentials such as passports and drivers licences may be used.
 
 -------
 
 
-Determining if something is a primary or secondary source
-is largely determined by context.
+Determining if something is a primary or secondary source is largely
+determined by context.
 
-A review of a book treats the text of the book as a primary
-source for the review, but the reviewed book in turn might
-be based on any number of other primary sources which are
-then based on other primary sources etc.
+A review of a book treats the text of the book as a primary source for
+the review, but the reviewed book in turn might be based on any number
+of other primary sources which are then based on other primary sources
+etc.
 
-For example, William Caxton used Sir Thomas Mallory's text
-as a primary source for /Le Morte Dr Arthur/ which was as
-much Caxton's work as it was Malory.  Malory's orginal text
-which survives in the Winchester Manuscript was in turn
-based on a great many different older texts by other, mostly
-unknown authors.
+For example, William Caxton used Sir Thomas Mallory's text as a
+primary source for /Le Morte Dr Arthur/ which was as much Caxton's
+work as it was Malory.  Malory's orginal text which survives in the
+Winchester Manuscript was in turn based on a great many different
+older texts by other, mostly unknown authors.
 
-In other words, as in so many other things, it's turtles all
-the way down.
+In other words, as in so many other things, it's turtles all the way
+down.
 
 *** Wikipedia's Prime Directive
 
  - [[https://en.wikipedia.org/wiki/Wikipedia:No_original_research#Primary.2C_secondary_and_tertiary_sources][Wikipedia:No original research]] | Wikipedia
 
-Just as the crew of the Starship Enterprise was constrained
-by the [[https://en.wikipedia.org/wiki/Prime_Directive][Prime Directive]], Wikipedia is constrained by three
-core principles that apply to all content: a) [[https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view][Neutral point
-of view]] of view, b) [[https://en.wikipedia.org/wiki/Wikipedia:No_original_research#Primary.2C_secondary_and_tertiary_sources][No original research]] and c)
-[[https://en.wikipedia.org/wiki/Wikipedia:Verifiability][Verifiability]].
+Just as the crew of the Starship Enterprise was constrained by the
+[[https://en.wikipedia.org/wiki/Prime_Directive][Prime Directive]], Wikipedia is constrained by three core principles
+that apply to all content: a) [[https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view][Neutral point of view]] of view, b) [[https://en.wikipedia.org/wiki/Wikipedia:No_original_research#Primary.2C_secondary_and_tertiary_sources][No
+original research]] and c) [[https://en.wikipedia.org/wiki/Wikipedia:Verifiability][Verifiability]].
 
-We are concerned here with /no original research/ which
-disallows direct use of primary source material in articles.
+We are concerned here with /no original research/ which disallows
+direct use of primary source material in articles.
 
-Their argument is that Wikipedia is an encyplopedia that is
-a summary of existing thought, not original thoughts or
-ideas. So all assertations in Wikipedia must point to
-secondary sources.
+Their argument is that Wikipedia is an encyplopedia that is a summary
+of existing thought, not original thoughts or ideas. So all
+assertations in Wikipedia must point to secondary sources.
 
 #+begin_quote
 In general, the most reliable sources are:
@@ -903,10 +847,9 @@ In general, the most reliable sources are:
   - Mainstream newspapers
 #+end_quote 
 
-This is how encyclopedias are supposed to be compiled.  But
-these limitations, that are critical to establishing an
-encyclopedia as being authoritative, does not always apply
-to other types of works.
+This is how encyclopedias are supposed to be compiled.  But these
+limitations, that are critical to establishing an encyclopedia as
+being authoritative, does not always apply to other types of works.
 
 Authority records are one of them.
 
@@ -916,36 +859,32 @@ Authority records are one of them.
 
   - [[https://en.wikipedia.org/wiki/Chain_of_custody][Chain of custody]] | Wikipedia
 
-A chain of custody can be part of establishing provenance or
-any evidence that is used to establish the veracity of an
-assertation.
+A chain of custody can be part of establishing provenance or any
+evidence that is used to establish the veracity of an assertation.
 
 #+begin_quote
-Establishing chain of custody is made of both a
-chronological and logical procedure, especially important
-when the evidence consists of fungible goods. In practice,
-this most often applies to illegal drugs which have been
-seized by law enforcement personnel. In such cases, the
-defendant at times disclaims any knowledge of possession of
-the controlled substance in question. Accordingly, the chain
-of custody documentation and testimony is presented by the
-prosecution to establish that the substance in evidence was
-in fact in the possession of the defendant.
+Establishing chain of custody is made of both a chronological and
+logical procedure, especially important when the evidence consists of
+fungible goods. In practice, this most often applies to illegal drugs
+which have been seized by law enforcement personnel. In such cases,
+the defendant at times disclaims any knowledge of possession of the
+controlled substance in question. Accordingly, the chain of custody
+documentation and testimony is presented by the prosecution to
+establish that the substance in evidence was in fact in the possession
+of the defendant.
 
   - [[https://en.wikipedia.org/wiki/Chain_of_custody][Chain of custody]] | Wikipedia
 #+end_quote
 
-Once a fact has been established -- with assertations that
-are linked to primary sources we need to established these
-as a chain of custody.  Links to sources must include a hash
-of the source and recorded in the blockchain -- this ensure
-that records have not been tampered with.
+Once a fact has been established -- with assertations that are linked
+to primary sources we need to established these as a chain of custody.
+Links to sources must include a hash of the source and recorded in the
+blockchain -- this ensure that records have not been tampered with.
 
-Actually it doesn't do that -- it is still possible to
-tamper with records, but to do so means going back and
-changing so many things that are dependent on each other
-that the cost of tampering exceeds the benefit or resrouces
-availble to do so.
+Actually it doesn't do that -- it is still possible to tamper with
+records, but to do so means going back and changing so many things
+that are dependent on each other that the cost of tampering exceeds
+the benefit or resrouces availble to do so.
 
 ** LOC Authority Records
 
@@ -953,42 +892,38 @@ availble to do so.
 
 
 #+begin_quote
-Traditionally, the purpose of authority control has been to
-bring consistency to library catalogs.  The authority
-control process is directed at the access points contained
-in catalog records i.e., names, titles, and subjects.  It
-ensures that these access points are unique and consistent
-in in content and form, and provides a network of linkages
-for variant and related headings in the catalog.  Reference
-to an authority file maintains consistency in controlled
-access points, while cross-references and the adjacent
-display of identical access points have been the primary
-methods used to accomplish the neccessary linkages in the
-catalog.
+Traditionally, the purpose of authority control has been to bring
+consistency to library catalogs.  The authority control process is
+directed at the access points contained in catalog records i.e.,
+names, titles, and subjects.  It ensures that these access points are
+unique and consistent in in content and form, and provides a network
+of linkages for variant and related headings in the catalog.
+Reference to an authority file maintains consistency in controlled
+access points, while cross-references and the adjacent display of
+identical access points have been the primary methods used to
+accomplish the neccessary linkages in the catalog.
 
 -- [[bib:vellucci:2011metadata][Metadata and authority control]] | Sherry Vellucci
 #+end_quote
 
 
 #+begin_quote
-The MARC 21 Format for Authority Data is designed to be a
-carrier for information concerning the authorized forms of
-names, subjects, and subject subdivisions to be used in
-constructing access points in MARC records, the forms of
-these names, subjects, and subject subdivisions that should
-be used as references to the authorized forms, and the
-interrelationships among these forms. A name may be used as
-a main, added, series, or subject access entry.
+The MARC 21 Format for Authority Data is designed to be a carrier for
+information concerning the authorized forms of names, subjects, and
+subject subdivisions to be used in constructing access points in MARC
+records, the forms of these names, subjects, and subject subdivisions
+that should be used as references to the authorized forms, and the
+interrelationships among these forms. A name may be used as a main,
+added, series, or subject access entry.
 
 -- [[https://www.loc.gov/marc/authority/adintro.html][MARC 21 Format for Authority Data: Introduction]] | MARC, LOC
 #+end_quote
 
-The now ubiquitious hypertext link that makes the Web, the
-Web links everything to everything, but does not have any
-mechanism to determine what links relate to what persons,
-places, works or concepts.  An authority record is used to
-distinquish Apple (fruit) from Apple (Consumer Electronics
-Company)[fn:3]
+The now ubiquitious hypertext link that makes the Web, the Web links
+everything to everything, but does not have any mechanism to determine
+what links relate to what persons, places, works or concepts.  An
+authority record is used to distinquish Apple (fruit) from Apple
+(Consumer Electronics Company)[fn:3]
 
 ** Facts
 
@@ -1196,112 +1131,102 @@ what is excepted as facts and our belief in them.
 
 
 #+begin_quote
-Alice laughed. ‘There’s no use trying,’ she said: ‘one can’t
-believe impossible things.’
+Alice laughed. ‘There’s no use trying,’ she said: ‘one can’t believe
+impossible things.’
 
-‘I daresay you haven’t had much practice,’ said the
-Queen. ‘When I was your age, I always did it for
-half-an-hour a day. Why, sometimes I’ve believed as many as
-six impossible things before breakfast.”
+‘I daresay you haven’t had much practice,’ said the Queen. ‘When I was
+your age, I always did it for half-an-hour a day. Why, sometimes I’ve
+believed as many as six impossible things before breakfast.”
 
 ― Lewis Carroll
 #+end_quote
 
-If you don't, at any given time of the day, hold in your
-head any number of contradictory, foolish, incorrect,
-dangerous and even down right impossible things then you are
-not human. 
+If you don't, at any given time of the day, hold in your head any
+number of contradictory, foolish, incorrect, dangerous and even down
+right impossible things then you are not human.
 
-It's all we can do, to take in sensory information and
-construct a model of what's going on outside our heads that
-doesn't get us killed.  That in itself is a remarkable
-achievement.  Human cognition is a messy business and we
-might as well accept that the best we can do is work around
-it those limitations, for our own sake and well as others.
+It's all we can do, to take in sensory information and construct a
+model of what's going on outside our heads that doesn't get us killed.
+That in itself is a remarkable achievement.  Human cognition is a
+messy business and we might as well accept that the best we can do is
+work around it those limitations, for our own sake and well as others.
 
-This does not give us licence to believe anything that pops
-into our heads.  Our survival as individuals and as a species
-depends on us getting it right more often than we get it
-wrong.  As soon as you willfully decide to believe in things
-which are empirically and obviously not true you start
-sliding down a water park ride with no water at the bottom
-to break your fall.
+This does not give us licence to believe anything that pops into our
+heads.  Our survival as individuals and as a species depends on us
+getting it right more often than we get it wrong.  As soon as you
+willfully decide to believe in things which are empirically and
+obviously not true you start sliding down a water park ride with no
+water at the bottom to break your fall.
 
-Belief does not make a thing real or true.  But the further
-beliefs that contradict objective empirical reality, the
-more disfunctional we become as individuals and societies.
+Belief does not make a thing real or true.  But the further beliefs
+that contradict objective empirical reality, the more disfunctional we
+become as individuals and societies.
 
-What constitutes empircal reality is relative to the
-empirical evidence we have at any given time. Beliefs that
-are patently wrong today were at one time the best guess
-that the brightest people at the time could come up with.
+What constitutes empircal reality is relative to the empirical
+evidence we have at any given time. Beliefs that are patently wrong
+today were at one time the best guess that the brightest people at the
+time could come up with.
 
-The earth was at the center of the universe, and then the
-solar system, and then of course it wasn't.  It's not that
-before Copernicus that the Sun actually revolved around the
-earth, but for all practical purposes, to the people who
-believed it, it was.  But once Copernicus improved the model
-of the world to better fit what was observed, it became
-true, until it wasn't and Galileo came along with his bloody
-telescopes that upset the Roman Catholic Church so much that
-he was not officially forgiven until the 20th century.
+The earth was at the center of the universe, and then the solar
+system, and then of course it wasn't.  It's not that before Copernicus
+that the Sun actually revolved around the earth, but for all practical
+purposes, to the people who believed it, it was.  But once Copernicus
+improved the model of the world to better fit what was observed, it
+became true, until it wasn't and Galileo came along with his bloody
+telescopes that upset the Roman Catholic Church so much that he was
+not officially forgiven until the 20th century.
 
-You do the best to create a model of the world and how it
-works with what you have at hand.  It's perfectly fine to
-base beliefs and make descions based on those models.  But
-once that model has been replaced with a better model, then
-hanging on to those older beliefs is not sane and lowers
-your chance of survival.
+You do the best to create a model of the world and how it works with
+what you have at hand.  It's perfectly fine to base beliefs and make
+descions based on those models.  But once that model has been replaced
+with a better model, then hanging on to those older beliefs is not
+sane and lowers your chance of survival.
 
-An outmoded belief that is being kept around is an ideoology
--- ideologies often start off as perfectly good models of
-the world.  But ideologies attempt to freeze a model and
-insist that it can not be improved or altered.  At this
-point, as one would say in a version control system, that
-the main branch had been forked and over time became
-increasingly out of sync with the main branch.
+An outmoded belief that is being kept around is an ideoology --
+ideologies often start off as perfectly good models of the world.  But
+ideologies attempt to freeze a model and insist that it can not be
+improved or altered.  At this point, as one would say in a version
+control system, that the main branch had been forked and over time
+became increasingly out of sync with the main branch.
 
-We as individuals and as societies are constantly telling
-ourselves, our children and our neighbors all sorts of
-nonsense.  Newborn babies are delivered by storks, an
-archetypal minor diety comes into your bedroom in your sleep
-and replaces a fallen tooth with hard currency.[fn:4]
+We as individuals and as societies are constantly telling ourselves,
+our children and our neighbors all sorts of nonsense.  Newborn babies
+are delivered by storks, an archetypal minor diety comes into your
+bedroom in your sleep and replaces a fallen tooth with hard
+currency.[fn:4]
 
-If someone hears voices or believes that they are talking to
-a giant rabbit named Harvey is seen as evidence of a mental
-break with reality.  But going to a large building and
-praying to something that you have been told exists but
-hasn't left any material evidence of it's existence is
-considered perfectly sane.  But only if you don't act on
-those beliefs in similar ways that xxxxx acted when he
-talked to Harvey.  We are expected to pay lip service to our
-beliefs, but acting on them is another thing.
+If someone hears voices or believes that they are talking to a giant
+rabbit named Harvey is seen as evidence of a mental break with
+reality.  But going to a large building and praying to something that
+you have been told exists but hasn't left any material evidence of
+it's existence is considered perfectly sane.  But only if you don't
+act on those beliefs in similar ways that xxxxx acted when he talked
+to Harvey.  We are expected to pay lip service to our beliefs, but
+acting on them is another thing.
 
-These beliefs are vanquished as one grows up, but other
-preposterous beliefs are only reinforced, the world was
-created in 6 days less than ten thousand years ago.  A flood
-covered the entire planet for xx days, to a height of xxx
-feet, but there is no explanation for where the water came
-from or where it went afterwords.  And all species of
-animals that exist today survived the flood in a wooden boat
-that wouldn't even rate as a small cruise liner today.  The
-animals that didn't make it onto the boat, dinosaurs and
-the like, perished.  Beliefs like these are expected to be
-believed literally, though people are not expected to
-actually live as if these things actually occured because
-they would die.
+These beliefs are vanquished as one grows up, but other preposterous
+beliefs are only reinforced, the world was created in 6 days less than
+ten thousand years ago.  A flood covered the entire planet for xx
+days, to a height of xxx feet, but there is no explanation for where
+the water came from or where it went afterwords.  And all species of
+animals that exist today survived the flood in a wooden boat that
+wouldn't even rate as a small cruise liner today.  The animals that
+didn't make it onto the boat, dinosaurs and the like, perished.
+Beliefs like these are expected to be believed literally, though
+people are not expected to actually live as if these things actually
+occured because they would die.
 
-Then there are lesser beliefs that persist though they have
-long been debunked.  Eating carrots gives you 20/20
-eyesight, reading in poor lightings damages your eyesight,
+Then there are lesser beliefs that persist though they have long been
+debunked.  Eating carrots gives you 20/20 eyesight, reading in poor
+lightings damages your eyesight,
 
 and pretty much anything good that people believe about
 Donald Trump.
 
 
---- I remember reading a book on UFOs in the 1970's that had
-a wonderful comment to the effect, that "the interior of all
-alien space craft looked like the interior of a '57 Buick"
+--- I remember reading a book on UFOs in the 1970's that had a
+wonderful comment to the effect, that "the interior of all alien space
+craft looked like the interior of a '57 Buick"
 
 
 ** Importance
@@ -1395,35 +1320,32 @@ The assertion spew:
 
 [fn:5] See: [[https://en.wikipedia.org/wiki/Paul_is_dead][Paul is dead]] | Wikipedia.  There is also the opposite case
 where people throughout history have claimed to be Kings and Popes who
-had previously died.  Coming back from the dead was actually a
-fairly common claim, which puts Biblical claims into an interesting
-context when people of later ages were told of the resurrection of
-Jesus as being a singular event, when in fact at least through
-medieval times, such a claim barely raised an eyebrow...  Today, such
-claims still are made in the guise of popular fiction and culture
-which are dim echos of common beliefs held to be true in past ages.
+had previously died.  Coming back from the dead was actually a fairly
+common claim, which puts Biblical claims into an interesting context
+when people of later ages were told of the resurrection of Jesus as
+being a singular event, when in fact at least through medieval times,
+such a claim barely raised an eyebrow...  Today, such claims still are
+made in the guise of popular fiction and culture which are dim echos
+of common beliefs held to be true in past ages.
 
-[fn:4]  Which would become difficult if everyone used
-bitcoins.  It /would/ make for a very interesting blockchain.
+[fn:4]  Which would become difficult if everyone used bitcoins.  It
+/would/ make for a very interesting blockchain.
 
-[fn:3] In the late 20th Century, [[https://en.wikipedia.org/wiki/Apple_Inc.][Apple Inc.]] shifted from a
-company producing general purpose computers to a consumer
-lifestyle electronics manufacturer.  Some products are still
-protected by a [[https://en.wikipedia.org/wiki/Glamour_(presentation)#History][glamour]] (in the original sense of the word)
-and protective /wards/ (copyright) that gives them the
-appearance of being computers.
+[fn:3] In the late 20th Century, [[https://en.wikipedia.org/wiki/Apple_Inc.][Apple Inc.]] shifted from a company
+producing general purpose computers to a consumer lifestyle
+electronics manufacturer.  Some products are still protected by a
+[[https://en.wikipedia.org/wiki/Glamour_(presentation)#History][glamour]] (in the original sense of the word) and protective /wards/
+(copyright) that gives them the appearance of being computers.
 
 [fn:2] It's interesting to contrast the colloquial use of
-"Wack-a-mole" to denote a repititious and futile task with
-the the ancient concept of a Sisyphean task.  Sisyhus
-repeated his labour endlessly, it was a closed loop that not
-only provided no closure, but no progress either.
-Wack-a-mole does have a closure -- if you /wack/ enough
-moles you get a reward, but only after a long, repititious
-and pointless excercise.
+"Wack-a-mole" to denote a repititious and futile task with the the
+ancient concept of a Sisyphean task.  Sisyhus repeated his labour
+endlessly, it was a closed loop that not only provided no closure, but
+no progress either.  Wack-a-mole does have a closure -- if you /wack/
+enough moles you get a reward, but only after a long, repititious and
+pointless excercise.
 
-[fn:1] Not to be confused with the trademarked LOCKSS which
-is a company set up to get Universities to make and maintain
-all of the copies while keeping often unjustified copyright
-claims, and the exorbitant fees charged by the hoardering
-companies safe.
+[fn:1] Not to be confused with the trademarked LOCKSS which is a
+company set up to get Universities to make and maintain all of the
+copies while keeping often unjustified copyright claims, and the
+exorbitant fees charged by the hoardering companies safe.
