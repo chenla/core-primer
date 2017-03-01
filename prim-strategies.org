@@ -1268,10 +1268,11 @@ appear as either true or false according to the context that it was
 observed in.  In this way a fnord encompasses all /possible/ universes
 -- the possible part is important, which makes it a subset of all
 universes, because it requires a causal chain.  Causality is the only
-real thing that limits a fnord.  And establishing causal chains is
-what the fnord-chain does in a way that doesn't require trusted
-third-parties as authorities.  The fnord-chain is a rhizomatic mesh of
-casual chains that estabish a sub-set of possible facts and lies.
+real thing that limits a fnord.  And tracing causal chains in a
+fnord-cloud is what the fnord-chain does in a way that doesn't require
+trusted third-parties as authorities.  The fnord-chain is a rhizomatic
+mesh of casual chains that estabish a sub-set of possible facts and
+lies.
 
 ------
 
