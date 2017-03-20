@@ -166,6 +166,7 @@ has always been a bit like [[https://en.wikipedia.org/wiki/Whac-A-Mole][Whack-A-
 pops up elsewhere.[fn:2]
 
 #+CAPTION: Sisypher dwarves by Tomasz Moczek (pl) in Wrocław
+#+ATTR_ORG: width="500px"
 [[./img/strategies/Syzyfki_(Sisyphers)_Wroclaw_dwarf_02.jpg]]
 
 #+begin_comment
@@ -259,6 +260,7 @@ even then are not always accurate.
 
 * Generative, Antifragile  Systems 
 
+#+ATTR_ORG: width="600px"
 [[./img/strategies/antifragile-3-types.png]]
 
 
