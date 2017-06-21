@@ -40,9 +40,9 @@ Primer is not a cookbook or blueprint that is fed into a machine or
 system to create identical copies.
 
 No civilization is static.  Civilizations must constantly dynamically
-iterate to change, even if that change is not perceived as growth,
-simply keeping a civilization from falling into decline and collapse
-is a non-trivial achievement.
+iterate to adapt to change, even if that change is not perceived as
+growth, simply keeping a civilization from falling into decline and
+collapse is a non-trivial achievement.
 
 Even if this Primer is not successful, something like it will need to
 evolve as a mechanism to maintain our present civilization and to
