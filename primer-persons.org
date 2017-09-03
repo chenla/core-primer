@@ -24,7 +24,7 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-* Edward Tufte
+* Edward Tufte (American scholar)
   :PROPERTIES:
   :CUSTOM_ID: Edward_Tufte_(American scholar)
   :Created:  2017-09-03T13:58@Prek Leap (11.642600N-104.919210W)
@@ -42,7 +42,7 @@
   :UF:
   :BTI+:  
   :BT:
-  :RT:
+  :RT: :graphic_design:information_design:data_visualization:
   :END:
 
 ** Scope
@@ -70,7 +70,7 @@ LaTex Templates inspired by his work:
 
 * Oliver Byrne (mathematician)
   :PROPERTIES:
-  :CUSTOM_ID: _()
+  :CUSTOM_ID: Oliver_Byrne_(mathematician)
   :Created:  2017-09-03T14:26@Prek Leap (11.642600N-104.919210W)
   :ID:       2a75b9d8-afee-4619-ae4e-eebe2e581e8b
   :VER:      557695646.786964678
@@ -86,7 +86,7 @@ LaTex Templates inspired by his work:
   :UF:
   :BTI+:  
   :BT:
-  :RT:
+  :RT: Euclid
   :END:
 
 ** Scope
