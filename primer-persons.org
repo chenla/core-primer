@@ -1,0 +1,105 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Persons
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/primer/primer-persons.org
+:Created:   2017-09-03T13:19@Prek Leap (11.642600N-104.919210W)
+:ID:        1e82869f-445f-442d-bd35-fbd438368909
+:VER:       557691632.674110385
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:CJQ1-8277
+:Class:     primer
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Edward Tufte
+  :PROPERTIES:
+  :CUSTOM_ID: Edward_Tufte_(American scholar)
+  :Created:  2017-09-03T13:58@Prek Leap (11.642600N-104.919210W)
+  :ID:       eda72c8c-4db2-4b4d-9bcc-792547efbe8a
+  :VER:      557693985.558215082
+  :GEO:      48P-491193-1287029-15
+  :BXID:     hord:BNY5-7565
+  :Class:    primer
+  :Type:     person
+  :Status:   wip
+  :Licence:  MIT/CC BY-SA 4.0
+  :END:
+
+  :TREE:
+  :UF:
+  :BTI+:  
+  :BT:
+  :RT:
+  :END:
+
+** Scope
+Edward Tufte (American scholar) born March 14, 1942) is an
+American statistician and professor emeritus of political
+science, statistics, and computer science at Yale
+University. He is noted for his writings on information
+design and as a pioneer in the field of data visualization.
+
+** Macro
+
+** Ref
+ - [[https://en.wikipedia.org/wiki/Edward_Tufte][Edward Tufte]] | Wikipedia
+ - [[https://www.edwardtufte.com/tufte/][The Work of Edward Tufte and Graphics Press]]
+ - [[https://www.wired.com/2003/09/ppt2/][PowerPoint Is Evil]] | WIRED
+ - [[https://en.wikipedia.org/wiki/Sparkline][Sparkline]] | Wikipedia
+ - [[https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=000AIr][History of Sparklines]] | Edward Tufte
+
+
+LaTex Templates inspired by his work:
+
+  - [[https://www.sharelatex.com/templates/other/tufte-style-handout][Tufte-Style Handout]] | ShareLaTeX
+  - [[https://github.com/Tufte-LaTeX/tufte-latex][Tufte-LaTeX/tufte-latex]] | Github
+  - [[http://www.latextemplates.com/template/tufte-style-book][Tufte-Style Book]] | LaTex Templates
+
+* Oliver Byrne (mathematician)
+  :PROPERTIES:
+  :CUSTOM_ID: _()
+  :Created:  2017-09-03T14:26@Prek Leap (11.642600N-104.919210W)
+  :ID:       2a75b9d8-afee-4619-ae4e-eebe2e581e8b
+  :VER:      557695646.786964678
+  :GEO:      48P-491193-1287029-15
+  :BXID:     hord:HMW7-4255
+  :Class:    primer
+  :Type:     person
+  :Status:   wip
+  :Licence:  MIT/CC BY-SA 4.0
+  :END:
+
+  :TREE:
+  :UF:
+  :BTI+:  
+  :BT:
+  :RT:
+  :END:
+
+** Scope
+Oliver Byrne (31 July 1810—9 December 1880) was a civil
+engineer and prolific author of works on subjects including
+mathematics, geometry, and engineering. He is best known for
+his 'coloured' book of Euclid's Elements. He was a large
+contributor to Spon's Dictionary of Engineering. Augustus de
+Morgan described him as a minor, rather eccentric British
+mathematician.
+
+** Macro
+
+** Ref
+- [[https://en.wikipedia.org/wiki/Oliver_Byrne_(mathematician)][Oliver Byrne (mathematician)]] | Wikipedia
+ - [[http://www.math.ubc.ca/%7Ecass/Euclid/byrne.html][Byrne's edition of Euclid]] | University of British Columbia
