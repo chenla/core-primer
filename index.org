@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Chenla Primer
+#+TITLE: Chenla Primer | TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -24,6 +24,7 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+* About
 
 #+begin_quote
 The Primer is an encyclopedia of sorts, with descriptive and
@@ -31,8 +32,6 @@ proscriptive articles that document the knowledge, designs and code
 needed to build and maintain a technologically advanced distributed
 civilization for mankind.
 #+end_quote
-
-* Introduction
 
 These documents define how the Primer is structured
 and the rules and guidelines to build it.  They don't
@@ -50,7 +49,7 @@ specfications that the Primer will be built on.
 
 Turtles all the way down indeed....
 
-* Index
+* Table of Contents
 
  - [[./prim-introduction.org][Introduction]]
  - [[./prim-naming-conventions.org][Naming Conventions]] 
