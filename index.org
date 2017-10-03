@@ -52,12 +52,13 @@ Turtles all the way down indeed....
 * Table of Contents
 
  - [[./prim-introduction.org][Introduction]]
- - [[./prim-naming-conventions.org][Naming Conventions]] 
 
+ - Manifesto
+ - Theses
+ - Roadmap For Mankind
 
+ - [[./prim-naming-conventions.org][Naming Conventions]]
  - [[./prim-strategies.org][Strategies for a Distributed Civilization]]
-
-
  - [[./primer-persons.org][Persons]]
  - Places
  - Events 
