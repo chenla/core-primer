@@ -13,6 +13,7 @@
 
 bibliography:../hoard/bib.bib
 
+* About
 :PROPERTIES:
 :CUSTOM_ID: 
 :Name:      /home/deerpig/proj/chenla/primer/index.org
@@ -26,8 +27,6 @@ bibliography:../hoard/bib.bib
 :Status:    wip
 :Licence:   MIT/CC BY-SA 4.0
 :END:
-
-* About
 
 #+begin_quote
 The Primer is an encyclopedia of sorts, with descriptive and
