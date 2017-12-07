@@ -28,6 +28,7 @@ bibliography:../hoard/bib.bib
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
+** Introduction
 
 The Primer is an encyclopedia of sorts, with descriptive and
 proscriptive articles that document the knowledge, designs
@@ -61,5 +62,10 @@ Turtles all the way down indeed....
  - [[./prim-naming-conventions.org][Naming Conventions]]
  - [[./prim-strategies.org][Strategies for a Distributed Civilization]]
  - [[./primer-persons.org][Persons]]
- - Places
- - Events 
+
+ WAPT
+
+ - works
+ - authorities
+ - patterns
+ - terms
