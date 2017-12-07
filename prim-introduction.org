@@ -1,26 +1,34 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: Introduction
+
+#+TITLE: Primer Introduction
 #+STARTUP: showall
-#+PROPERTY: filename
-  :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/primer/prim-introduction.org
-  :Created: 2017-02-11T20:14@Prek Leap (11.642600N-104.919210W)
-  :ID: bf255b4c-6d47-4042-9587-29b9b870cd82
-  :URL:
-  :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
-
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
 #+TOC: headlines 4
+#+PROPERTY: filename
 
-* Introduction: The Book Read At Prime
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:../hoard/bib.bib
+
+* Introduction
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/primer/prim-introduction.org
+:Created:  2017-02-11T20:14@Prek Leap (11.642600N-104.919210W)
+:ID:       bf255b4c-6d47-4042-9587-29b9b870cd82
+:VER:      565921593.625990805
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:NLK1-4772
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** The Book Read At Prime
 
 #+begin_quote
 Primer \Prim"er\, n. [Originally, the book read at prime, the
@@ -70,7 +78,7 @@ otherwise.
   /I think we can find a quote here -- about beginnings/
 
 
-* This is not a love song -- PIL
+** This is not a love song -- PIL
 
 Not a school book, that will be covered the Trivium.
 
@@ -93,7 +101,7 @@ And the beards have all grown longer overnight
    [[https://en.wikipedia.org/wiki/Won%27t_Get_Fooled_Again][Won't Get Fooled Again]] | Wikipedia
 #+end_verse
 
-* Organization
+** Organization
 
  - topicspaces
  - blob tree
@@ -121,12 +129,12 @@ However links in the Primer are layered into a stack:
     - scholia
   - Version Layer
 
-** Composed vs. Generative Links
-** Rulesets
-** Duck Tests
+*** Composed vs. Generative Links
+*** Rulesets
+*** Duck Tests
 
 
-* Maps vs Source
+*** Maps vs Source
 
 This repo is the source code for the Primer -- when it is
 compiled, all of the rule sets and ducktests will be applied
@@ -134,7 +142,7 @@ and cascade and generate an index which can be imported into
 a graph database, and formated articles in a variety of
 formats from plain text, html, LaTex (pdf) etc.
 
-* Navigating a Labryinth
+*** Navigating a Labryinth
 
   - Ariadne's thread
   - Hansel and Gretal's Breadcrumbs
@@ -412,8 +420,8 @@ that is a /paedia/ of
 , authorities and library
 
 
-* Primer (Primarium)
-** Introduction
+** Primer (Primarium)
+*** Introduction
 
 The Primer is the place where you go after you have completed the
 Quadrivium.  It is actually a collection of scopes, a Primer of
@@ -432,8 +440,8 @@ and not smaller than 500.  Below that threshold there won't be enough
 people to specialize in living memory and the community will have to
 fall back to a lower level of complexity...
 
-** Organization
-*** Liberal Arts
+*** Organization
+**** Liberal Arts
 - Formal Sciences
   - Mathematics     ::  
   - Statistics
@@ -454,7 +462,7 @@ fall back to a lower level of complexity...
   - Philosophy      :: 
   - Literature      :: 
 - Anthropology      :: 
-*** Applied Arts
+**** Applied Arts
 - Biological
   - Medicine      :: all existing sub-disciplines
   - Pharma        ::
@@ -508,11 +516,11 @@ fall back to a lower level of complexity...
 - Education
 - Engineering
 - Military
-*** Fine Arts
+**** Fine Arts
 - Music
 - Art
 - Dance
-*** Proscribed Arts
+**** Proscribed Arts
 - Designs         :: plans, cad files, etc.
 - Standards       :: 
 - Best Practices  :: 
