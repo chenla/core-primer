@@ -4,6 +4,16 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:../hoard/bib.bib
+
+* Persons
 :PROPERTIES:
 :CUSTOM_ID: 
 :Name:      /home/deerpig/proj/chenla/primer/primer-persons.org
@@ -17,14 +27,7 @@
 :Status:    wip
 :Licence:   MIT/CC BY-SA 4.0
 :END:
-
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
-
-* Edward Tufte (American scholar)
+** Edward Tufte (American scholar)
   :PROPERTIES:
   :CUSTOM_ID: Edward_Tufte_(American scholar)
   :Created:  2017-09-03T13:58@Prek Leap (11.642600N-104.919210W)
@@ -45,16 +48,16 @@
   :RT: :graphic_design:information_design:data_visualization:
   :END:
 
-** Scope
+*** Scope
 Edward Tufte (American scholar) born March 14, 1942) is an
 American statistician and professor emeritus of political
 science, statistics, and computer science at Yale
 University. He is noted for his writings on information
 design and as a pioneer in the field of data visualization.
 
-** Macro
+*** Macro
 
-** Ref
+*** Ref
  - [[https://en.wikipedia.org/wiki/Edward_Tufte][Edward Tufte]] | Wikipedia
  - [[https://www.edwardtufte.com/tufte/][The Work of Edward Tufte and Graphics Press]]
  - [[https://www.wired.com/2003/09/ppt2/][PowerPoint Is Evil]] | WIRED
@@ -68,7 +71,7 @@ LaTex Templates inspired by his work:
   - [[https://github.com/Tufte-LaTeX/tufte-latex][Tufte-LaTeX/tufte-latex]] | Github
   - [[http://www.latextemplates.com/template/tufte-style-book][Tufte-Style Book]] | LaTex Templates
 
-* Oliver Byrne (mathematician)
+** Oliver Byrne (mathematician)
   :PROPERTIES:
   :CUSTOM_ID: Oliver_Byrne_(mathematician)
   :Created:  2017-09-03T14:26@Prek Leap (11.642600N-104.919210W)
@@ -89,7 +92,7 @@ LaTex Templates inspired by his work:
   :RT: Euclid
   :END:
 
-** Scope
+*** Scope
 Oliver Byrne (31 July 1810—9 December 1880) was a civil
 engineer and prolific author of works on subjects including
 mathematics, geometry, and engineering. He is best known for
@@ -98,7 +101,7 @@ contributor to Spon's Dictionary of Engineering. Augustus de
 Morgan described him as a minor, rather eccentric British
 mathematician.
 
-** Macro
+*** Macro
 
 ** Ref
 - [[https://en.wikipedia.org/wiki/Oliver_Byrne_(mathematician)][Oliver Byrne (mathematician)]] | Wikipedia
