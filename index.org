@@ -28,17 +28,16 @@ bibliography:../hoard/bib.bib
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
-#+begin_quote
-The Primer is an encyclopedia of sorts, with descriptive and
-proscriptive articles that document the knowledge, designs and code
-needed to build and maintain a technologically advanced distributed
-civilization for mankind.
-#+end_quote
 
-These documents define how the Primer is structured
-and the rules and guidelines to build it.  They don't
-consitute the primer itself, which will be a collection of
-topicspaces, articles and threads.
+The Primer is an encyclopedia of sorts, with descriptive and
+proscriptive articles that document the knowledge, designs
+and code needed to build and maintain a technologically
+advanced distributed civilization for mankind.
+
+These documents define how the Primer is structured and the
+rules and guidelines to build it.  They don't consitute the
+primer itself, which will be a collection of topicspaces,
+articles and threads.
 
 To use Wikipedia's nomenclature, these are the the Primer's
 /meta/ pages.  We're calling it Primer for now until we have
