@@ -4,6 +4,13 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
 :PROPERTIES:
 :CUSTOM_ID: 
 :Name:      /home/deerpig/proj/chenla/primer/index.org
@@ -17,12 +24,6 @@
 :Status:    wip
 :Licence:   MIT/CC BY-SA 4.0
 :END:
-
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-TOC-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 * About
 
@@ -49,7 +50,7 @@ specfications that the Primer will be built on.
 
 Turtles all the way down indeed....
 
-* Table of Contents
+** Table of Contents
 
  - [[./prim-introduction.org][Introduction]]
 
