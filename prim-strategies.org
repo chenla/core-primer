@@ -4,6 +4,16 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:../hoard/bib.bib
+
+* Strategies for a Distributed Civilization
 :PROPERTIES:
 :CUSTOM_ID: 
 :Name:      /home/deerpig/proj/chenla/primer/prim-strategies.org
@@ -18,17 +28,11 @@
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+** Introduction
 
 
-* Introduction
-
-
-* Generative, Antifragile  Systems 
+** Generative, Antifragile  Systems 
 
 #+ATTR_ORG: width="600px"
 [[./img/strategies/antifragile-3-types.png]]
@@ -132,7 +136,7 @@ Principles:
    | - fix or recycle everything    | - landfills                     |
 
 
-* The Model
+** The Model
 
 We propose constructing a model that can help us understand
 what some of the key variables are and how they interact in
@@ -146,7 +150,7 @@ rural.  However, in order to be able to factor in that the
 community will try to produce as much of the food they need
 themselves, the model will be more rural than urban.
 
-** Notes
+*** Notes
 
 600 people (village)
 130 households (kh average 4.7)
@@ -169,7 +173,7 @@ can't be done in another way.
 There are no monopolies
 Shops must not be larger than xx
 
-*** Primary Shops
+**** Primary Shops
 
 $4,000 a month salary
 full health (for everyone)
@@ -178,15 +182,15 @@ full health (for everyone)
 
 Average Shop needs to generate $20k a month in external revenue
 
-*** Secondary Shops
+**** Secondary Shops
 
 
-*** Household Production
+**** Household Production
 
 
-*** Barn-Raising
+**** Barn-Raising
 
-** Population
+*** Population
 
 This will be model of a village.  We define a village as
 having a population between 300 and 1,500 people.  
@@ -210,7 +214,7 @@ individuals.
 
 #+end_src
 
-** Household Size
+*** Household Size
 
 The village will be broken into /households/ that may or may
 not represent a single family.
@@ -257,7 +261,7 @@ We expect that changing this number will dramatically effect
 the model in ways we can't predict at present.
 
 
-** Poultry & Egg Sub-Model
+*** Poultry & Egg Sub-Model
 
 This will be spun off into a separate document.
 
@@ -268,29 +272,29 @@ Our goal with the Poultry & Egg Submodel is to determine:
   - how much chicken & eggs the village will export
   - how much revenue and/or barter value this equates to
 
-*** Chicken Egg Consumption
+**** Chicken Egg Consumption
   - eggs consumed per person | week month year
 
-*** Chickens By Breed
-**** Egg Layers
+**** Chickens By Breed
+***** Egg Layers
   - average eggs per year
   - average age of hens when start laying
   - useful laying lifespan
-**** Broilers
-*** Duck Egg Consumption
-*** Egg Mobiles
+***** Broilers
+**** Duck Egg Consumption
+**** Egg Mobiles
   - hens per mobile
   - external inputs -- water, feed, oyster shells
-*** Chicken Tractors
+**** Chicken Tractors
   - broilers per tractor
   - production per year per tractor
-*** Duck Egg Production
-*** Chicken Consumption
+**** Duck Egg Production
+**** Chicken Consumption
 
-*** Captital Costs
-*** Production Costs
-*** Market Cost of Eggs
-* Shop chains
+**** Captital Costs
+**** Production Costs
+**** Market Cost of Eggs
+** Shop chains
 
   - bamboo farm
   - bamboo treatment
@@ -300,7 +304,7 @@ Our goal with the Poultry & Egg Submodel is to determine:
 
 
 
-* Footnotes
+** Footnotes
 
 [fn:2] It's interesting to contrast the colloquial use of
 "Wack-a-mole" to denote a repititious and futile task with the the
