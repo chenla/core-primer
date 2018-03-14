@@ -1,0 +1,138 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Chenla Identity Model TL;DR
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/tldr/identity-model-tldr/identity-model.org
+:Created:   2017-06-16T19:52@Prek Leap (11.642600N-104.919210W)
+:ID:        994f6ce2-eeac-4100-80ab-8315617c2ca2
+:VER:       558409902.429369502
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:AWX6-1373
+:Class:     primer
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+#+begin_quote
+“I am large, I contain multitudes.”
+
+– Walt Whitman
+#+end_quote
+
+
+* TL;DR
+
+Identities are complex.  They are so complex and so deeply part of
+what we are that they are difficult to understand.  We are social
+creatures whether we like it or not.  And identity is only important
+as a means of defining where one ends and another begins.  Other
+people determine our identities, even though at first blush this seems
+wrong.  But without other people there is no identity, there is only
+the self which doesn't require a name, or relationships to other
+people or obligations or rights or much of anything.  Without other
+people there is only the distinction between you and the outside world
+and how you determine what is trying to kill you, or will help you
+survive.  You don't need an identity for that, only a concept of self
+as being distinct from the rest of the world, and perhaps some drive
+for self preservation.
+
+Since we have different relationships to different people and
+different groups of people, and belong to different places within the
+social order depending on what your relationship is, we do not have a
+single identity.  Before the Internet, this was normal.  We all play
+different roles, that have different requirments that wall off
+different apsects of our lives depending on what we are doing and who
+we are doing it with.  If you had a role as college student, that role
+was separate from the role as daughter or sister, or church member, or
+as the drummer in a punk band, or as party animal on holiday during
+spring break.  We had a reasonable expectation that what happened in
+Vegas stayed in Vegas.  And that unless you diliberately told people
+about something you did in a different role, you had a reasonable
+expectation that most people wouldn't find out about it, unless you
+did something really stupid that transcended role boundries.  Your
+school could probably find out what you did on Spring Break, but it
+would require more than a little effort and resources to do so.  And a
+decade later when you had become a manager in a software company, it
+wouldn't even occur to most people to try to find out what you had
+done as an undergrad.  In fact our first reaction would be, that it's
+none of the schools business what happened so long as it didn't impact
+your role as employee.
+
+The Internet changed all of that, not because people changed, but the
+fences between roles no longer existed, because those who built social
+media and other services never bothered to develop an identity model
+that reflected how people really live.  What you did on Spring Break
+was all lumped together with your Physics homework, and what music you
+listen to, and who you are dating, and the school and your parents and
+the state all see it as if it were part of each of those separate roles.
+
+Social Media forces us to live in a [[https://en.wikipedia.org/wiki/Panopticon][Panopticon]] that has no privacy, no
+walls no boundries.  This is a perverse way to live.  It has stripped
+us of our freedom, our dignity and any way of living a normal life.
+
+
+ Identity
+    |
+    `---> Persona
+             |
+             `---> Role
+                    |
+                    `---> Instance
+
+* Identity
+
+Is a concept, which, like a work in FRBR only exists as a concept.  In
+practical terms, an identity will be the sum total of the personas and
+roles that a person has.
+
+We can create a container for all of this to be collected into a
+single place but perhaps we couldn't.  Perhaps an identity is really
+just a concept.  If there is a root place where all of the parts of
+your identity are collected, it becomes centralized and subject to the
+$5 Wrench Law.  Just knowing that it exists compromises you.
+
+* Persona 
+
+A persona is actually little more than a namespace which is used by
+all of the roles that are played in that namespace.  A persona has a
+backstory, reputation, property, assets etc.
+
+It's actually difficult to live multiple personas at the same time
+without leaking between them.  This is not a normal thing to do and if
+you try to do it, it is very difficult.  But this doesn't mean that
+personas are not important becuase our lives are never lived out in a
+single persona, but broken into different personas that correspond to
+different stages of your life.
+
+* Role
+
+Every person's life is made up of many different, overlapping roles
+that we play.  Each role has a different set of relationships with
+other people, and groups.  A role may have different responsibilities
+and obligations, different access right and privileges.  Roles often
+overlap with each other often we do things in more than one role at
+the same time.  Roles can be owned by an organization, such as a job
+title, which the person playing is just one of many.  A CEO of a large
+company had other persons play that role in the past and others who
+will play it in the future.  While you are in that role there are a
+wide range of things that come with it, from access, power, money and
+time constraints which will be lost when you are no longer playing
+that role.
+
+* Instance
+
+An instance of a role (I don't like the name) is typically something
+like a bank account, email address, account on social media, a drivers
+licence, an educational degree or certification, citizenship etc.

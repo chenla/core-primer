@@ -1,0 +1,42 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Scopic Press TL;DR
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/tldr/scopic-press-tldr/scopic-press.org
+
+:VER:       558411199.037521583
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:URB2-7417
+:Class:     primer
+:Type:      work
+:Status:    stub
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-stub-CC79A7.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* TL;DR
+
+   provenance : all versions
+
+   literate reproducible colophon : 
+   everything is released with source, and toolchain for
+   building - including the OS, languages, fonts etc.
+
+   everything is indexed and digitally signed
+ 
+   not all form factors are created equal
+  
+   source, content, surrounding & supporting context
+
+   lod, pov, roc
+
+   released under free and open licences

@@ -1,0 +1,106 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Horcrux TL;DR
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/tldr/horcrux-tldr/horcrux.org
+:Created:   2017-06-09T18:30@Prek Leap (11.642600N-104.919210W)
+:ID:        e21ec867-69a4-4314-bde5-a240fcc56dab
+:VER:       558409655.939027830
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:LSW2-1258
+:Class:     primer
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* TL;DR
+
+A horcrux is a shard of an identity.  Identities are
+concepts that represent a collection of content and roles
+that are externalized content, memory and cognition
+belonging to a person, collective body, or process.
+
+Horcruxes are made up of multiple hoards that have been
+woven together to create a single semi-autonomous directed
+graph that constitute a /world model/.
+
+Horcruxes are distributed -- with different copies of the
+same horcrux doing different things in different places.
+From time to time these are synchronized by saving the delta
+between horcrux instances into a new instance and then
+deleting the older instance.
+
+ - standard  :: tspace > bramble > bur
+ - deploy    :: container > horcrux
+ - transport :: hoard | epub.d/3
+
+* Potter Quotes
+
+#+begin_quote
+A Horcrux is the word used for an object in which a person
+has concealed part of their soul... Well, you split your
+soul, you see, and hide part of it in an object outside the
+body. Then, even if one's body is attacked or destroyed, one
+cannot die, for part of the soul remains earthbound and
+undamaged.
+
+-- Harry Potter (which book/page ?)
+#+end_quote
+
+#+begin_quote
+As a fragment of soul, a Horcrux seemed to retain the
+identity of its creator at the time of its creation.  
+Voldemort, for instance, created a Horcrux during
+what was presumably his fifth year at Hogwarts. As such, the
+fragment of soul contained within the Horcrux took on the
+appearance and mannerisms of Voldemort as he had been when
+he was 16 years old.
+
+Horcruxes were said to be essentially the opposite of a
+person. Where a person's container, their body, could be
+destroyed without any damage to their soul, the fragment of
+soul contained inside a Horcrux was dependent on the
+container for its existence. If the container was destroyed,
+so to would be the fragment of soul within it.
+
+-- [[http://harrypotter.wikia.com/wiki/Horcrux][Horcrux]] | Harry Potter Wiki
+#+end_quote
+
+#+begin_quote
+The word Horcrux may be also composed by "hor" or "hore"
+(old English/middle-English) meaning "dirt, evil, impurity"
+and "crux" or "crúce" (old English) meaning "container,
+pitcher(ful), jar" which would therefore mean "container of
+evil".
+
+Alternatively, Horcrux can be seen as a combination of a
+contraction of "horrible" and "crux" (meaning "the Cross" in
+Latin). In this sense, a Horcrux would be something that a
+follower of the Cross would regard as horrible.
+
+On the other hand, 'hor' could be derived from the French
+'hors', which means 'outside'. Thus, 'Horcrux' would mean
+something that is 'outside' of what is permitted under the
+'Cross'.
+
+-- [[http://harrypotter.wikia.com/wiki/Horcrux][Horcrux]] | Harry Potter Wiki
+#+end_quote
+
+#+begin_comment
+Image Credit
+
+Horcrux images from: [[http://evil.wikia.com/wiki/Horcruxes][Horcruxes]] | The Evil Wiki
+[[http://harrypotter.wikia.com/wiki/Salazar_Slytherin%27s_Locket][Slytherin's Locket]] | Harry Potter Wiki 
+#+end_comment

@@ -1,0 +1,145 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Chenla TL:DR (meta)
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/tldr/tldr-tldr/tldr-tldr.org
+:Created:   2017-09-11T21:18@Prek Leap (11.642600N-104.919210W)
+:ID:        8d9b228b-3fa8-4d22-9008-77265138b57b
+:VER:       558411603.701338683
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:QEO5-3233
+:Class:     primer
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Introduction
+
+This is the TL;DR for Chenla TL;DRs.
+
+* Cover Note
+
+Chenla TL;DRs are cautonary gateways.  And like the second
+law of thermodynamics, they are one-way processes, you can't
+unstir a rabbit hole, once you have entered.  A TL;DR is the
+entrance to a rabbit hole which helps you decide if you wish
+to tumble down into or not.  An option poor Alice was never
+afforded.
+
+* Acknowledgements
+
+I would like to thank the support and facilties provided by
+/Prek Leap National College of Agriculture/.  Without their
+help this work would not be possible.
+
+I would also like to posthumously thank Hume Henderson for
+our flapper-era Alice from the Roaring Twenties.  In the
+day, his Alice, with her Louise Brooks bobbed hair, would
+have been considered stylish indeed.  You can see all of his
+illustrations for /Alice's Adventures in Wonderland/ at the
+University of Florida Digital Collections:
+     
+    http://ufdc.ufl.edu/UF00076830/00001
+
+
+* TL;DR
+
+The term /TL;DR/ (ca 2013) is a common Internet
+abbrieviation for "too long; didn't read" to explain that
+the author did not read the entire text referenced because
+it was too long.  But it has also come to mean a summary to
+provide context for an post or article for those who don't
+intend to read the article refered to.  It is sometimes
+inferred that the refered article is not only too long but
+needlessly too long and that a summary provides sufficient
+information so that there is no need to read the referenced
+item.
+
+It's an interesting concept, because it is simular to, but
+not the same as the older established terms "executive
+summary", "synopsis" or occasionally "scope note" which are
+themselves all slightly different as well.
+
+We have appropriated the term as a term for /Chenla TL;DRs/
+which provide a jumping off point for understanding an idea,
+work, proposal, design or process and then providing
+doorways (links) that allow the reader to dig deeper into
+the subject, or not.  A TL;DR is meant to stand on its own,
+as a brief definition, introduction or summary, but they are
+also meant to entice readers to explore further.
+
+In a very real sense -- the Chenla Institute's primary
+activity is creating entrances to a myriad of rhizomatic
+rabbit holes that taken together comprise the knowledge to
+build and maintain a distributed technological civilization.
+
+Chenla TL;DRs will be publish digitally as they are
+completed and collected together into an annual volume that
+will be printed as a physical dead tree book which acts as
+both snapshot and physical artifact.
+
+Any TL;DR may or may not be followed up by and expanded as
+in-depth proposals, narratives, research, code, designs
+etc. but the TL;DR will remain as the portal to all other
+work.
+
+* Fuctional Requirements 
+
+
+*stubs* that frame an idea or project that provide enough
+information to get the base idea as well as enough to
+information to get started and learn more.
+
+*nested* - any part of a TL;DR may fork as an independent
+TL;DR at some time in the future.  For exmple, this section
+is (at this stage) a preface, but it will be expanded and
+released as it's own TL;DR in the future.
+
+*overlap* -- TL;DRs are /not/ meant to be mutually
+exclusive, they embrace contradiction, duality and
+complexity so are more /messy/ than /cannonical/.
+Cannonical references and works will be defined using other
+mechanisms -- further down different rabbit holes.
+
+*immutable* - each TL;DR has its own immutable namespace so
+that the TL;DR as a concept is immutable, but the
+expressions, manifestations and instances of the TL;DR are
+mutable over time.  The reader will always be able to find
+the latest version of a TL;DR via this immutable namespace.
+
+* Alice Falling
+
+
+              [  image of alice falling ]
+
+#+begin_quote
+Either the well was very deep, or she fell very slowly, for
+she had plenty of time as she went down to look about her,
+and to wonder what was going to happen next.  First, she
+tried to look down and make out what she was coming to, but
+it was too dark to see anything: then she looked at the
+sides of the well, and noticed that they were filled with
+cupboards and book-shelves: here and there she saw maps and
+pictures hung upon pegs. She took down a jar from one of
+the shelves as she passed...
+
+-- Lewis Carrol, Alice's Adventures in Wonderland
+#+end_quote
+
+
+
+
+
+
+
