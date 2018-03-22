@@ -28,25 +28,78 @@ bibliography:../hoard/bib.bib
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
+** Succession Model
 
-The idea here is that the primer will use patterns from APPL
-to put together larger generative structures that a
-civilization is built on.  The primer deals in principles,
-standards, best practices etc.
+This works the same as in [[https://en.wikipedia.org/wiki/Ecological_succession][ecological succession]] but for
+civilization:
 
-You can't really use patterns directly -- that might be one
-reason that APL hasn't been as useful for the design and
-construction of buildings because it assumed all this other
-knowledge that wasn't made explicit.  There are ways of
-applying patterns in a cold climate, another for applying
-the same patterns in the tropics and another in artificial
-habitats in space or hostile environments like Mars.
+  - terrestrial 
+    - nomadic hunter-gather
+    - semi-nomadic
+    - sedantary 
+      - agricultural -> villages and towns
+      - industrial   -> cities and states
+      - info-network 
+      - machine-cog  -> machine-cognition controlling machines
+  - extra-terrestrial
+    - nomadic -> exploritory  -> robotic then human
+    - sedantary
+      - stations
+      - colonies
+      - solar civilizations 
+  - extra-solar
+   
+layers of the primer will provide generative grammars for
+each layer as well as all of the knowledge needed to build
+that stage and lay the groundwork for the next stage.
 
-Next, Patterns, in themsevles, are not generative -- that's
-what I hope the Primer can provide -- generative structures
-for building a civilization.  That is a /very/ hard problem.
+The primer is focused on expressions of civilization rather
+than manifestions or instances.
 
-----
+In this respect, the primer is prescriptive more than
+descriptive.
+
+The primer will include specific recomendations for
+standards -- weights and measures, standard things like
+screw and bolt thread specifications, guages of wire etc.
+
+It will provide keystone designs for things like electrical
+sockets, hinges, electric motors.
+
+It will provide keystone designs for processes and keystones
+for building them for different succession layers.
+
+---
+
+
+*** Terms
+
+- succession stage --
+- keystone designs -- reference designs 
+
+** Primer Core
+
+Since each stage is culmulative, and most things in the
+primer are, well, primitives -- there are structures at all
+stages -- but there will be different knowledge and keystone
+designs for each stage, each building on the other beneath
+it.
+
+** Reversbility
+
+When possible everything in the primer should at least try
+to be capable of gracefully degrading, so that if there is a
+problem that knocks you back to a previous stage, you are
+not screwed.
+
+If this is designed into the system from day one, then some
+interesting things become possible -- we can provide
+keystone designs which can be upgraded years or decades
+later.
+
+    Let's use a washing machine as an example.
+
+** Survival
 
 In a larger sense the primer should be structured like a
 reverse onion, that starts off with nothing except pictures
@@ -68,18 +121,52 @@ but will provide benifits early on that we didn't have the
 first time around.  The idea of germs, bacteria, viruses
 etc. and sanitation.  We can introduce anesthesia and
 techniques for choking or restarting a heart and
-resipiration very early.
+respiration very early.
 
 Are you on a planet with pressurized atmosphere oxygen?
 
-Do you have water, food, fire, shelter.  Is something
-hunting you?
+If yes:
 
-Then basics of language, then written language
+   Do you have water, food, fire, shelter.  Is something
+   hunting you?
 
+   Then clothes, preserving food, and a bunch of things that
+   will create enough surplus time and safety to be able to
+   master languages etc.
 
-** Survival
+   Then basics of language, then written language
 
+   From there layers will progressively build up a
+   technological civilization from a neo-18th century
+   beginning with tools and basic mechanical machines --
+   then the jump to electricity, electronics and eventually
+   space travel.
+
+If no:
+
+   Then you are likely in a disfunctional technological
+   civilization and there are easier ways of rebuilding a
+   civilization through reclamation and recycling materials
+   and other resources.
+
+** Building a Civilization
+
+The idea here is that the primer will use patterns from APPL
+to put together larger generative structures that a
+civilization is built on.  The primer deals in principles,
+standards, best practices etc.
+
+You can't really use patterns directly -- that might be one
+reason that APL hasn't been as useful for the design and
+construction of buildings because it assumed all this other
+knowledge that wasn't made explicit.  There are ways of
+applying patterns in a cold climate, another for applying
+the same patterns in the tropics and another in artificial
+habitats in space or hostile environments like Mars.
+
+Next, Patterns, in themselves, are not generative -- that's
+what I hope the Primer can provide -- generative structures
+for building a civilization.  That is a /very/ hard problem.
 
 
 
