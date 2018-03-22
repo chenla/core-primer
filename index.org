@@ -85,7 +85,7 @@ stages -- but there will be different knowledge and keystone
 designs for each stage, each building on the other beneath
 it.
 
-** Reversbility
+** Reversbility -- upgradability & degradability
 
 When possible everything in the primer should at least try
 to be capable of gracefully degrading, so that if there is a
@@ -97,7 +97,30 @@ interesting things become possible -- we can provide
 keystone designs which can be upgraded years or decades
 later.
 
-    Let's use a washing machine as an example.
+    Let's use a washing machine as an example. An agitating
+    clothes washer can be build that will work mechanically,
+    with any power source from using water or even a biycle
+    as well as an electrical motor.  Controls for the
+    washing machine can be mechanical, or electronic.  You
+    could also create an API and a network interface and
+    install sensors in the washing machine so that the
+    machine could me controlled remotely via software or
+    machine-cog.  Since washing machines can have used to be
+    built that lasted decades with little or no maintenance,
+    there is no reason why we can't have design where you
+    can upgrade a machine for electricity then electronics
+    and then network controllable.  And this should then
+    work in reverse.  If the network is down, it should work
+    electronically, if the electronics are down it should
+    work mechnically with electricity, if electricity is
+    down you should be able to reconnect the belt to a
+    mechanical power source.
+
+Such designs are not as easy to build as designs that are
+built for a single succession stage -- but because a washing
+machine, if well designed and built, should easily last a
+half century, then it makes sense to take the extra effort
+to make it both upgradable and degradable
 
 ** Survival
 
