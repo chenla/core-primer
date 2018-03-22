@@ -28,12 +28,86 @@ bibliography:../hoard/bib.bib
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
-** Introduction
 
-The Primer is an encyclopedia of sorts, with descriptive and
-proscriptive articles that document the knowledge, designs
-and code needed to build and maintain a technologically
-advanced distributed civilization for mankind.
+The idea here is that the primer will use patterns from APPL
+to put together larger generative structures that a
+civilization is built on.  The primer deals in principles,
+standards, best practices etc.
+
+You can't really use patterns directly -- that might be one
+reason that APL hasn't been as useful for the design and
+construction of buildings because it assumed all this other
+knowledge that wasn't made explicit.  There are ways of
+applying patterns in a cold climate, another for applying
+the same patterns in the tropics and another in artificial
+habitats in space or hostile environments like Mars.
+
+Next, Patterns, in themsevles, are not generative -- that's
+what I hope the Primer can provide -- generative structures
+for building a civilization.  That is a /very/ hard problem.
+
+----
+
+In a larger sense the primer should be structured like a
+reverse onion, that starts off with nothing except pictures
+which determine where you are and what your situation is.
+
+Each layer will branch -- if you can demonstrate that you
+have the cognitive skills and knowledge to unlock the next
+layer -- it will unlock.
+
+A pre-industrial level of technology should not unlock
+knowledge that can destroy it unless it demonstrates it can
+handle it responsibly.  This will also ensure that people
+master layers that they need to understand before they can
+understand the deeper layers.  The cool thing is that
+because we are writing this after mankind has gone through
+the messy process of learning and mastering it all the first
+place we can build something that will not only be faster,
+but will provide benifits early on that we didn't have the
+first time around.  The idea of germs, bacteria, viruses
+etc. and sanitation.  We can introduce anesthesia and
+techniques for choking or restarting a heart and
+resipiration very early.
+
+Are you on a planet with pressurized atmosphere oxygen?
+
+Do you have water, food, fire, shelter.  Is something
+hunting you?
+
+Then basics of language, then written language
+
+
+** Survival
+
+
+
+
+
+** Origins
+This is the primer for building origin stories, not an
+actual origin story -- those will go into a Hoard.
+**** References
+
+ - [[https://www.quantamagazine.org/scientist-questions-the-link-between-oxygen-and-cambrian-animal-evolution-20180321/][Complex Animals Led to More Oxygen, Says Maverick
+   Theory]] | Quanta
+
+ - Butterfield, N. J. (2017). Oxygen, animals and aquatic
+   bioturbation: an updated account. Geobiology, 16(1),
+   3–16. http://dx.doi.org/10.1111/gbi.122
+** Education
+This is the primer for building an educational system, not
+actual study programs -- those will go into a Hoard.
+** Science
+** Tools
+** Machines
+** Structures
+** Energy
+** Systems
+** Agriculture
+** Culture
+** Commerce
+** x. Meta
 
 These documents define how the Primer is structured and the
 rules and guidelines to build it.  They don't consitute the
@@ -51,7 +125,7 @@ specfications that the Primer will be built on.
 
 Turtles all the way down indeed....
 
-** Table of Contents
+**** Table of Contents
 
  - [[./prim-introduction.org][Introduction]]
 
