@@ -34,7 +34,7 @@ easily create a chain reaction that could result in regional and even
 global collapse.
 
 The Primer is a catch-all for all information required to build and
-maintain a distributed scopic civilization.  So it is not a single
+maintain a distributed scopic civilization.  It is not a single
 work that would be published as a single or even multiple volume work,
 but a library of descriptive and proscriptive narratives,
 specifications, code, semantic rulesets, designs, images, audio,
@@ -66,10 +66,6 @@ evolve as a mechanism to maintain our present civilization and to
 survive catastrophes both natural and man-made that could disrupt the
 delicate balance that exists now and send us spiraling into an abyss
 which way may not be able to recover from.
-
-In this sense, the Primer should be considered to be of vital
-strategic importance to everyone from individuals to nation-states.
-
 
 --- 
 
