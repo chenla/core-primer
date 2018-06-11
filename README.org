@@ -69,3 +69,10 @@ which way may not be able to recover from.
 
 In this sense, the Primer should be considered to be of vital
 strategic importance to everyone from individuals to nation-states.
+
+
+--- 
+
+*NOTE*: The primary repo is @ [[http://git.chenla.org/hoard/primer]] 
+Please submit pull requests and issues there.  A read
+only-mirror is maintained @ [[https://github.com/chenla/primer]]
